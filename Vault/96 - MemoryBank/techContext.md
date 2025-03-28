@@ -62,7 +62,9 @@
    - Local storage based
    - Markdown files only
    - Plain text assets
-   - File naming limitations
+   - File naming limitations:
+     - No spaces in filenames
+     - Use hyphens (-) or underscores (_) instead
    - Support for embedded images (maps, character art)
 
 2. **Compatibility**

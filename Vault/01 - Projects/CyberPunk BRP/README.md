@@ -24,6 +24,11 @@ CyberPunk BRP/
     └── Images/
 ```
 
+## Naming Conventions
+- Filenames should not contain spaces
+- Use hyphens (-) or underscores (_) as separators
+- Example: `character-sheet.md` or `npc_template.md`
+
 ## Getting Started
 1. Review the [[Core Rules]] for BRP system adaptations
 2. Check [[Setting Overview]] for world background
