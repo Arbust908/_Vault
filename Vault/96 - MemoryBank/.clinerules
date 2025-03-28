@@ -1,0 +1,96 @@
+# Cline Rules
+
+## Project Patterns
+1. **Folder Naming**
+   - Use numerical prefixes (00-99)
+   - Clear, descriptive names
+   - Consistent capitalization
+   - No special characters
+
+2. **File Organization**
+   - Placeholder.md in empty folders
+   - Templates in Meta/Templates
+   - CSS in Meta/Preloaded Classes
+   - Memory Bank in dedicated folder
+
+3. **Template Usage**
+   - Daily templates for different needs
+   - Unique template for general notes
+   - Consistent YAML frontmatter
+   - Standard sections
+
+## User Preferences
+1. **Structure**
+   - Maintain numerical ordering
+   - Keep folders focused
+   - Use clear hierarchies
+   - Include placeholders
+
+2. **Documentation**
+   - Comprehensive memory bank
+   - Clear file purposes
+   - Consistent formatting
+   - Regular updates
+
+3. **CSS Implementation**
+   - Notebook-style classes
+   - General tweaks
+   - Clean, maintainable code
+   - Theme compatibility
+
+## Critical Implementation Paths
+1. **Note Creation**
+   - Use appropriate templates
+   - Follow folder structure
+   - Maintain consistency
+   - Include metadata
+
+2. **CSS Application**
+   - Apply classes appropriately
+   - Test responsiveness
+   - Verify compatibility
+   - Document usage
+
+3. **Memory Bank Updates**
+   - Regular reviews
+   - Complete documentation
+   - Clear progress tracking
+   - Active context maintenance
+
+## Known Challenges
+1. **Template Balance**
+   - Finding right level of structure
+   - Maintaining flexibility
+   - Supporting different use cases
+   - Keeping documentation current
+
+2. **CSS Management**
+   - Theme compatibility
+   - Mobile responsiveness
+   - Performance impact
+   - Maintainability
+
+3. **Structure Evolution**
+   - Scaling with growth
+   - Maintaining organization
+   - Supporting workflows
+   - Preserving clarity
+
+## Tool Usage Patterns
+1. **Templates**
+   - Daily notes for regular capture
+   - Unique template for specific needs
+   - Consistent formatting
+   - Standard sections
+
+2. **CSS Classes**
+   - Notebook styling where appropriate
+   - General tweaks for usability
+   - Clear class naming
+   - Documented usage
+
+3. **Memory Bank**
+   - Regular updates
+   - Complete documentation
+   - Clear progress tracking
+   - Active context maintenance
