@@ -1,4 +1,4 @@
-**UNIVERSAL GAME ENGINE**
+[GAME NAME]
 
 ```
 This product is licensed under the ORC License held in the License of Congress
@@ -25,70 +25,6 @@ illustrations, graphic design, and trade dress from this book for the purposes o
 personal or corporate profit, by photographic, optical, electronic, or other media
 or methods of storage and retrieval, is prohibited.
 ```
-# Credits
-
-```
-Based on the Basic Roleplaying system created by Steve Perrin, Steve Henderson, Warren James, Greg Stafford, Sandy Petersen,
-Ray Turney, Lynn Willis
-```
-```
-Writers
-Jason Durall and Steve Perrin
-```
-```
-Cover Art
-Loïc Muzy
-```
-```
-Artists
-Loïc Muzy, Grzegorz Bobrowski, Giorgio Baroni, Manuel Castanon,
-Charlie Creber, Antonia Doncheva, Shen Fei, Andrey Fetisov, Piotr
-Foksowicz, Matt Forsyth, Ossi Hiekkal, Chris Huth, Tomasz Jedruszek
-Michelle Lockamy, Phu Thieu Mac, Lionel Marty, Loïc Muzy, Simon
-Roy, Dimitar Stoyanov, John Sumrow, Cory Trego-Erdner
-```
-```
-Producer
-Neil Robinson
-```
-```
-Design & Layout
-Adam Szelążek
-```
-```
-Character Sheets
-Dan Zappone
-```
-```
-Additional Credits
-Daria Pilarczyk, Rick Meints, Michael O’Brien, Jeff Richard
-```
-```
-Special Thanks
-Ken St. Andre, William Barton, Bill Dunn, Sam Johnson,
-William Jones, Rodney Leary, Ben Monroe, Mark L. Gambler,
-Gordon Monson, Sarah Newton, Sam Shirley, Mark Morrison,
-Richard Watts
-```
-First American Edition, 2023, Version 1.
-Published in the United States of America by Chaosium Inc.
-3450 Wooddale Court, Ann Arbor, MI 48104
-chaosium.com
-
-BASIC ROLEPLAYING
-UNIVERSAL GAME ENGINE
-Copyright © 2023 by Chaosium Inc. All rights reserved.
-Basic Roleplaying is copyright © 1981, 1983, 1992, 1993, 1995, 1998, 1999,
-2001, 2004, 2008, 2010, 2023 by Chaosium Inc.; all rights reserved.
-
-Basic Roleplaying is the trademark of Chaosium Inc.
-
-Chaosium Inc. and the Chaosium logo are registered trademarks of Chaosium Inc.
-
-2023 ISBN-13: 978-1-56882-470-
-
-Published in April 2023 Printed in Poland
-
 
 ## TABLE OF CONTENTSTABLE OF CONTENTS
 

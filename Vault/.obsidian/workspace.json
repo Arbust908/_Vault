@@ -1,22 +1,215 @@
 {
-  "main": {},
+  "main": {
+    "id": "b46edb3a4759d8d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d378e7e63fa62c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e3c0efcb1ec6db3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/20250330.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250330"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f28492901dd1c2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e8ad70881a86ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12480dc304705369",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6ac83ef6cfa87bf4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "078b47d7d153519a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "eb1014aa93ddc5b7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b12ab3dca66e1f4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fefce8cbfe6cd9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10d029852ab403a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c48e6277078dcdb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7df21fa43fb43d84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "83cf1b8d355e01c2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "340b86e24d4a0a39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d45975edb40a9e6d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
+      "fit:Fit Sync": false,
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-importer:Open Importer": true,
-      "templater-obsidian:Templater": true,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "",
-  "lastOpenFiles": []
+  "active": "0e3c0efcb1ec6db3",
+  "lastOpenFiles": [
+    "06 - Daily/20250330.md"
+  ]
 }
