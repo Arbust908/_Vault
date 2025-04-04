@@ -6,74 +6,68 @@
    - Numerical ordering system in place
    - Placeholder files created
    - Meta section configured
-
+   - `Rules/Characteristics` directory created.
 2. **Templates**
    - Daily note templates functioning
    - Unique note template available
    - Template folder properly configured
-   - Template variables working
-
+   - **CyberPunk Character Template:** Updated with faction support, horizontal layout, rule links, and Templater syntax.
+   - **CyberPunk Equipment Template:** Created by merging Item/War Machine templates, includes conditional sections and Templater syntax.
+   - Old Item/War Machine templates deleted.
 3. **CSS Customization**
    - Notebook CSS classes implemented
    - General tweaks CSS applied
    - Style system functioning
-
 4. **TTRPG Setup**
    - Project structure defined
    - Memory Bank documentation updated
    - Basic organization system established
    - Component relationships mapped
+   - **Initial Content:** Populated 15 War Machine files in Tech folder using the new Equipment template.
 
 ## What's Left to Build
 1. **Game System Implementation**
-   - Character sheet templates
-   - Session log formats
-   - World-building framework
-   - Rules reference system
-   - NPC/faction templates
-
+   - Refine Character/Equipment templates further if needed.
+   - Create/update Faction, Location, Session templates with Templater.
+   - Establish session log formats.
+   - Design world-building framework.
+   - Create actual rule files (e.g., for Characteristics).
 2. **Plugin Setup**
-   - Dice roller configuration
-   - Initiative tracker setup
-   - Dataview queries
-   - Asset management system
-
+   - Configure Templater plugin.
+   - Dice roller configuration.
+   - Initiative tracker setup.
+   - Dataview queries for inventory/character management.
+   - Asset management system refinement.
 3. **Content Creation**
-   - Core rule documentation
-   - Setting background
-   - Starting locations
-   - Basic NPCs and factions
-   - Equipment lists
-
+   - Fill in details for placeholder War Machine files.
+   - Create core rule documentation (linked from templates).
+   - Setting background.
+   - Starting locations.
+   - Basic NPCs and factions using updated templates.
 4. **Workflow Development**
-   - Session planning tools
-   - Character progression tracking
-   - World state management
-   - Asset organization system
+   - Session planning tools.
+   - Character progression tracking.
+   - World state management.
 
 ## Current Status
-- **Phase**: TTRPG Project Setup
-- **Progress**: Initial framework established
-- **Stability**: Foundation ready
-- **Readiness**: Ready for content development
+- **Phase**: TTRPG Template Refinement & Initial Content
+- **Progress**: Core templates (Character, Equipment) updated and enhanced with Templater. Initial tech content populated.
+- **Stability**: Core templates functional, ready for further content and rule definition.
+- **Readiness**: Ready for detailed content creation and rule writing.
 
 ## Known Issues
 1. **Templates**
-   - Need TTRPG-specific templates
-   - Character sheet format to be designed
-   - Session templates to be created
-
+   - Need Faction, Location, Session templates updated/created.
+   - Templater features could be further utilized (e.g., calculations).
 2. **Game Management**
-   - Plugin integration pending
-   - Dice roll syntax to be established
-   - Asset organization to be refined
-
+   - Plugin integration pending (Dice Roller, Initiative, Dataview).
+   - Dice roll syntax to be established.
 3. **Content Structure**
-   - World-building framework needed
-   - Rules organization to be defined
-   - Relationship tracking system required
-
+   - Placeholder War Machine files need detailed content.
+   - Characteristic rule files need to be created.
+   - World-building framework needed.
+   - Relationship tracking system required.
 4. **Previous Template Issues**
-   - Some styles need refinement
-   - Mobile responsiveness to verify
-   - Navigation could be enhanced
+   - Some styles need refinement.
+   - Mobile responsiveness to verify.
+   - Navigation could be enhanced.

@@ -11,6 +11,7 @@
      - Initiative Tracker (for combat)
      - Dataview (for character/inventory management)
      - Kanban (for session planning)
+   - **Templater (for dynamic templates)**
 
 2. **Markdown**
    - Standard Markdown syntax
@@ -19,6 +20,7 @@
    - YAML frontmatter
    - Table support for character sheets
    - Callouts for game mechanics
+   - **Templater syntax (`<% ... %>`) used within templates.**
 
 3. **CSS**
    - Custom classes for styling
@@ -53,9 +55,10 @@
    - CSS snippets activated
    - TTRPG plugin settings:
      - Dice roll syntax
-     - Initiative tracker setup
-     - Dataview queries
-     - Custom CSS for game elements
+   - Initiative tracker setup
+   - Dataview queries
+   - **Templater configuration (if needed)**
+   - Custom CSS for game elements
 
 ## Technical Constraints
 1. **File System**

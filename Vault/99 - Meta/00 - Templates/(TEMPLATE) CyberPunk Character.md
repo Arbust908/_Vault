@@ -2,11 +2,13 @@
 type: character
 category: [PC, NPC] # Choose one
 status: [active, inactive]
-creation_date: {{date}}
-last_modified: {{date}}
+affiliation: "Primary Faction" # New field
+secondary_affiliations: [] # Optional additional factions
+creation_date: <% tp.date.now("YYYY-MM-DD") %>
+last_modified: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
-# {{title}}
+# <% tp.file.title %>
 
 ## Basic Information
 **Real Name**: 
@@ -15,24 +17,33 @@ last_modified: {{date}}
 **Gender**: 
 **Occupation**: 
 
-## Characteristics
-| Attribute    | Value | Bonus |
-|--------------|-------|-------|
-| STR (Strength) |       |       |
-| CON (Constitution) |   |       |
-| SIZ (Size)   |       |       |
-| DEX (Dexterity) |    |       |
-| APP (Appearance) |    |       |
-| INT (Intelligence) |  |       |
-| POW (Power)  |       |       |
-| EDU (Education) |    |       |
+## Faction Relationships
+<%* if (tp.frontmatter.affiliation) { %>
+### <% tp.frontmatter.affiliation %> 
+- **Role**: 
+- **Status**: [Loyal/Questioning/Renegade]
+- **Benefits**: 
+- **Obligations**: 
+<%* } %>
 
-**Hit Points**: 
-**Major Wound Level**: 
-**Power Points**: 
-**Damage Bonus**: 
-**Build**: 
-**Move Rate**: 
+<%* if (tp.frontmatter.secondary_affiliations && tp.frontmatter.secondary_affiliations.length > 0) { %>
+### Other Affiliations
+<%* tp.frontmatter.secondary_affiliations.forEach(faction => { %>
+- **<% faction %>**: 
+  - Relationship: 
+  - Current Standing: 
+<%* }) %>
+<%* } %>
+
+## Characteristics
+| Attribute       | [[Rules/Characteristics/STR\|STR]] | [[Rules/Characteristics/CON\|CON]] | [[Rules/Characteristics/SIZ\|SIZ]] | [[Rules/Characteristics/DEX\|DEX]] | [[Rules/Characteristics/APP\|APP]] | [[Rules/Characteristics/INT\|INT]] | [[Rules/Characteristics/POW\|POW]] | [[Rules/Characteristics/EDU\|EDU]] |
+|-----------------|-----|-----|-----|-----|-----|-----|-----|-----|
+| **Value**       |     |     |     |     |     |     |     |     |
+| **Bonus**       |     |     |     |     |     |     |     |     |
+
+| Derived Stat    | [[Rules/Characteristics/HP\|HP]] | [[Rules/Characteristics/Major Wound\|Major Wound]] | [[Rules/Characteristics/PP\|PP]] | [[Rules/Characteristics/Damage Bonus\|Damage Bonus]] | [[Rules/Characteristics/Build\|Build]] | [[Rules/Characteristics/Move Rate\|Move Rate]] |
+|-----------------|-----|-------------|-----|--------------|-------|-----------|
+| **Value**       |     |             |     |              |       |           |
 
 ## Skills
 ### Professional Skills

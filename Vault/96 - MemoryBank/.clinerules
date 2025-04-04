@@ -18,6 +18,7 @@
    - Unique template for general notes
    - Consistent YAML frontmatter
    - Standard sections
+   - **Utilize Templater syntax for dynamic content and frontmatter referencing.**
 
 ## User Preferences
 1. **Structure**
@@ -82,6 +83,7 @@
    - Unique template for specific needs
    - Consistent formatting
    - Standard sections
+   - **Apply Templater syntax for automation.**
 
 2. **CSS Classes**
    - Notebook styling where appropriate
@@ -94,3 +96,5 @@
    - Complete documentation
    - Clear progress tracking
    - Active context maintenance
+4. **File Creation**
+   - **When index files link to non-existent content files, create placeholder files using the relevant template and information from the index.**

@@ -42,39 +42,40 @@ graph TD
 
 ## Key Technical Decisions
 1. **Folder Numbering**: Numerical prefixes ensure consistent ordering and clear hierarchy
-2. **Template System**: Standardized templates in Meta folder for consistent note creation
+2. **Template System**: Standardized templates in Meta folder for consistent note creation. **Utilizes Templater plugin for dynamic content.**
 3. **CSS Customization**: Dedicated classes for visual styling and organization
 4. **Meta Section**: Isolated space for system configuration and maintenance
 5. **Archive Strategy**: Dedicated space for older content to maintain active vault performance
 6. **TTRPG Organization**:
    - Modular project structure for game components
-   - Standardized character sheet templates
-   - Session log format for consistent recording
-   - Asset management system for game resources
-   - Rules reference organization
+   - **Standardized Character template** (with faction support, specific layout).
+   - **Consolidated Equipment template** (covering items, war machines, etc.).
+   - Session log format for consistent recording (To Be Defined).
+   - Asset management system for game resources.
+   - Rules reference organization (initial structure created).
 
 ## Design Patterns
 1. **Progressive Organization**:
    - Fleeting → Permanent note progression
    - Daily notes as entry point
    - Project/Area separation for focus
-
 2. **Content Hierarchy**:
    - Maps of Content for navigation
    - Clear categorization system
    - Metadata consistency
-
 3. **Template Usage**:
    - Daily note templates
-   - Project templates
+   - Project templates (Character, Equipment updated)
    - Consistent formatting
-
+   - **Templater syntax for dynamic fields and conditional sections.**
 4. **TTRPG Patterns**:
    - Character progression tracking
    - World state management
    - Session preparation workflow
    - Asset organization system
-   - Rules reference structure
+   - Rules reference structure (Characteristics folder created)
+   - **Unified Equipment/Item/War Machine handling via single template.**
+   - **Faction tracking integrated into Character template.**
 
 ## Component Relationships
 - **Daily Notes** feed into **Fleeting Notes** and **Projects**
@@ -86,8 +87,9 @@ graph TD
 
 ### TTRPG Component Relationships
 - **World Building** informs **Session Plans** and **NPCs**
-- **Character Sheets** reference **Rules** and **Equipment**
+- **Character Template** references **Rules** (Characteristics) and uses **Faction** data.
+- **Equipment Template** used for **Technology** entries (including War Machines).
 - **Session Logs** update **World State** and **Character Progress**
 - **Maps** link to **Locations** and **Session Plans**
-- **Factions** interact with **NPCs** and **Technology**
-- **Equipment** relates to **Technology** and **Character Sheets**
+- **Factions** interact with **NPCs** (via Character template) and **Technology**
+- **Technology** (War Machines) uses **Equipment Template**.

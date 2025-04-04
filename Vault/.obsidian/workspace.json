@@ -11,14 +11,10 @@
             "id": "455fd5e11602df4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk War Machine.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(TEMPLATE) CyberPunk War Machine"
+              "title": "New tab"
             }
           }
         ]
@@ -209,6 +205,21 @@
   },
   "active": "12480dc304705369",
   "lastOpenFiles": [
+    "01 - Projects/CyberPunk BRP/Tech/yggdrasil-orbital-laser.md",
+    "01 - Projects/CyberPunk BRP/Tech/harpy-vtol-gunship.md",
+    "01 - Projects/CyberPunk BRP/Tech/oni-exosuit.md",
+    "01 - Projects/CyberPunk BRP/Tech/arachne-webspinner.md",
+    "01 - Projects/CyberPunk BRP/Tech/jormungandr-tunnel-borer.md",
+    "01 - Projects/CyberPunk BRP/Tech/tiamat-bio-chem-crawler.md",
+    "01 - Projects/CyberPunk BRP/Tech/hekatonkheires-siege-walker.md",
+    "01 - Projects/CyberPunk BRP/Tech/fenrir-class-cyberhound.md",
+    "01 - Projects/CyberPunk BRP/Tech/basilisk-electrowave-cannon.md",
+    "01 - Projects/CyberPunk BRP/Tech/kraken-emp-harvester.md",
+    "01 - Projects/CyberPunk BRP/Tech/sleipnir-88-mobile-fortress.md",
+    "01 - Projects/CyberPunk BRP/Tech/phoenix-mk-vi-nanite-swarm.md",
+    "01 - Projects/CyberPunk BRP/Tech/leviathan-dreadnought.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk Equipment.md",
+    "01 - Projects/CyberPunk BRP/Rules/Characteristics",
     "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk Item.md",
     "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk Character.md",
     "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk NPC.md",
@@ -221,28 +232,14 @@
     "01 - Projects/CyberPunk BRP/Factions/Night City Fixers.md",
     "01 - Projects/CyberPunk BRP/Factions/Eclipse.md",
     "01 - Projects/CyberPunk BRP/Tech/streetwear-armor.md",
-    "01 - Projects/CyberPunk BRP/Tech/quickhacks.md",
-    "01 - Projects/CyberPunk BRP/Tech/gorgon-7x-neural-disruptor.md",
-    "01 - Projects/CyberPunk BRP/Tech/black-market-weapons.md",
-    "01 - Projects/CyberPunk BRP/Tech/banshee-class-stealth-bomber.md",
-    "01 - Projects/CyberPunk BRP/Tech/mythic-war-machines.md",
-    "Vault/01 - Projects/CyberPunk BRP/Equipment/leviathan-dreadnought.md",
-    "01 - Projects/CyberPunk BRP/Tech/mythic-war-machines 1.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "01 - Projects/CyberPunk BRP/Tech/cyberware-implants.md",
     "01 - Projects/CyberPunk BRP/Tech",
     "01 - Projects/CyberPunk BRP/Equipment",
     "Vault/01 - Projects/CyberPunk BRP/Equipment",
     "Vault/01 - Projects/CyberPunk BRP",
     "Vault/01 - Projects",
     "Vault",
-    "01 - Projects/CyberPunk BRP/Technology/mythic-war-machines.md",
-    "01 - Projects/CyberPunk BRP/Technology/streetwear-armor.md",
     "01 - Projects/CyberPunk BRP/Equipment/Vehicle",
     "01 - Projects/CyberPunk BRP/Equipment/Weapons",
-    "01 - Projects/CyberPunk BRP/Technology/banshee-class-stealth-bomber.md",
-    "01 - Projects/CyberPunk BRP/World Building/Technology/Untitled.md",
     "Untitled.canvas"
   ]
 }
