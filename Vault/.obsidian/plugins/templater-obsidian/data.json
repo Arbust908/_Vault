@@ -15,8 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "01 - Projects/CyberPunk BRP/World Building/Technology",
+      "template": "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk War Machine.md"
+    },
+    {
+      "folder": "01 - Projects/CyberPunk BRP/Characters",
+      "template": "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk Character.md"
     }
   ],
   "syntax_highlighting": true,

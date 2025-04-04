@@ -5,14 +5,14 @@ High-tech fashion meets combat protection in Night City's latest streetwear. The
 
 ## Armor Index
 
-| Name | Type | Description |
-|------|------|-------------|
-| Afterlife Sovereign Coat | Armored Jacket | Black and gold jacket with subdermal plating; grants +2 Street Cred. |
-| Neotactical Mirrorweave | Trenchcoat | Reflective fabric deflects laser targeting; cloaks against drones. |
-| Bloody Mox Corset | Armored Clothing | Reinforced with Kevlar and shock-absorbent gel; stun immunity on crit. |
-| Arasaka Kirigiri Suit | Corporate Armor | Self-repairing nanofiber weave; immune to poison, but -2 to social checks. |
-| Nomad Dustrider Cloak | Thermal Cloak | Insulated against sandstorms, hides heat signatures; holds hidden weapon slots. |
-| V's Relic Gloves | Combat Gloves | Glowing circuitry boosts melee damage; 10% chance to cause cyberware malfunction. |
+| Name                     | Type             | Description                                                                       |
+| ------------------------ | ---------------- | --------------------------------------------------------------------------------- |
+| Afterlife Sovereign Coat | Armored Jacket   | Black and gold jacket with subdermal plating; grants +2 Street Cred.              |
+| Neotactical Mirrorweave  | Trenchcoat       | Reflective fabric deflects laser targeting; cloaks against drones.                |
+| Bloody Mox Corset        | Armored Clothing | Reinforced with Kevlar and shock-absorbent gel; stun immunity on crit.            |
+| Arasaka Kirigiri Suit    | Corporate Armor  | Self-repairing nanofiber weave; immune to poison, but -2 to social checks.        |
+| Nomad Dustrider Cloak    | Thermal Cloak    | Insulated against sandstorms, hides heat signatures; holds hidden weapon slots.   |
+| V's Relic Gloves         | Combat Gloves    | Glowing circuitry boosts melee damage; 10% chance to cause cyberware malfunction. |
 
 ## Plot Hooks
 

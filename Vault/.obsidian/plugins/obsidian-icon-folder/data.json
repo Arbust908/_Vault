@@ -5,7 +5,10 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "BoBxsNetworkChart",
+      "BoBxBrain"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
@@ -57,16 +60,16 @@
         "order": 7
       },
       {
-        "rule": "- Archives",
-        "icon": "BoBxsArchive",
-        "for": "folders",
-        "order": 9
-      },
-      {
         "rule": "- Permanent",
         "icon": "BoBxsFile",
         "for": "everything",
         "order": 8
+      },
+      {
+        "rule": "- Archives",
+        "icon": "BoBxsArchive",
+        "for": "folders",
+        "order": 9
       }
     ],
     "extraMargin": {
@@ -80,5 +83,7 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
-  }
+  },
+  "96 - MemoryBank": "BoBxBrain",
+  "01 - Projects/CyberPunk BRP": "BoBxsNetworkChart"
 }

@@ -13,7 +13,7 @@ This Map of Content organizes all components of the CyberPunk BRP TTRPG project,
 - [[01 - Projects/CyberPunk BRP/World Building/Setting Overview|Setting Overview]]
 - [[01 - Projects/CyberPunk BRP/World Building/Locations/|Locations]]
 - [[01 - Projects/CyberPunk BRP/World Building/Factions/|Factions]]
-  - [[01 - Projects/CyberPunk BRP/World Building/Factions/Night City Fixers|Night City Fixers]]
+  - [[Night City Fixers|Night City Fixers]]
 - [[01 - Projects/CyberPunk BRP/World Building/Technology/|Technology]]
 
 ## Characters

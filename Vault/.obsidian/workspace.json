@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2d378e7e63fa62c8",
+        "id": "0afabcfb3dbe9813",
         "type": "tabs",
         "children": [
           {
-            "id": "0e3c0efcb1ec6db3",
+            "id": "455fd5e11602df4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/20250330.md",
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk War Machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250330"
+              "title": "(TEMPLATE) CyberPunk War Machine"
             }
           }
         ]
@@ -84,12 +84,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 370.5
   },
   "right": {
     "id": "b12ab3dca66e1f4b",
@@ -192,7 +191,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "fit:Fit Sync": false,
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
       "graph:Open graph view": false,
@@ -205,11 +203,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "0e3c0efcb1ec6db3",
+  "active": "12480dc304705369",
   "lastOpenFiles": [
-    "06 - Daily/20250330.md"
+    "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk Item.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk Character.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk NPC.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk War Machine.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk Faction.md",
+    "01 - Projects/CyberPunk BRP/Tech/war-machines.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk Campaign.md",
+    "01 - Projects/CyberPunk BRP/Factions/Nyrakoth.md",
+    "01 - Projects/CyberPunk BRP/Factions/Night City Fixers.md",
+    "01 - Projects/CyberPunk BRP/Factions/Eclipse.md",
+    "01 - Projects/CyberPunk BRP/Tech/streetwear-armor.md",
+    "01 - Projects/CyberPunk BRP/Tech/quickhacks.md",
+    "01 - Projects/CyberPunk BRP/Tech/gorgon-7x-neural-disruptor.md",
+    "01 - Projects/CyberPunk BRP/Tech/black-market-weapons.md",
+    "01 - Projects/CyberPunk BRP/Tech/banshee-class-stealth-bomber.md",
+    "01 - Projects/CyberPunk BRP/Tech/mythic-war-machines.md",
+    "Vault/01 - Projects/CyberPunk BRP/Equipment/leviathan-dreadnought.md",
+    "01 - Projects/CyberPunk BRP/Tech/mythic-war-machines 1.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "01 - Projects/CyberPunk BRP/Tech/cyberware-implants.md",
+    "01 - Projects/CyberPunk BRP/Tech",
+    "01 - Projects/CyberPunk BRP/Equipment",
+    "Vault/01 - Projects/CyberPunk BRP/Equipment",
+    "Vault/01 - Projects/CyberPunk BRP",
+    "Vault/01 - Projects",
+    "Vault",
+    "01 - Projects/CyberPunk BRP/Technology/mythic-war-machines.md",
+    "01 - Projects/CyberPunk BRP/Technology/streetwear-armor.md",
+    "01 - Projects/CyberPunk BRP/Equipment/Vehicle",
+    "01 - Projects/CyberPunk BRP/Equipment/Weapons",
+    "01 - Projects/CyberPunk BRP/Technology/banshee-class-stealth-bomber.md",
+    "01 - Projects/CyberPunk BRP/World Building/Technology/Untitled.md",
+    "Untitled.canvas"
   ]
 }

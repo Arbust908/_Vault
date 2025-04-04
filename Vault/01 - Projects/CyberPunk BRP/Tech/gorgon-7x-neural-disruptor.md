@@ -6,7 +6,6 @@ manufacturer: "Militech Advanced Systems"
 status: "Prototype"
 location: "Various (Most units lost in Badlands)"
 ---
-
 # Gorgon-7X Neural Disruptor
 
 ## Overview

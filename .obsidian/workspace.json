@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "4a8c3687d4ad1b76",
+    "type": "split",
+    "children": [
+      {
+        "id": "518d2fb1735d9c36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53f6ec6febb1af7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/01 - Projects/BRP_Forker/_base 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_base 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd3ea9373cd49af3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3288a53af4328a83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d787832953aba075",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cc4f70b2e7238f97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "90c1808d52e11803",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5762d1331a3ab618",
+    "type": "split",
+    "children": [
+      {
+        "id": "51e3c9b214420323",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83f8f9a6f4e8b1a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vault/01 - Projects/BRP_Forker/_base 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for _base 1"
+            }
+          },
+          {
+            "id": "6883363534ccf165",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vault/01 - Projects/BRP_Forker/_base 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from _base 1"
+            }
+          },
+          {
+            "id": "13b57e25f52c2135",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4ecfaa6568a792a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vault/01 - Projects/BRP_Forker/_base 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _base 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "53f6ec6febb1af7e",
+  "lastOpenFiles": [
+    "Vault/06 - Daily/20250404.md",
+    "Vault/ED-202503302249.excalidraw.md",
+    "Vault/Untitled.canvas",
+    "Vault/202503302249.md",
+    "Vault/06 - Daily/20250330.md",
+    "Vault/01 - Projects/BRP_Forker/_base.md",
+    "Vault/01 - Projects/BRP_Forker/_base 1.md",
+    "Vault/01 - Projects/BRP_Forker/World Building/World Building.md",
+    "Vault/01 - Projects/BRP_Forker/Sessions/Sessions.md",
+    "Vault/01 - Projects/BRP_Forker/Rules/Rules.md",
+    "Vault/01 - Projects/BRP_Forker/Characters/Characters.md",
+    "Vault/01 - Projects/BRP_Forker/Assets/Assets.md",
+    "Vault/00 - Maps of Content/Placeholder.md",
+    "Vault/00 - Maps of Content/CyberPunk BRP.md"
+  ]
+}
