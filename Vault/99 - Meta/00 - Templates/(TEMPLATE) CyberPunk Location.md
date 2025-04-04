@@ -3,8 +3,8 @@ type: location
 category: [district, building, venue, corporate, underground]
 security_level: [low, medium, high, ultra]
 status: [active, abandoned, restricted]
-created: {{date}}
-modified: {{date}}
+creation date: <% tp.file.creation_date() %>
+modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 
 # {{title}}

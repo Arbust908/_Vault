@@ -4,8 +4,8 @@ category: [PC, NPC] # Choose one
 status: [active, inactive]
 affiliation: "Primary Faction" # New field
 secondary_affiliations: [] # Optional additional factions
-creation_date: <% tp.date.now("YYYY-MM-DD") %>
-last_modified: <% tp.date.now("YYYY-MM-DD") %>
+creation date: <% tp.file.creation_date() %>
+modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 
 # <% tp.file.title %>

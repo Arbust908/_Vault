@@ -4,6 +4,8 @@ status: [active, inactive, unknown]
 influence: [local, city, global, beyond]
 alignment: [friendly, neutral, hostile]
 tags: []
+creation date: <% tp.file.creation_date() %>
+modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 
 # [Faction Name]

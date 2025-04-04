@@ -11,10 +11,14 @@
             "id": "455fd5e11602df4e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 - Projects/CyberPunk BRP/Tech/arachne-webspinner.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "arachne-webspinner"
             }
           }
         ]
@@ -203,8 +207,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "12480dc304705369",
+  "active": "455fd5e11602df4e",
   "lastOpenFiles": [
+    "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk War Machine.md",
     "01 - Projects/CyberPunk BRP/Tech/yggdrasil-orbital-laser.md",
     "01 - Projects/CyberPunk BRP/Tech/harpy-vtol-gunship.md",
     "01 - Projects/CyberPunk BRP/Tech/oni-exosuit.md",
@@ -223,7 +228,6 @@
     "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk Item.md",
     "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk Character.md",
     "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk NPC.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk War Machine.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "99 - Meta/00 - Templates/(TEMPLATE) CyberPunk Faction.md",
     "01 - Projects/CyberPunk BRP/Tech/war-machines.md",

@@ -7,10 +7,6 @@ rarity: "Common/Uncommon/Rare/Epic/Legendary/Unique" # Added Unique
 manufacturer: "Corporation or Source"
 status: "Operational/Prototype/Decommissioned/In Repair/Destroyed" # Expanded status
 
-# War Machine Specific Fields (Optional)
-class: "Classification (e.g., Light Mech, Heavy Tank)" # From War Machine
-location: "Current Location" # From War Machine
-
 # Item Specific Fields (Optional)
 installation_dc: # From Item (Cyberware)
 humanity_cost: # From Item (Cyberware)
@@ -18,6 +14,8 @@ legal_status: # From Item
 street_price: # From Item
 availability: # From Item
 common_sources: # From Item
+creation date: <% tp.file.creation_date() %>
+modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
 
 # <% tp.file.title %>

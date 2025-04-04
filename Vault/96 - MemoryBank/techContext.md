@@ -11,7 +11,7 @@
      - Initiative Tracker (for combat)
      - Dataview (for character/inventory management)
      - Kanban (for session planning)
-   - **Templater (for dynamic templates)**
+   - **Templater (for dynamic templates)** [Templater DOCs](https://silentvoid13.github.io/Templater/introduction.html)
 
 2. **Markdown**
    - Standard Markdown syntax
