@@ -7,94 +7,9 @@
 
 [[toc]]
 
-
-
-## The Basics of Roleplaying
-
-Roleplaying is a form of social gaming, acting out a semi- to fully-improvised story. As a player, you create and play a role in the game as a player character: you and your fellow players are the protagonists, the heroes around whom the stories revolve. A group may be as small as one player and one gamemaster, or much larger, up to six or more players.
-Your character might be a swaggering gunfighter, a cynical private eye, a gritty superhero, or a humble spacefarer trying to make ends meet. The gamemaster, on the other hand, devises and presents the situations you and other players adventure through, describing the world where you exist and how that world is affected by your actions. While you as a player act out only one role, the gamemaster presents the entire game setting— acting as its people, places, monsters, and even gods.
-The gamemaster usually has an adventure for you, an interactive scenario in which you can interact with other imaginary gamemaster-controlled characters, the nonplayer characters mentioned above. Play is mostly conversation and negotiation, and resolving outcomes when they are in question.
-Play usually follows this format:
-- The gamemaster outlines some situation or encounter.
-- Next, you and the other players say what your characters propose to do.
-- The gamemaster responds through the actions or words of nonplayer characters, monsters, or the environment.
-- If an outcome is in doubt and is important to the progress of the story, roll dice to determine what happens, using the characters’ abilities as guidelines.
-- You and the other players respond in turn.
-
-This continues through various scenes and encounters, ideally forming something like a story, though happening at its own pace and shape. In this back-and-forth conversation, you and the other players embody your roles and the gamemaster describes the world and events in it. You use rules and roll dice to help determine what you can do, and whether you succeed or fail at what you try to do, when it is important. Your characters face challenges and conflicts, using abilities that you have defined using these rules.
-As a player, you usually create your character yourself, using these rules to define their abilities in quantifiable terms. These abilities are qualities like strength, intelligence, speed, education, skills, but they can also be magic powers, passionate beliefs or feelings about certain topics, or innate special abilities.
-Further, before and during play you get to create other abstract elements that make up a person—their personality—usually evoked by how you play or describe your character. For example, though there is no numerical value for “irritable”, you may speak in such a manner and give that sort of personality to your character. Your character’s abilities are a cross between a resume and a report card: they define what they can do, and how good (or bad) they are at it. The rest is roleplaying, which brings your character to life.
-Using the game rules, the gamemaster tells you how your character’s actions work in the game world. You and the gamemaster roll dice to de- termine whether your character or a nonplayer character succeeds or fails at an action and in some cases, how well or how badly. Dice rolls—with sometimes unpredictable results—keep everyone honest and can deliver surprises, triumphs, unexpected reversals of fortunes, dismal defeats, and hair’s-breadth escapes. This combination of rules and odds is what keeps everything from being entirely random.
-Keep in mind though that there is a major difference between what you, the player, know and what your character knows in the game world. At the gaming table, you are privy to ‘behind-the-scenes’ information that your character does not have, and you must be careful not to take advantage of what you know, versus what your character would reasonably expect to know. Dice rolls and their results tell you if your character knows some- thing, even if you (as a player) already know the answer.
-If this scene were in a roleplaying game, the gamemaster would ask the player of that spy to make a Listen roll. If the roll fails, the gamemaster may begin rolling dice secretly to see if the assassin hears them moving on the other side of the door. Since the player knows that the roll failed, something is up. Since there is no way that the character would know about the assassin on the other side of the door, the player of the spy should open the door and react to whatever happens. In some ways, you as a player are also the audience, watching your character get into the way of danger, and potentially acting on incor- rect information. The drama comes in seeing how your character perse- veres through the experience, not how it can be avoided. Part of the pleasure in roleplaying is the interaction and cooper- ation between players: a novel gives solitary pleasure, but roleplaying gives the satisfaction of improv theater, where together you make a story evolve and sometimes go in unexpected directions.
-
-
-Cooperation among players is important in successfully completing the task or quest the situation is focused around, and in making the game enjoyable for all. You are not only the actors, but the audience as well. Success in roleplaying comes not from players bent on eliminating each other, as in chess or backgammon, but in memorably adopting the personae of characters quite different from themselves, and in reacting as those characters would to otherworldly scenes and creatures.
-The rules in this book provide guidelines first for you to create a character in the gamemaster’s world and for the gamemaster to represent the world they want you to explore, with rules to cover most situations and conditions.
-Additionally, many optional rules are provided allowing the gamemaster the ability to add complexity to the system as desired. These optional rules are not suitable for every genre or type of game, and should be used selectively by the gamemaster to craft the most enjoyable and suitable game experience for all.
-
-### The Purpose of Play
-The purpose of roleplaying is to have a good time. It’s fun to deal with dangers that are not truly dangerous, threats that vanish when everyone rises from the table, and monsters who evaporate when the lights go on. If you play well, you and your friends enter an exciting new world for a while, find strength in coping with it, and perhaps know victory. Emerging, you return to a world that is a darker or a brighter place because of what you experienced, and you see yourself as more active in it. The flipside of that is that if the players are not enjoying themselves, something is wrong. Their characters can be suffering, failing spectac- ularly, and even dying in the course of play, but this is still within the realm of fun. It is not fun when players are abusive or wreck the fun for others—through unkind language or discrimination, or through por- trayal of scenes that the players find uncomfortable or personally stressful. As such, the gamemaster should think of themselves as the host of a party. Make sure everyone is having a good time, check periodically that everything is fine, and pay special attention to any behavior or language that can take away from other players’ experience.
-
-### Responsibilities of the Players
-You have the duty to roleplay your character within the limits of their personality and abilities. When roleplaying, try to act as if you know as little or as much as the character would in life; the skill rolls the gamemaster requests will aid you in this. If you develop your character well enough that everyone knows what they will do in a specific situation, count yourself among the best role players.
-You don’t need to know much about the game rules, especially if you’re just getting started. Read the Creating a Character two-page spread on pages 18-19 , since you’ll want to create a character to play. Examine the Terms Used in Basic Roleplaying section later in this chapter. When you have time, skim Chapter 2: Characters and Chapter 5: System and Chapter 6: Combat to get some familiarity with the game rules. If the setting you’ll be playing in has powers of any sort, read Chapter 4: Powers for more information on those. As you can, become familiar with the rules. There’s also a one-page summary of the game system on page 195. The first eight chapters of this book are directed at players and gamemasters. Chapter 9: Gamemastering through Chapter 12: Appendices are specifically directed at the gamemaster alone, so if you are only a player, there’s no need to read further and spoil your fun.
-
-### Responsibilities of the Gamemaster
-Oftentimes, the gamemaster has the most fun in the game, but this is balanced by the largest share of responsibility. Using a published scenario or one they have created or one improvised on the spot, the gamemaster narrates the game universe and acts as the player characters’ opposition. That opposition must be smart and careful (or you and the other players will be bored) and it must be presented fairly (or you will be outraged). While each player must share the spotlight with the other players, the gamemaster is always “on-stage” and constantly interacts with all the players.
-To be a gamemaster, read all of the rules sections, and become familiar with the rest of the book. The gamemaster chapters provide guidelines for gamemastering and Chapter 11: Encounters includes a ready-to-use variety of nonplayer characters. Know the general procedures for combat and powers, but don’t feel you need to memorize everything—most questions can be answered as they arise.
-As for scenarios, there are a vast range of scenarios for many different settings and games. Chaosium Inc. has published many adventures for Call of Cthulhu and other game lines, most of which utilize the _Basic Roleplaying_ (BRP) system. Other games are plentiful—and converting a scenario from one of them to _Basic Roleplaying_ is easy. Ideas for scenarios are also easy to come by—almost any film or book with some aspect of danger and excitement can be turned into a roleplaying scenario. Print or copy some character sheets, invite some friends over and have them create characters. Summarize the rules for them, and you’re ready to play.
-
-### Length of Play
-How long does roleplaying take? It depends. There are three ways to measure time spent roleplaying. First is the session. This is the actual amount of time you and your friends meet to play the game. Usual dura- tions for game sessions range from three to five hours, though some are shorter and sometimes they go for longer.
-The second measure of game time is the scenario. This is a chapter of the story. There is usually a beginning, middle, and an ending to a scenario, consisting of some roleplaying, some action, and a dramatic resolution. A scenario may take one session to complete or may take several sessions.
-The longest measure of game time is the campaign, a series of scenarios linked together to form an epic or engrossing longer story. The term campaign comes from the early origins of roleplaying games as offshoots of military wargaming—a campaign represented a military campaign. For an easy way to wrap your head around it, liken it to reading a novel. The session is the amount of time you read a chapter. The scenario is one or more chapters. The campaign is the whole novel itself. “One-shot” games are scenarios that do not have a place in a campaign—they’re like short stories. They may take longer than one sitting to read, but they do not continue beyond the end of the story.
-
-
-The core virtues of the system are as evident today as they were when it was first introduced. Primary characteristics of Basic Roleplaying that have emerged from decades of play, across many different varieties of the system are as follows:
-- The system is friendly to newcomers. It is easy to describe the basics of the game system and the percentile mechanic to newcomers.
-- Players of other game systems coming to Basic Roleplaying find it to be much less mechanistic and less of a barrier to the actual act of roleplaying. Less time spent on game systems usually equals more time available for roleplaying and thinking “in character.”
-- Most of the information players need to know is present on their character sheets.
-- Characters tend to evolve based on practicing the skills they use the most. You do something well, you learn from that, and you are more likely to be successful at it later. Characters do not arbitrarily im- prove based on abstract elements such as levels or experience points.
-- Combat can be very quick and deadly, and often the deciding blow in a conflict is the one to land first.
-- The system is remarkably modular: levels of complexity can be added or removed as needed, and the core system works equally well with considerable detail as it does with a minimal number of rules.
-- The system’s internal consistency allows for rules judgments to be made rapidly and with little searching through the rulebook for special cases.
-
+[[basics_of_rpg]]
 
 [[terms_brp]]
-
-
-
-### Materials Required to Play
-As a player, you need little other than this book, a pencil, maybe some blank paper, and a set of gaming dice. Dice are available online in many games and hobby stores, and come in a variety of colors, shapes, siz- es, quality, and prices. You will need at least one complete set, one of each, but more are useful. See below for more information on dice and dice-rolling methods. Some gaming groups use miniatures as a represen- tation of the characters, so if this is true of your group, you might want to bring a miniature that resembles your character somewhat. Generally, though, you merely need to bring your creative energy to the game. As a gamemaster, you need a little bit more than a player, but not much. You should have a copy of this rulebook, and more blank paper for your notes. It is a good idea to make copies of the character sheet provided on pages 16 or found online at chaosium.com.
-Additionally, you should have an adventure prepared or at least an idea of what might happen in the game. This can either be one of your own creation or a ready-made adventure. Alternately, you can adapt an adventure from an- other game company for other game systems. You can prepare other materials depending on how much you like to prepare handouts or reference sheets. You will learn more about all of this in Chapter 9: Gamemastering.
-
-#### Dice
-Basic Roleplaying uses four-sided, six-sided, eight-sided, ten-sided, twelve-sided, and 20-sided dice (abbreviated as D4, D6, D8, D10, D12, and D20). Dice are generally rolled, and the results read as shown, and if multiple dice are rolled, they are added together. Thus, 3D6 means roll three six-sided dice, and add the results.
-_For example, a 3D6 roll resulting in 1, 4, and 6 would be a total of 11. Dice can also be added together in different denominations, such as 2D6+1D4, meaning roll two six-sided dice and a four-sided die, and add their totals together._
-Dice results are sometimes modified by adding or subtracting numbers to the initial roll, such as 1D6–1, meaning roll one six-sided die and subtract 1 from the total, meaning that the roll has a range of 0 through 5.
-Dice totals can be multiplied, such as 1D10×10, meaning that the roll has a range of 10 to 100.
-Sometimes dice rolls do not seem to correspond to exact dice numbers, such as D3, which is the result of a D6 roll divided by two and rounded up. A roll of D2 or D5 utilizes a D4 and a D10, respectively, and are rolled and divided in similar fashion. These sorts of rolls are rare.
-Percentile dice are two D10s, rolled together, with one die as the tens figure, and the other as ones.
-_For example , a roll of two D10s might yield a 7 and a 3, or 73%._
-
-A roll of 01% is considered ideal, while 100% (rolls of 0 and 0) is usually
-a failure and the least-desired roll. It is common to use dice of different colors
-for the tens and ones digits, though percentile dice are now easily available
-with the tens being denoted by 00, 10, 20, 30, etc. for convenience.
-Dice rolling apps also take care of all of this and are commonly available.
-
-#### Here are the most common dice:
-- **D2:** This yields a result of 1 or 2. You can roll a D4 (or any other even-sided die) and divide it in half, with a coin toss (heads = 1, tails = 2), or take any die and roll it (odd result = 1, even result = 2).
-- **D3:** Roll a D6 and divide it in half, rounding up.
-- **D4:** A four-sided die, yielding a result of 1 through 4. It is often used with damage bonuses.
-- **D6:** The second most common die, this yields a result of 1 through 6. You are probably already familiar with dice like these.
-- **D8:** An eight-sided die, yielding a result of 1 through 8.
-- **D10:** A ten-sided die, yielding a result of 1 through 10, with the 0 face representing 10. It is most commonly used with another D as part of a percentile dice roll.
-- **D12:** A 12-sided die, yielding a result of 1 through 12. This dice type is not used very often.
-- **D20:** A 20-sided die, yielding a result of 1 through 20. This dice type is rarely used outside of the optional hit location system.
-- **D100:** Two ten-sided dice, rolled together with one die representing the tens value and another representing the ones value. This is the most common roll of the dice in BRP. Though usually a percentile roll, these dice are sometimes rolled for a basic result.
-_For example, the gamemaster might determine that each member of a group of bandits has D100 copper pieces in their possession. If the bandits are defeated, the gamemaster rolls the dice for each one._
 
 ---
 ## CHARACTER
@@ -131,249 +46,9 @@ Your gamemaster should make it clear to you and your fellow players
 what power level your game is, to set expectations and to guide the rest
 of character creation.
 
-### Creating a Character
-
-You first need a character. Following is a system for developing your character. This system creates reasonably competent characters. Suggestions are provided in each step for more powerful characters. You should have a blank character sheet handy, and maybe another sheet of paper for notes. At chaosium.com you can download digital versions. When you get ready to create your character, your gamemaster and the other players should have already decided what sort of game you’ll all play, whether it be a science fiction, fantasy, modern horror, historical intrigue, espionage, pulp action, techno-thriller, or any number of other genres.
-Your gamemaster should be prepared to guide you and the other players through the character creation process, knowing what professions are allowed and appropriate to the game or campaign, and what level of competency the characters should exhibit. These issues are most important to Step Seven and may influence Step Three.
-
-#### Step One: Name and Characteristics**
-Write your character’s name at the top of the page. This should be appropriate to the setting and game being played. If no idea suggests itself yet, wait until later. You can write your own name on the character sheet as your gamemaster may need to keep track of which character belongs to whom.
-- Choose your character’s gender and write it in the correct space.
-- Roll 3D6 for the characteristics Strength (STR), Constitution (CON), Power (POW), Dexterity (DEX), and Charisma (CHA).
-Enter the results in the appropriate places on your character sheet.
-- Roll 2D6+6 for the Intelligence (INT) and Size (SIZ) characteristics.
-These numbers provide the bare bones of your character, determining what characteristics the character is strong or weak in.
-- If you wish, redistribute up to 3 points between your characteristics.
-- No characteristic can begin at more than 21 points.
-- If you aren’t satisfied with the characteristics you have, and your gamemaster approves, you can start over.
-
-If the campaign is using one or more types of powers, your gamemaster may allow you to increase your starting characteristics (see Chapter Four: Powers , particularly Diminish/Enhance Characteristic on page 96 ).
-
-Choosing Characteristic Values (Option): Traditionally, characteristics are rolled in order, with up to 3 points redistributed. Instead, you may roll 3D6 seven times and choose where results go. In this case, SIZ and INT cannot be below 8.
-
-Higher Starting Characteristics (Option): For a higher-powered game, roll 2D6+6 for all characteristics.
-
-The Education (EDU) Characteristic (Option): Roll 2D6+6 for Education (EDU) for this characteristic, for characters from societies with formalized education. An EDU of 12 indicates a high school graduate- level education, with higher values indicating college or advanced degrees.
-
-Cultural Modifiers (Option): Cultural modifiers emphasize characteristic differences between different species (such as elves or dwarves) or for different human cultures. Initial characteristics may be adjusted or limited at this point. See Cultural Characteristic Modifiers (Option) (page 32 ).
-
-Non-Human Characters (Option): Non-human characters may use different dice rolls and modifiers to determine initial characteristics. See page 222 of Chapter Eleven: Creatures.
-
-Point-Based Character Creation (Option): Usually, characteristics are rolled randomly. Instead, players can purchase characteristic points from a pool. See Point-based Character Creation (Option) (page 17 ).
-
-**Step Two: Powers
-Read this carefully!** If the game you’re playing in involves magic, mutations, psychic abilities, sorcery, or superpowers you may begin with some of these powers. Ask your gamemaster about it and refer to _Chapter Four: Powers_ for more information. These systems require more explanation than is provided in this chapter.
-If there are no powers in the campaign, ignore this step and proceed.
-If there are powers, the following types are available:
-- **Magic (page 55 ):** Simple spellcasting with a wide variety of applications.
-- **Mutations (page 65 ):** Strange genetic anomalies, some beneficial, some adverse.
-- **Psychic Abilities (page 70 ):** Using the power of the mind to
-manipulate reality.
-- Sorcery (page 78 ): A more baroque type of spellcasting, including elemental and demonic summoning.
-- Superpowers (page 90 ): Mighty abilities that defy imagination.
-
-More detail on each appears in their relevant sections.
-
-#### Step Three: Age
-The default age for characters is 17+1D6 years old. Your gamemaster may choose to alter this based on the requirements of the game setting. If you wish to begin play with a character younger or older, choose an age that seems appropriate and meets your gamemaster’s approval.
-- Based on the campaign level (described in Step Six ), for every 10 full years added to the rolled starting age, modify professional skill points by +10 (Normal), +20 (Heroic), +30 (Epic), or +40 (Superhuman). Any fraction of years below 10 does not qualify for this skill bonus.
-- For every year below 18, modify professional skill points by –10 (Normal), –20 (Heroic), –30 (Epic), or –40 (Superhuman).
-- Your gamemaster may limit available professions to characters below 18 years of age.
-- At age 50 and every full 10 years above, modify one of STR, CON, DEX, or CHA (your choice) by –1. At age 80 and every full 10 years above, modify three of these characteristics. See Aging and Inaction (Option) (page 120 ).
-- For every year below the original rolled age above, modify any one characteristic other than EDU (your choice) by –1. Your gamemaster may require that you make SIZ one of these lowered characteristics. These points can be gained through play (experience), training, or gradually through natural means (gamemaster’s discretion). See Aging and Inaction (Option) (page 120 ).
-
-Your gamemaster may also choose to simply ignore these rules, based on the game’s power level. This allows for elderly adventurers, child geniuses, and is generally more enjoyable for all players.
+[[character_creation]]
 
 
-Education (EDU) (Option): If you’re using the EDU characteristic, your character’s starting age must be at least EDU+5 (representing time spent learning). Every full 10 years added to your character’s starting age, adds +1 to your character’s EDU characteristic. Be sure to increase the relevant skill points generated in Step Six.
-
-#### Step Four: Characteristic Rolls
-Here’s where you determine your characteristic rolls. By now you should know what your final characteristics are, but if not, hold off on this step until you’ve finalized them. Each has a place on the character sheet.
-- Multiply STR×5 for your Effort roll.
-- Multiply CON×5 for your Stamina roll.
-- Multiply INT×5 for your Idea roll.
-- Multiply POW×5 for your Luck roll.
-- Multiply DEX×5 for your Agility roll.
-- Multiply CHA×5 for your Charm roll.
-
-Knowledge Roll (Option): Multiply EDU×5 for your Knowledge roll (if EDU is being used).
-
-
-#### Step Five: Derived Characteristics
-Now it’s time for the derived characteristics: damage modifier, hit points, power points and experience bonus. If you’re using optional systems, you should also determine your initial fatigue points and sanity points. Write the results on your character sheet.
-- Damage Modifier: Add STR+SIZ and find the damage modifier corresponding to your character’s total on the Damage Modifier table (page 20).
-- **Hit Points:** Add CON+SIZ and divide by 2 (rounded up). Circle that number in the **Hit Points** box on your character sheet and write it below. This is your character’s maximum hit points. If your character loses hit points, mark them off, and erase the marks as hit points are healed or otherwise restored.
-- **Major Wound Level:** Your **major wound level** is 1/2 hit points, rounded up.
-- **Power Points:** In the **Power Point** box, circle the number equal to POW and write the total on the line below. This is your character’s maximum power points. These fuel magic spells, mutations, psychic abilities, or superpowers. Mark power points off as they’re spent and erase the marks as they’re recovered or otherwise restored. The number written in the space, equal to your POW, is the value your power points return to with rest.
-- **Experience Bonus:** Your character’s experience bonus is equal to 1/ their INT, rounded up.
-- **Move (MOV):** Your character’s MOV measures how fast during a combat round they can move. Human characters can normally move 10 units per round. A unit is a somewhat variable amount usually equaling 1 meter. See **Movement Rates** (page 116 ).
-
-**Skill Bonuses (Option):** If using characteristic-based skill category bonuses (page 23 ), calculate the bonus for each using the **Skill Category Bonus** table (page 23 ). Write these values in the spaces for each category. This bonus adds to the base chance for every skill, if any. For each category:
-- Add +1% for every point in the primary characteristic over 10; subtract 1% for every point below 10.
-- +1% for every 2 points in the secondary characteristic above 10; –1% for every 2 points under 10 (rounding down the bonus if required).
-- –1% for every point in the negative characteristic above 10; +1% for every point under 10.
-
-
-**Hit Points per Location (Option)**: With the optional hit location system (page 21 ), determine the number of hit points for each hit location. The head, abdomen, and each leg have 1/3 of your hit point total, the chest has 4/10, and each arm has 1/4 of the character’s maximum hit point value. Round all fractions up.
-
-**Fatigue Points (Option):** If fatigue is being used; add your character’s STR+CON to get their fatigue point total. In play, as your character expends energy or perform rigorous physical activity, they will lose fatigue points. They recover rapidly through rest and other means and change frequently. See page 24.
-
-**Sanity (Option):** If Sanity is being used; multiply your character’s initial POW score by ×5 to get their current Sanity (SAN) total. Profession (see Step Six , below) may modify this number. In play, mark off these if your character loses sanity points. See page 24.
-
-#### Step Six: Personality
-Study your character’s characteristics and imagine the sort of person you would like them to be. Choose one of the options below or roll 1D4 for a random result. These packages of skills are a quick way to develop your character—there will be more skills in the next step. Skills are defined on pages 37 - 52 and classes of weapons are described beginning on page 169.
-Your gamemaster may have other personality types, or you can create your own, choosing 13 skills and adding 20 points to each skill rating (with your gamemaster’s approval).
-When distributing these skill points, add the bonus to the base chance for each skill, usually presented as a value in parentheses after the skill, such as Fast Talk (15%). Write that total after the skill.
-_For example , adding 20 skill points to Fast Talk (05%) yields a rating of 25% (5+20)._
-
-**Personality Types**
-
-| Result | Description |
-| --- | --- |
-| 1 | Brutal: Your character thinks first of solving problems by means of physical force and brawn. Give 20 skill points each to Brawl, Climb, Dodge, Grapple, Insight, Jump, Ride, Sense, Stealth, Swim, Throw, and to any two Combat skills. |
-| 2 | Skilled: Your character believes that technique, craft, and expertise are the secrets of success. Give 20 skill points each to Appraise, any one Craft, Disguise, Dodge, Fine Manipulation, First Aid, any one Knowledge skill, Navigate, Pilot, Ride, Sleight of Hand, Stealth, and to any one Combat skill. |
-| 3 | Cunning: Your character first tries to outsmart an opponent to gain an advantage. Add 20 skill points each to Appraise, Bargain, Disguise, Insight, any two Knowledge skills, Listen, Research, Sense, Spot, Stealth, any one Technical skill (appropriate to setting), and to any one Combat skill. |
-| 4 | Charming: Your character enjoys persuading other people to work, while they make the decisions. Give 20 points each to Appraise, Bargain, Command, Etiquette, Fast Talk, Insight, Perform, Persuade, any one Language (Other), Language (Own), Sense, Status, and to any one Combat skill. |
-
-
-#### Step Seven: Profession and Skills
-To determine the starting skills for your character, turn to the professions list on page 26. Choose a profession there. Professions are described fully on pages 22 – 31. Your gamemaster may restrict available professions, so ask before making this choice. Some professions provide special advantages, such as the use of magic. Note these on the character sheet.
-Once a profession has been chosen, determine the character’s professional skill point pool. This represents what your character has learned in that profession, whether through training or on-the-job experience. As always, skill points are added to any bonuses granted from previous steps and to the skill’s base chance. The campaign’s power level (page 9 ) determines the initial skill point pool. Your gamemaster should have decided by now what kind of game they will run, and how powerful and competent player characters should be.
-- Normal: Allot 250 points to professional skills. No skill should begin higher than 75%. If you are using the optional skill category bonus, the limit is still 75%, and you must spend any points above this on other skills. If a combination of bonuses increases the skill to more than 75% before this step, do not add any additional skill points.
-- Heroic: Allot 325 points to professional skills. No skill should begin higher than 90%, with the same restrictions as above.
-- Epic: Allot 400 points to professional skills. No skill should begin higher than 101%, with the same restrictions as above.
-- Superhuman: Allot 500 points among professional skills, with no limit to skill ratings. See Skill Ratings Over 100% (Option) (page 37 ).
-
-
-For an original profession (page 32 ), allot the power level’s number of skill points, as above. Your gamemaster may have some restrictions on how these skill points can be spent.
-Once all professional skill points have been allocated, multiply your character’s INT×10 to determine their personal skill point pool. Spend these skill points on any skills you like, with your gamemaster’s approval. Add points spent on a skill to its base chance, profession bonuses (if any), professional skill point allocations, and skill category bonuses (if any). The total must not exceed the skill limit for game type set above. Your gamemaster may impose a cap of 50% on personal skills that range too far outside a character’s profession. This skill cap is higher based on the level of the campaign: 75% for heroic, 90% for epic, and 100% for superhuman. Skills that naturally exceed these numbers through prior bonuses can have no additional points spent on them.
-Calculate the final rankings for all character skills from base chance, personality type, professional skill pool, personal skill pool, and the optional skill category bonuses (if used). You might want to shift some points around at this time but keep the professional skill points and personal skill points separate.
-
-Education (Option): If Education (EDU) is being used, instead of a base 250/325/400/500 skill point pool, make the initial skill points be based on EDU×20 for normal characters, EDU×25 for heroic characters, EDU×30 for epic characters, and EDU×40 for superhuman characters.
-
-Cultural Skills (Option): For a game with significant differences between human cultures, your gamemaster may have this influence starting skills or beginning skills allowed. See Culture and Characters (page 32 ).
-
-Increased Personal Skill Points (Option): The INT×10 personal skill point total may be increased to INT×15 for heroic characters, INT×20 for epic characters, or INT×25 for superhuman characters, as appropriate. This option is recommended for games where characters are tremendously competent and skilled beyond what their current profession would indicate.
-
-#### Step Eight: Possessions
-Most characters have some sort of possessions, whether gear or weapons. The front of the character sheet has a section for weapons, and the back a space for possessions. Your profession describe your character’s beginning wealth level and the Status skill can provide guidelines for what sort of additional equipment that your character might be able to lay hands upon. It’s not necessary to list every item your character owns, but merely those that might be important in play.
-In most cases, your character has the following:
-- A complete set (or sets) of clothing appropriate to their environment and setting.
-- An amount of pocket money and personal savings based on their wealth level.
-- A personal item showing some relation to their family or background. This can be an heirloom, keepsake, or some trinket with a strong emotional connection.
-- Any trade tools or equipment suitable to their profession, if appropriate.
-- Any weapon they have a skill of 50%+ in, if appropriate.
-- Based on the setting, profession, wealth level, and Status, they may have a vehicle such as a horse, wagon, bicycle, automobile, personal flier, small space transport, or some other means of transportation. This is subject to your gamemaster’s approval.
-- No detailed rules for finances are provided: the suggested wealth for professions and the Status skill are the best guidelines for determining what items and funds they begin play owning or having access to. Your gamemaster should be able to help you describe this in an appropriate level of detail and may have additional restrictions or suggestions.
-
-#### Step Nine: Size and Distinctive Features
-This step is primarily cosmetic and is not entirely necessary. You may now choose to determine your character’s height and weight, based on SIZ. Generally, the SIZ range of 10–13 represents the human range of average weight and height. A person of SIZ 8 (normal minimum) is relatively small, and someone of SIZ 18 is exceedingly large. You can define this as you wish, either through exact numbers for height and weight, or with descriptions such as “Tall” or “Slender”. If using the Distinctive Features option see page 25. Note these features under your character’s name on the character sheet.
-
-#### Step Ten: Finishing Touches
-This is the final step for various aspects of your character. If you couldn’t think of a name beforehand in Step One, now is the time. Beyond that, you can come up with the rest of this section before play begins or as you get a feel for your character.
-As desired, you should fill in all the blank spaces that describe the character, mentally and physically, and come up with some ideas about their background. In Step Nine you determined your character’s distinctive features, so you should decide whether your character has other, less distinctive, features. What colors are their hair, skin, and eyes? How do they dress? Do they have any interesting mannerisms, or a motto or saying they use often? Do they have an interesting reputation?
-If it is relevant, determine where your character is from. Where did they go to school (if at all)? What is their relationship with their family? Is the character a member of any significant organizations? Do they have an interesting past? Do they have any significant religious orpolitical beliefs? If appropriate, you should work with your gamemaster to determine these issues before play begins, or at least do some thinking about them ahead of time. In play you can also flesh out other details of your character’s background as necessary or leave these aspects undetermined if they are not relevant. The back of the character sheet has space for additional descriptive or background elements. Fill out as many or as few of these as you’d like, and check with your gamemaster to make sure that they know about them and that they’re suitable for the game.
-
-
-### Characteristics
-Your character is measured and defined by a set of characteristics, values that represent their physical and mental capabilities. Higher characteristic numbers are usually better (though a high SIZ can work against you for stealth). Characteristic values indicate raw natural gifts you character has. Characteristic values can change over the course of play. Injuries or adverse conditions can decrease characteristics, while training, exertion, and conditioning can increase them.
-- Physical characteristics (STR, CON, SIZ, and DEX) have a maximum of 21 for humans.
-- Mental characteristics (INT, POW, CHA, and EDU) can usually be raised without limits.
-- Under most conditions 3 is the lowest value for any characteristic other than SIZ or INT, which have a minimum value of 8.
-
-If other races or species are allowed in the campaign, they may have higher or lower characteristic maximums. Magic, mutations, psychic abilities, sorcery, or superpowers can also raise characteristics, without limit.
-
-#### Strength (STR)**
-Strength (STR) measures brawn and raw muscle power. The Effort roll (STR×5) is its characteristic roll. STR helps determine how much a character can lift or carry, push or pull, or how tightly they can hang on to something. In combat, STR determines what kind of weapons a character can wield, as well as helping determine how much extra damage (if any) they inflict with any hit. STR can be increased through exercise, while certain injuries and diseases can permanently reduce STR. A character with STR 0 is an invalid, unable to rise from their bed.
-
-#### Constitution (CON)**
-Health, vigor, and vitality are all measured by Constitution. The Stamina roll (CON×5) is its characteristic roll. CON determines how well a character can resist fatigue, poison, disease, drowning, and other hardships, and is a factor in calculating hit points. CON can be increased through conditioning. Diseases, poisons, and some injuries can temporarily or permanently reduce CON. A character dies when their CON falls to 0 for whatever reason.
-
-#### Size (SIZ)**
-Size defines height, weight, and bulk. There is no SIZ-associated characteristic roll; on the character sheet the space is used to note Damage Bonus. Resistance rolls using SIZ can determine whether a character can stand firm against resistance, see over an obstacle, or squeeze through a crack. A character’s SIZ, as body mass, is an important factor in determining hit points and damage modifier (if any). Factors like gluttony or rigid diet can increase or decrease SIZ, at your gamemaster’s discretion. Some powers may also affect SIZ. Severe injuries (like lost limbs) can also permanently decrease SIZ. A character dies if they lose more than half their SIZ (round up) due to starvation or extreme diet. A character reduced to SIZ 0 through magic or other influences simply disappears, wasting away to nothing. Your gamemaster should be the arbiter of any involuntary SIZ changes, as these are uncommon.
-
-#### Intelligence (INT)**
-Representing reason, mental acuity, and wits, INT measures how well a character learns, remembers, and analyzes information. The Idea roll (INT×5) is its characteristic roll. INT is critical in determining initial skill values. Possibly the most important characteristic, INT has no fixed maximum and can conceivably rise indefinitely through study and mental exercise. Wounds to the head, prolonged exposure to harmful drugs, or certain types of diseases can reduce INT. A character with an INT 0 has been reduced to a vegetative state, unable to survive independently.
-
-#### Power (POW)**
-The most intangible of characteristics, Power represents willpower, magical aptitude, and spiritual development. POW is essential to leadership, intuition, and magic. The Luck roll (POW×5) is its characteristic roll. POW serves as the determiner for initial power points (page 20 ) and initial Sanity points. (page 24 ). Like INT, human POW has no set maximum, and can rise indefinitely. Magical influences can reduce POW (temporarily or permanently) and some magic is fueled by the permanent sacrifice of points of POW. For powers (see _Chapter Four: Powers_ ), POW is probably the most important characteristic. POW is the suggested basis for initial power choices, so a character with higher POW will have more powers (or more levels in those powers). A character whose POW score reaches 0 has lost their soul and becomes catatonic without any will or life force.
-
-#### Dexterity (DEX)**
-Dexterity score measures balance, agility, speed, and deftness. Characters rely upon DEX when reacting to an attack, climbing, performing delicate work, or moving stealthily. The Agility roll (DEX×5) is its characteristic roll. Injuries or nerve diseases can reduce DEX, while rigorous training can quicken reflexes and improve balance. A character with DEX 0 is utterly immobile.
-
-#### Charisma (CHA)**
-Charisma determines how likeable or attractive a character is to others, and is based as much on presence, personality, and demeanor as simple physical appearance. The Charm roll (CHA×5) forms its characteristic roll. Charisma is used to measure first impressions and indicates how eager others will be to associate with someone, through physical attraction or an appealing personality. Charisma can be raised through physical conditioning, cosmetic surgery, or careful application of grooming and etiquette. It could even be improved by a small amount by possession of particularly impressive gear. It can also be reduced through injury or disease. A character with a CHA 0 is either utterly odious, provoking disgust from all who encounter them, or has become so nondescript that they barely register.
-
-### Characteristic Rolls
-Some challenges do not intuitively map to particular skills. Can a hunter stay awake in a blind all night waiting for their quarry? Can a hardened detective piece together the tantalizing clue hidden in the scraps of evidence? In these situations, your gamemaster can call for a characteristic roll: a D100 roll against an appropriate characteristic, multiplied by another number. Your gamemaster decides which multiplier to use based on the difficulty of the task. Standard characteristic rolls use a multiplier of ×5, though extremely difficult tasks may require a multiplier of ×2, or even be based on the characteristic itself as a percentage. For more details on task difficulty and modifier selection, see page 113 of Chapter Five: System.
-
-#### Effort Roll (STR×5)
-Most feats of strength involve matching STR against the SIZ of the lifted object on the resistance table (see Chapter Five: System , page 111 ). In cases when a SIZ rating is not available or is difficult to determine, use an Effort roll. Effort rolls can also be used as an easy way to determine things such as whether a character can pull themselves up onto a ledge. Are they worn out at the end of a long hike? An Effort roll is a quick way to decide.
-
-#### Stamina Roll (CON×5)
-Based upon CON, Stamina rolls measure endurance. Use a Stamina roll whenever physical or intestinal fortitude is in question. To list a few examples, a Stamina roll might determine whether a character can stay awake all night, or endure seasickness, ill-prepared food, or strong drink with no ill effects.
-
-#### Idea Roll (INT×5)
-An Idea roll represents the ability to make clever guesses, informed hunches, or reasonable deductions based upon nothing but observation and raw intellect. When no skill seems appropriate, an Idea roll can show understanding of a concept or the ability to unravel a puzzle. Memory is also part of the Idea roll: use an Idea roll to remember an important detail, retrace steps through a labyrinth, or memorize a lengthy formula. Your gamemaster may also allow an Idea roll if you are stalled, getting you back on track by revealing a hidden meaning of some already uncovered clue, or letting them know that something ‘doesn’t quite seem right’ about a particular person, place, or thing. This type of Idea roll should only be granted at your gamemaster’s discretion and is not generally solicited by players.
-Your gamemaster may also require an Idea roll if you wish to have your character think or behave in a manner that represents player knowledge vs. character knowledge. If a character is a primitive hunter encountering modern technology, for example, your gamemaster may require an Idea roll for them to be able to grasp basic concepts of the item, even if the player automatically knows what it is based on its description.
-
-#### Luck Roll (POW×5)
-Luck is the knack of being in the right place at the right time, having things work out despite the expectation, or the uncanny ability to escape a random peril unscathed. Does your character just happen to have that one special bit or equipment? Will a friendly passerby lend a hand if they are stranded by the side of the road? Does the hideous creature attack the character or a nearby nonplayer character? Does a character fall through a weak floor, or snag their clothes on a splintered plank and escape plummeting to death? Luck rolls can be used to answer all these questions. Successful Luck rolls can create fortunate coincidences under normal circumstances or save someone from certain doom in an emergency.
-
-#### Agility Roll (DEX×5)
-Whenever a feat of deftness, balance, or agility is called for and no appropriate skill exists, use an Agility roll to measure success. An Agility roll might, for example, determine if a character can keep their balance on a heaving ship’s deck, gather up all the pieces of a broken vase in a hurry, run carrying a precious elixir without spilling any, or grab the vine at the edge of a cliff before falling off.
-
-#### Charm Roll (CHA×5)
-Use Charm rolls to adjudicate interpersonal reactions not covered by an existing skill. Making a good first impression, seducing an acquaintance, or becoming the person a group turns to first for guidance are all good uses for a Charisma roll. If a character is standing outside a trendy night club wanting to be let in, a successful Charm roll will get them noticed and waved through the door.
-
-### Derived Characteristics
-In addition to characteristics (and their attendant characteristic rolls), a character is also defined by a set of derived characteristics, figured from their characteristics. If injuries, magic, or other factors increase or decrease a characteristic, all characteristics derived from that characteristic immediately change to reflect the new value.
-_For example , your character (CON 16, SIZ 14, HP 15) falls victim to a deadly poison, which reduces their CON value to 10. Your character’s maximum hit points immediately drop from 15 (16+14=30, divided to 15) to 12 (10+14=24, divided to 12). Additionally, their major wound total drops from 8 to 6. If wounds had already brought your character lower than 12 hit points, they would not take any additional damage, but they are limited to the 12 hit point maximum until their original CON is restored._
-
-#### Damage Modifier (STR+SIZ, see table)
-Bigger, stronger characters and creatures are more powerful in physical combat, inflicting more damage than average with each strike. Smaller, weaker beings inflict less damage with their attacks. The damage modifier reflects this advantage, expressed in terms of damage dice added or subtracted from the damage of successful attacks. A character adds their full damage modifier to all hits with brawling or melee weapons. In the case of a negative damage modifier, subtract the appropriate dice from any inflicted damage. If the total is 0 or less, the blow is too soft to inflict any harm. An attack never does negative damage, so if the modifier goes below 0, count it as 0. Missile weapons don’t allow a character to use their full damage modifier. If your character’s damage modifier is positive, divide the results in half (round up) when using a thrown weapon or a bow. If the damage modifier is negative, keep the modifier as is. Self-propelled weapons (firearms, energy missile weapons, etc.) do not receive a damage modifier.
-To calculate damage modifier, add the character’s STR and SIZ, and find the result on the Damage Modifier table (following).
-
-#### Experience Bonus (1/2 INT)
-The smarter a character is, the faster they can learn, especially under stress. To determine their experience bonus, divide their INT by 2, rounding up. Add the experience bonus to the learning roll for each experience check your character makes to improve a skill or characteristic. Consult _Chapter Five: System_ and **Skill Improvement** (page 118 ).
-#### Damage modifier
-| STR+SIZ | Damage Modifier |
-| --- | --- |
-| 2–12 | –1D6 |
-| 13–16 | –1D4 |
-| 17–24 | None |
-| 25–32 | +1D4 |
-| 33–40 | +1D6 |
-| 41–56 | +2D6 |
-| 57–72 | +3D6 |
-| 73–88 | +4D6 |
-| 89–104 | +5D6 |
-| 105–120 | +6D6 |
-| 121–136 | +7D6 |
-| 137–152 | +8D6 |
-| 152–168 | +9D6 |
-| Each +16 | Additional +1D6 |
-
-
-#### Hit Points (Average of CON and SIZ)
-Hit points represent your character’s capacity to withstand punishment and physical injury. When taking damage, subtract hit points from the current total. Calculate maximum hit points by adding your character’s CON and SIZ scores, then divide the total by 2. Round all fractions up.
-Your character loses consciousness when their hit points are reduced to 2 or less, and if their hit points reach 0, they die at the end of the following round. A character can lose more hit points than they have, so keep track of any negative value. Lost hit points heal naturally at a rate of 1D3 points per game week, though medical attention can speed recovery.
-See Damage & Healing (page 134) and Healing Naturally (page 136).
-
-#### Major Wounds (1/2 of HP)
-Divide your character’s hit point total in half, rounding up if necessary. This total is their major wound level. If your character takes this amount of damage from a single wound, they may suffer horrific side effects as well as simple hit point loss. See Major Wounds (page 134 ).
-
-#### Power Points (Max = POW)
-Power points (PP) represent your character’s vital essence, their reserves of spiritual or life energy. Your character spends power points to cast or resist spells. Your character’s maximum power points are usually equal to their POW characteristic. Generally, spent power points regenerate at a rate of 1 per hour of sleep or total rest, or 1 for every two hours of normal activity. See the Power Point Recovery Rate table for rates for higher POW scores. If your character is engaged in strenuous activity, they cannot regain power points. When your character’s power point total falls to 0, they are completely exhausted, and faint until regaining at least 1 power point. One cannot have negative power points.
-
-#### Power Point Recovery Rate
-| Max PP | Asleep | Awake |
-| --- | --- | --- |
-| 1–24 | 1 per hour | 1 per 2 hours |
-| 25–48 | 2 per hour | 1 per hour |
-| 49–72 | 3 per hour | 1 per 40 minutes |
-| 73–96 | 4 per hour | 1 per 30 minutes |
-| 97+ | +1 per hour to the above | +1 per hour to the above |
 
 ```
 **total hit points (option)**
@@ -402,39 +77,35 @@ significant fear of being killed by one critical blow.
 
 
 
-**hit points by hit location (option)**
 
 ```
+**hit points by hit location (option)**
 For more detailed combat, hit points are divided among your character’s body parts. If an attack is successful, a D20 roll determines
 where the blow lands. If using the optional hit location system (see Hit Locations , page 128), your character’s hit points are divided
 among their various hit locations. Use the following formula for humanoids, rounding up for each location:
-```
-```
-Location Hit point value
-Leg, Abdomen, Head 1/3 total hit points
-Chest 4/10 total hit points
-Arm 1/4 total hit points
-```
-```
+
+| Location | Hit point value |
+| --- | --- |
+| Leg, Abdomen, Head | 1/3 total hit points |
+| Chest | 4/10 total hit points |
+| Arm | 1/4 total hit points |
+
 The humanoid hit point spread is provided below.
-Location Maximum Hit Points
+
+| Location | Maximum Hit Points |
 1–2 3 4 5 6 7 8 9 10 11–12 13–15 16–17 18 19–20 21
 Each Leg 1 1 2 2 2 3 3 3 4 4 5 6 6 7 7
 Abdomen 1 1 2 2 2 3 3 3 4 4 5 6 6 7 7
 Chest 1 2 2 2 3 3 4 4 4 5 6 7 8 8 9
 Each Arm 1 1 1 2 2 2 2 3 3 3 4 5 5 5 6
 Head 1 1 2 2 2 3 3 3 4 4 5 6 6 7 7
-The sum of your character’s hit points by location exceeds their maximum hit points, but whenever a character is wounded, the rolled
-damage is subtracted from both that location’s hit point total and your character’s maximum hit points.
-Damage exceeding a location’s total hit points renders it useless. Damage equal to twice a location’s hit point total crushes or severs it.
-See Damage per Hit Location (page 133 ).
-For example , your character has 14 hit points, with 5 hit points in each leg, 5 hit points in the abdomen, 6 hit points in the chest, 4 hit points in each arm,
-and 5 hit points in their head. Even though their hit points in all locations total 34, your character will die if they suffer a total of 14 hit points of damage.
+
+The sum of your character’s hit points by location exceeds their maximum hit points, but whenever a character is wounded, the rolled damage is subtracted from both that location’s hit point total and your character’s maximum hit points.
+Damage exceeding a location’s total hit points renders it useless. Damage equal to twice a location’s hit point total crushes or severs it. See Damage per Hit Location (page 133 ).
+For example , your character has 14 hit points, with 5 hit points in each leg, 5 hit points in the abdomen, 6 hit points in the chest, 4 hit points in each arm, and 5 hit points in their head. Even though their hit points in all locations total 34, your character will die if they suffer a total of 14 hit points of damage.
 ```
 ```
-The Major Wound system (page 134 ) is not easily compatible with the hit location system and should a gamemaster choose to use the
-optional hit locations and Damage by Hit Location systems (pages 21 and 133 respectively), the major wound system should be
-eliminated or adapted considerably, perhaps with the nature of the major wound being chosen by your gamemaster where applicable.
+The Major Wound system (page 134 ) is not easily compatible with the hit location system and should a gamemaster choose to use the optional hit locations and Damage by Hit Location systems (pages 21 and 133 respectively), the major wound system should be eliminated or adapted considerably, perhaps with the nature of the major wound being chosen by your gamemaster where applicable.
 ```
 ```
 Unlike hit points or fatigue points (page 24 ), power points can climb
@@ -621,36 +292,37 @@ Continued the table on the next page
 mmm
 ```
 
-characters
 
-**skill category bonuses (option)**
 
 ```
+**skill category bonuses (option)**
+
 Skill Bonus Table
-Value Primary Secondary Negative
-1 -9% -4% +9%
-2 -8% -4% +8%
-3 -7% -3% +7%
-4 -6% -3% +6%
-5 -5% -2% +5%
-6 -4% -2% +4%
-7 -3% -1% +3%
-8 -2% -1% +2%
-9 -1% -0% +1%
-10 +0% +0% -0%
-11 +1% +0% -1%
-12 +2% +1% -2%
-13 +3% +1% -3%
-14 +4% +2% -4%
-15 +5% +2% -5%
-16 +6% +3% -6%
-17 +7% +3% -7%
-18 +8% +4% -8%
-19 +9% +4% -9%
-20 +10% +5% -10%
-21 +11% +5% -11%
-Etc. +1%/ +1%/ -1%/
-point 2 points point
+| Value | Primary | Secondary | Negative |
+| --- | --- | --- | --- |
+| 1 | -9% | -4% | +9% |
+| 2 | -8% | -4% | +8% |
+| 3 | -7% | -3% | +7% |
+| 4 | -6% | -3% | +6% |
+| 5 | -5% | -2% | +5% |
+| 6 | -4% | -2% | +4% |
+| 7 | -3% | -1% | +3% |
+| 8 | -2% | -1% | +2% |
+| 9 | -1% | 0% | +1% |
+| 10 | 0% | +0% | 0% |
+| 11 | +1% | 0% | -1% |
+| 12 | +2% | +1% | -2% |
+| 13 | +3% | +1% | -3% |
+| 14 | +4% | +2% | -4% |
+| 15 | +5% | +2% | -5% |
+| 16 | +6% | +3% | -6% |
+| 17 | +7% | +3% | -7% |
+| 18 | +8% | +4% | -8% |
+| 19 | +9% | +4% | -9% |
+| 20 | +10% | +5% | -10% |
+| 21 | +11% | +5% | -11% |
+| Etc. | +1%/point | +1%/2 points | -1%/point |
+
 ```
 ```
 Simple Skill Category Modifiers
@@ -661,12 +333,7 @@ Manipulation skills DEX/2
 Mental skills INT/2
 Perception skills POW/2
 Physical skills STR/2
-```
-kkk
 
-Continuation from the previous page.
-
-```
 Simpler Skill Bonuses
 If calculating skill category bonuses is too complicated, each
 category bonus can instead be defined as 1/2 of the primary
@@ -722,6 +389,7 @@ area), Listen, Persuade, Sleight of Hand, Spot, Stealth.
 
 BASIC ROLEPLaYING SYSTEM
 
+```
 **fatigue points and sanity points (option)**
 
 Some optional systems and powers refer to fatigue points and sanity points. For a more detailed encumbrance and fatigue system,
@@ -757,7 +425,6 @@ their weapon, stand upright without something to lean on, etc. At this point, yo
 make a _Difficult_ Stamina roll to do any basic action, and your gamemaster may rule that any skill roll
 is _Impossible_ or limited to your character’s POW×1.
 
-```
 Sanity Points (Max = POW×5)
 As described in Sanity (page 218 of Chapter Ten: Settings ), sanity (SAN) points
 represent your character’s mental and emotional fortitude, and their ability to
@@ -775,8 +442,8 @@ circumstances. Characters can gain SAN beyond their base value, to a maximum of 
 types of blasphemous knowledge can limit your character’s maximum allowable SAN score.
 ```
 
-characters
 
+```
 **distinctive features (option)**
 
 Distinctive features are a way of describing notable features about your character. These are descriptive only and have no mechanical
@@ -794,11 +461,11 @@ in the game’s setting. You can also combine different features in interesting 
 gamemaster may veto certain distinctive features if they would be out of place, depending
 on the setting.
 
-```
+---
 1—Hair on Head: Bald, bald on top, blond, black, braided, brown, crew-cut, curly, dirty, full of
 lice, glossy, gray, long, lustrous, matted, oily, perfumed, receding, red, shaven, spiky, very long,
 wavy, wig, feature of your choice.
-```
+
 **2—Facial Hair:** Arched eyebrows, braided beard, bushy beard, curled and perfumed beard, enormous mustachios, eyebrows grown
 together, goatee, long beard, no eyebrows, sideburns, strange designs cut in close-trimmed beard, thick eyebrows, feature of your choice.
 
@@ -834,11 +501,11 @@ slim-hipped, svelte, tall, tan lines visible, tanned, tattooed, thick, thin, ver
 **10—Legs and Feet:** Birthmark visible, bulging thighs and calves, calloused feet, deeply tanned, hairless, hairy, knobby knees, limping in
 one leg, many scars, muscular, one toe missing, one too many toes present, scar, scars from flame or acid, sleek, smooth, tanned, tattooed,
 toe ring, very hairy, very long legs, very pale skin, very short legs, weathered skin, feature of your choice.
+---
 
 Come up with distinctive features of your own if these are not sufficient. For games featuring non-human races, feel free to add new
 and unique features, or disallow inappropriate features.
 
-```
 Distinctive Features
 CHA Number of Features
 3 or less 4
@@ -850,22 +517,17 @@ CHA Number of Features
 17+ 4
 ```
 
-BASIC ROLEPLaYING SYSTEM
+---
 
 **a list of professions**
 
 ```
 Artist Gambler Scholar
-```
-```
 Assassin Herder Scientist
 Athlete Hunter Servant
 Beggar Journalist Shaman
 Clerk Laborer Slave
-```
 Computer Tech Lawkeeper Soldier
-
-```
 Occultist Lawyer Spy
 Crafter Mechanic Student
 Criminal Merchant Teacher
@@ -876,9 +538,10 @@ Entertainer Politician Warrior
 Explorer Priest Wizard
 Farmer Sailor
 ```
-**wealth**
 
 ```
+**wealth**
+
 Ultimately, wealth represents what your character’s economic
 status is at the start of play, and what they are accustomed
 to. Each level below describes the relative state of someone
@@ -938,7 +601,6 @@ to their level of wealth, are likely to have social and business
 opportunities far beyond those of any other income level.
 ```
 
-characters
 
 **Clerk**
 You spend your days at a desk, usually working in some financial field. This
@@ -1001,7 +663,6 @@ Firearm (any), Grapple, Hide, Insight, Knowledge (any), Language
 (Computer Use), Stealth, Track.
 ```
 
-BASIC ROLEPLaYING SYSTEM
 
 **Doctor**
 You have made it your calling to treat the injured, infirm, sick, and
@@ -1088,7 +749,6 @@ or Shotgun), Knowledge (Natural World or Region), Melee Weapon
 (usually Spear), Missile Weapon (any), Language (Other), Ride.
 ```
 
-characters
 
 **Journalist**
 Whether a columnist for a weekly paper, a web journalist, a photojournalist,
@@ -1221,10 +881,6 @@ televangelist, depending on the setting.
 M Wealth: Poor to Affluent, usually Average, possibly Wealthy if
 you are the religious leader of a large group of worshipers, at your
 gamemaster’s discretion.
-```
-
-BASIC ROLEPLaYING SYSTEM
-
 M **Skills:** Fast Talk, Insight, Knowledge (History), Knowledge
 (Philosophy), Knowledge (Religion), Language (Own), Perform
 (Ritual), Persuade, and two of the following: Knowledge (Occult),
@@ -1287,8 +943,6 @@ Language (Own), Listen, Perform (Rituals), Persuade, and two of
 the following as specialties, as appropriate to setting and concept:
 Craft (any), Fast Talk, First Aid, Hide, Knowledge (Anthropology),
 Medicine, Language (Other), Science (Pharmacy), or Status.
-
-```
 M Special: Depending on the setting, you may be able to use magic.
 See Chapter Four: Powers for more information.
 ```
@@ -1357,8 +1011,7 @@ superpowers, mutations, or psychic abilities. See Chapter Four:
 Powers for more information.
 ```
 
-characters
-
+```
 **Teacher**
 You are an instructor of one or more subjects, teaching groups or tutoring
 a single student. Whether employed by a university, a high school, or
@@ -1419,6 +1072,7 @@ Weapon (any), and five other skills from the following list as
 specialties, as appropriate to setting and concept: Climb, Firearm
 (any), Hide, Listen, Jump, Language (Other), Martial Arts, Ride,
 Spot, Stealth, Swim, Throw, Track.
+```
 
 ```
 Wizard
@@ -1443,6 +1097,7 @@ and five other skills from the following list as specialties, as
 appropriate: Fast Talk, Knowledge (any), Language (Other), Listen,
 Status, Technical (Computer Use).
 ```
+
 ```
 Finishing Touches
 At this point you’re finished with character creation, assuming your
@@ -1486,11 +1141,10 @@ character is faced with adventure and adversity.
 The hard part is over—now the fun can begin!
 ```
 
-BASIC ROLEPLaYING SYSTEM
 
-**creating new professions**
 
 ```
+**creating new professions**
 If this list of professions does not offer a profession you
 would like your character to be, you can create your own with
 your gamemaster’s approval. Your gamemaster also might
@@ -1533,6 +1187,7 @@ Insight, Knowledge (Anthropology), Knowledge (Linguistics),
 Language (Own), Language (Other), Listen, Persuade, and
 Research. The new profession is finished and ready for use.
 ```
+---
 ```
 culture and
 characters (option)
@@ -1644,7 +1299,7 @@ who their senseis are.
 Your character must make many decisions, face many challenges, and accomplish many tasks during play. Most important actions are defined as **skills**
 your character can attempt. This section lists the most common skills, defines them, and relates them to tasks your character can attempt in play.
 
-# skillsskills
+## SKILLS
 
 
 BASIC ROLEPLaYING SYSTEM
@@ -1681,14 +1336,12 @@ gamemaster should inform, misinform, or refrain from informing you
 ```
 **Skill Categories**
 Skills are divided into six skill categories:
-M **Combat** skills measure proficiency with weapons and combat maneuvers.
-M **Communication** skills govern conversation, reading, and
-interpersonal exchanges.
-M **Manipulation** skills define tasks that require precise hand-eye
-coordination.
-M **Mental** skills measure specific knowledge and individual judgment.
-M **Perception** skills gather and interpret information from the environment.
-M **Physical** skills govern feats of strength, agility, and athletics.
+- **Combat** skills measure proficiency with weapons and combat maneuvers.
+- **Communication** skills govern conversation, reading, and interpersonal exchanges.
+- **Manipulation** skills define tasks that require precise hand-eye coordination.
+- **Mental** skills measure specific knowledge and individual judgment.
+- **Perception** skills gather and interpret information from the environment.
+- **Physical** skills govern feats of strength, agility, and athletics.
 
 ```
 Skill categories serve as general guides to the kinds of actions a skill can
