@@ -34,35 +34,17 @@ of character creation.
 
 [[character_creation]]
 
+[[charasteristics]]
 
+[[characteristics_roll]]
+
+[[derived_characteristics]]
 
 ```
 **total hit points (option)**
 
-For hardier player-characters able to survive quite a bit
-more damage, use CON+SIZ to determine hit points,
-without dividing by 2. This results in characters who can
-handle themselves well in combat, take injuries without
-much inconvenience, and makes major wounds (page 136)
-much less common. Injuries caused by special and critical
-successes are much less likely to kill characters outright. This
-optional system can easily be used with the hit points per
-location system (page 21 ), increasing the chances that
-characters will remain attached to their limbs, and vice versa.
-To draw a major distinction between player characters
-and weaker “cannon fodder” nonplayer characters, your
-gamemaster might have only the player characters and
-important nonplayer characters use hit points equaling
-CON+SIZ, with all other nonplayer characters have hit points
-based on (CON+SIZ)/2. This gives a significant advantage to
-player-characters, and allows them to survive more than a
-few solid injuries. It also allows for player characters who
-can take on large numbers of nonplayer characters without
-significant fear of being killed by one critical blow.
+For hardier player-characters able to survive quite a bit more damage, use CON+SIZ to determine hit points, without dividing by 2. This results in characters who can handle themselves well in combat, take injuries without much inconvenience, and makes major wounds (page 136) much less common. Injuries caused by special and critical successes are much less likely to kill characters outright. This optional system can easily be used with the hit points per location system (page 21 ), increasing the chances that characters will remain attached to their limbs, and vice versa. To draw a major distinction between player characters and weaker “cannon fodder” nonplayer characters, your gamemaster might have only the player characters and important nonplayer characters use hit points equaling CON+SIZ, with all other nonplayer characters have hit points based on (CON+SIZ)/2. This gives a significant advantage to player-characters, and allows them to survive more than a few solid injuries. It also allows for player characters who can take on large numbers of nonplayer characters without significant fear of being killed by one critical blow.
 ```
-
-
-
 
 ```
 **hit points by hit location (option)**
@@ -79,50 +61,25 @@ among their various hit locations. Use the following formula for humanoids, roun
 The humanoid hit point spread is provided below.
 
 | Location | Maximum Hit Points |
-1–2 3 4 5 6 7 8 9 10 11–12 13–15 16–17 18 19–20 21
-Each Leg 1 1 2 2 2 3 3 3 4 4 5 6 6 7 7
-Abdomen 1 1 2 2 2 3 3 3 4 4 5 6 6 7 7
-Chest 1 2 2 2 3 3 4 4 4 5 6 7 8 8 9
-Each Arm 1 1 1 2 2 2 2 3 3 3 4 5 5 5 6
-Head 1 1 2 2 2 3 3 3 4 4 5 6 6 7 7
+| --- | --- |
+| | 1–2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11–12 | 13–15 | 16–17 | 18 | 19–20 | 21 |
+| Each Leg | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
+| Abdomen | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
+| Chest | 1 | 2 | 2 | 2 | 3 | 3 | 4 | 4 | 4 | 5 | 6 | 7 | 8 | 8 | 9 |
+| Each Arm | 1 | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 5 | 5 | 5 | 6 | 6 |
+| Head | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
 
 The sum of your character’s hit points by location exceeds their maximum hit points, but whenever a character is wounded, the rolled damage is subtracted from both that location’s hit point total and your character’s maximum hit points.
 Damage exceeding a location’s total hit points renders it useless. Damage equal to twice a location’s hit point total crushes or severs it. See Damage per Hit Location (page 133 ).
 For example , your character has 14 hit points, with 5 hit points in each leg, 5 hit points in the abdomen, 6 hit points in the chest, 4 hit points in each arm, and 5 hit points in their head. Even though their hit points in all locations total 34, your character will die if they suffer a total of 14 hit points of damage.
-```
-```
+
 The Major Wound system (page 134 ) is not easily compatible with the hit location system and should a gamemaster choose to use the optional hit locations and Damage by Hit Location systems (pages 21 and 133 respectively), the major wound system should be eliminated or adapted considerably, perhaps with the nature of the major wound being chosen by your gamemaster where applicable.
 ```
-```
-Unlike hit points or fatigue points (page 24 ), power points can climb
-above the maximum for brief times under certain conditions. As noted, if
-your character receives additional power points (usually through the use
-of a power), they can store up to twice their POW characteristic in extra
-power points. Any power points beyond that are lost. If your character
-uses any power points while over their normal maximum, these must
-come from the extra power points first. These extra power points are not
-renewed and do not regenerate as normal and dissipate entirely after a
-night’s sleep or a suitable juncture determined by your gamemaster.
-Items that store power points and allow the wielder to use the stored
-power points do not count against this total, as long as the power points are
-not stored in the user’s own power point reserve. In most cases, the power
-points are used straight from the item’s reserve, and do not affect the user’s
-own power points. See Chapter Eight: Equipment for more on items with
-power point reservoirs.
-```
-**Movement (MOV)**
-All human and humanoid characters begin with a movement (MOV)
-attribute of 10. This measures how much distance your character can
-move in a combat round. A unit is a flexible distance, and can range from
-1–5 meters, depending on how quickly your character is moving.
-M A walk is 1 meter per MOV.
-M A run is up to 5 meters per MOV.
+
 
 ```
-other kinds of power
-points (option)
-```
-```
+other kinds of power points (option)
+
 Due to the variety of powers in Chapter Four: Powers , “power
 points” is used in place of other names like “temporary
 power” or “magic points.”. If desired, your gamemaster can
@@ -132,19 +89,11 @@ magic or sorcery are used, it is recommended to keep them
 called power points, to avoid confusion. It is advised not to
 use two different names for power points in the same game.
 ```
-```
-M An average rate of movement in combat is 3 meters (yards) per
-unit, meaning that on average, your character moves 30 meters a
-combat round.
-```
-```
-Movement rates are described further in Movement Rates (page 116 ).
-```
 
-BASIC ROLEPLaYING SYSTEM
 
-```
-Professions
+
+
+### Professions
 In addition to being defined by characteristics, your character is also defined
 in terms of their skills. These are learned through life experience, often as part
 of education and a profession. A profession is a job or vocation your character
@@ -152,8 +101,7 @@ is assumed to be a part of when their begins play (or was a part of before play
 began), guiding skill allocation. A profession is just where they start when play
 begins and is not a limit to what they can do and become. They can grow and
 change over the course of a campaign far beyond their profession.
-```
-```
+
 Professions by Setting
 Following is a listing of the more common professions, with notes about
 the settings in which they would be commonly encountered. These
@@ -163,22 +111,21 @@ adjusted by the players and gamemaster as required.
 For example , in campaign set in ancient Japan, your gamemaster tells you
 that the warrior profession is called samurai, assassin is a ninja, the thief is
 a bandit, the criminal is a yakuza, and the noble is a courtier.
-```
-```
+
 These lists are not exhaustive but represents the most suitable
 professions for player characters in each general setting. These professions
 can be expanded as desired, and even unlikely choices are possible. Our
 own modern world still has small pockets of tribespersons and shamans,
 for example, though they are hardly common.
-```
-**Settings and Skills**
+
+#### Settings and Skills**
 You and your gamemaster should make sure the skills associated with
 a profession fit the game’s setting. For inappropriate skills, substitute
 a different specialty if that makes it work, and if no other specialty is
 appropriate, choose another skill within the same category. See _Chapter
 Three: Skills_ for more information on skill specialties and skill categories.
 
-**Professions A Through Z**
+#### Professions A Through Z**
 Most of these professions are generic enough to be suitable for many
 settings or eras. Each includes a general description, a list of appropriate
 skills, and a suggested wealth level. Each setting in _Chapter Ten: Settings_
@@ -210,53 +157,36 @@ some cases, a range is provided, allowing for you and your gamemaster
 to decide the most appropriate to the setting. The description is meant to
 
 ```
-skill category
-bonuses (option)
-```
-```
-If you and your gamemaster want your character’s
-characteristics to influence their skill ratings, you should
-employ this system. As described in the Chapter Three: Skills ,
-each skill is grouped into skill categories. Each category is linked
-to one or more characteristics that are used to compute a skill
-category bonus for each category. To compute the bonus for
-each skill category, note the primary, secondary and negative
-characteristics of each category (or use the chart below):
-M Primary characteristics add +1% for every point over 10
-and subtract –1% for every point under 10.
-M Secondary characteristics add +1% for every 2 points
-over 10 and subtract –1% for every 2 points under 10.
-Round down.
-M Negative characteristics subtract –1% for every point over
-10 and add +1% for every point under 10.
-```
-```
-Skill Category Modifiers
-Category Primary Secondary Negative
-Combat skills DEX INT, STR —
-Communication skills INT POW, CHA —
-Manipulation skills DEX INT, STR —
-Mental skills INT POW, EDU —
-Perception skills INT POW, CON —
-Physical skills DEX STR, CON SIZ
-```
-```
-For example , your character has the following characteristics: STR
-14, CON 13, INT 8, SIZ 12, POW 10, DEX 12, and CHA 8.
+skill category bonuses (option)
+
+If you and your gamemaster want your character’s characteristics to influence their skill ratings, you should employ this system. As described in the Chapter Three: Skills , each skill is grouped into skill categories. Each category is linked to one or more characteristics that are used to compute a skill category bonus for each category. To compute the bonus for each skill category, note the primary, secondary and negative characteristics of each category (or use the chart below):
+- Primary characteristics add +1% for every point over 10 and subtract –1% for every point under 10.
+- Secondary characteristics add +1% for every 2 points over 10 and subtract –1% for every 2 points under 10. Round down.
+- Negative characteristics subtract –1% for every point over 10 and add +1% for every point under 10.
+
+##### Skill Category Modifiers
+
+| Category | Primary | Secondary | Negative |
+| --- | --- | --- | --- |
+| Combat skills | DEX | INT, STR | — |
+| Communication skills | INT | POW, CHA|  — |
+| Manipulation skills | DEX | INT, STR | — |
+| Mental skills | INT | POW, EDU | — |
+| Perception skills | INT | POW, CON | — |
+| Physical skills | DEX | STR, CON | SIZ |
+
+_For example , your character has the following characteristics: STR 14, CON 13, INT 8, SIZ 12, POW 10, DEX 12, and CHA 8.
 Their skill category bonuses are:
-M Combat: +3% (+2 for DEX, +2 for STR, –1 for INT),
-M Communication: –3% (–2 for INT, 0 for POW, –1 for CHA),
-M Manipulation: +3% (+2 for DEX, –1 for INT, +2 for STR),
-M Mental: –2% (–2 from INT, 0 for POW, EDU is not used in this
-campaign),
-M Perception: –1% (–2 for INT, 0 for POW, +1 for CON), Physical:
-+3% (+2 for DEX, +2 for STR, +1 for CON, –2 for SIZ).
+- Combat: +3% (+2 for DEX, +2 for STR, –1 for INT),
+- Communication: –3% (–2 for INT, 0 for POW, –1 for CHA),
+- Manipulation: +3% (+2 for DEX, –1 for INT, +2 for STR),
+- Mental: –2% (–2 from INT, 0 for POW, EDU is not used in this campaign),
+- Perception: –1% (–2 for INT, 0 for POW, +1 for CON), Physical: +3% (+2 for DEX, +2 for STR, +1 for CON, –2 for SIZ)._
+
+See Chapter Three: Skills for more information about skill categories, category bonuses, and base skill chances.
 ```
-```
-See Chapter Three: Skills for more information about skill
-categories, category bonuses, and base skill chances.
-```
-```
+
+
 be a suggestion only; you and your gamemaster may choose to adjust the
 suggested wealth level up or down depending on your character concept.
 An alternate method of determining initial wealth level where a
@@ -266,17 +196,11 @@ make. This should be done after your character has been created.
 While the Status skill (page 51 ) describes the ways in which Status
 and wealth relate to one another, a brief description of each wealth level
 is on page 30.
-```
-```
+
+
 Special: This indicates whether a member of the profession is likely to
 have powers, described in Chapter Four: Powers.
-```
-```
-Continued the table on the next page
-```
-```
-mmm
-```
+
 
 
 

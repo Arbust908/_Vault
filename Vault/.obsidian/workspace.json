@@ -11,10 +11,14 @@
             "id": "455fd5e11602df4e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01--Projects/BRP_Forker/character_creation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "character_creation"
             }
           }
         ]
@@ -205,6 +209,10 @@
   },
   "active": "455fd5e11602df4e",
   "lastOpenFiles": [
+    "01--Projects/BRP_Forker/characteristics.md",
+    "01--Projects/BRP_Forker/01_introduction/index.md",
+    "01--Projects/BRP_Forker/_base 1.md",
+    "01--Projects/BRP_Forker/_base.md",
     "01--Projects/BRP_Forker/02_characters/index.md",
     "01--Projects/BRP_Forker/12_appendices/index.md",
     "01--Projects/BRP_Forker/01_introduction/terms_brp.md",
@@ -237,10 +245,6 @@
     "99--Meta/00 - Templates/(TEMPLATE) Unique.md",
     "99--Meta/00 - Templates/(TEMPLATE) Daily.md",
     "99--Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "99--Meta/00 - Templates/(TEMPLATE) CyberPunk Session.md",
-    "99--Meta/00 - Templates/(TEMPLATE) CyberPunk Location.md",
-    "99--Meta/00 - Templates/(TEMPLATE) CyberPunk Faction.md",
-    "99--Meta/00 - Templates/(TEMPLATE) CyberPunk Equipment.md",
     "Untitled.canvas"
   ]
 }

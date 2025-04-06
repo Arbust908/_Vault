@@ -1,5 +1,26 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "character_creation",
+      "path": "01--Projects/BRP_Forker/character_creation.md"
+    },
+    {
+      "basename": "characteristics",
+      "path": "01--Projects/BRP_Forker/characteristics.md"
+    },
+    {
+      "basename": "index",
+      "path": "01--Projects/BRP_Forker/01_introduction/index.md"
+    },
+    {
+      "basename": "_base 1",
+      "path": "01--Projects/BRP_Forker/_base 1.md"
+    },
+    {
+      "basename": "_base",
+      "path": "01--Projects/BRP_Forker/_base.md"
+    }
+  ],
   "omittedPaths": [],
   "maxLength": null,
   "openType": "tab"
