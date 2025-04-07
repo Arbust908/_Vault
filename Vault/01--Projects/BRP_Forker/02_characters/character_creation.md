@@ -1,4 +1,3 @@
-
 ### Creating a Character
 
 You first need a character. Following is a system for developing your character. This system creates reasonably competent characters. Suggestions are provided in each step for more powerful characters. You should have a blank character sheet handy, and maybe another sheet of paper for notes. At chaosium.com you can download digital versions. When you get ready to create your character, your gamemaster and the other players should have already decided what sort of game you’ll all play, whether it be a science fiction, fantasy, modern horror, historical intrigue, espionage, pulp action, techno-thriller, or any number of other genres.
