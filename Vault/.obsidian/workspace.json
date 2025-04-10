@@ -11,10 +11,14 @@
             "id": "455fd5e11602df4e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01--Projects/YouTube-Uber/Project plans.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Project plans"
             }
           }
         ]
@@ -203,8 +207,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "12480dc304705369",
+  "active": "455fd5e11602df4e",
   "lastOpenFiles": [
+    "01--Projects/YouTube-Uber/YouTube-Extension-Ideation.md",
+    "01--Projects/YouTube-Uber/Project plans.md",
+    "01--Projects/YouTube-Uber",
+    "01--Projects/chain-starter/README.md",
+    "01--Projects/chain-starter",
     "01--Projects/Gothic_3d_Third_Person_Game/README.md",
     "01--Projects/Gothic_3d_Third_Person_Game",
     "01--Projects/Fantasy_Worldbuilding/README.md",
@@ -234,13 +243,8 @@
     "01--Projects/CyberPunk_BRP/Tech/cyberware-implants.md",
     "01--Projects/CyberPunk_BRP/Tech/fenrir-class-cyberhound.md",
     "01--Projects/CyberPunk_BRP/Tech/black-market-weapons.md",
-    "01--Projects/CyberPunk_BRP/Tech/basilisk-electrowave-cannon.md",
-    "01--Projects/CyberPunk_BRP/Tech/arachne-webspinner.md",
-    "01--Projects/CyberPunk_BRP/Tech/banshee-class-stealth-bomber.md",
     "01--Projects/CyberPunk_BRP/Rules/Characteristics",
     "01--Projects/CyberPunk_BRP/Maps/Locations",
-    "01--Projects/CyberPunk_BRP/Characters/Player Characters",
-    "01--Projects/CyberPunk_BRP/Characters/NPCs",
     "Untitled.canvas"
   ]
 }
