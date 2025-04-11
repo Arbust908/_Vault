@@ -75,7 +75,7 @@
    - Mobile compatibility
    - Plugin dependencies
    - Theme requirements
-   - Dice roller compatibility
+     - Dice roller compatibility
 
 3. **Performance**
    - Local processing

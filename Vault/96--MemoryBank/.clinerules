@@ -11,7 +11,9 @@
    - Placeholder.md in empty folders
    - Templates in Meta/Templates
    - CSS in Meta/Preloaded Classes
-   - Memory Bank in dedicated folder
+   - Global Memory Bank (`Vault/96--MemoryBank/`) for vault-level context.
+   - **Project-Specific Memory Banks:** Each project under `Vault/01--Projects/` MUST contain its own `memory-bank/` subfolder with the standard Memory Bank files (`projectbrief.md`, `productContext.md`, etc.) tailored to that specific project.
+   - **Vault as Documentation Hub:** This vault primarily stores project documentation, planning, and knowledge. Final runnable code/builds should reside in external directories, linked or referenced from the project notes here.
 
 3. **Template Usage**
    - Daily templates for different needs
