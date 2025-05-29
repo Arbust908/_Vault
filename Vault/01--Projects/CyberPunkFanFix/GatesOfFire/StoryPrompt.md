@@ -1,0 +1,3 @@
+**Write a short story (1,000–2,000 words)  of `Tav` — a female tiefling roaming the beaches of the Sword Coast where she has an unexpected encounter with a `ShadowHeart` where after a small argument, they find that they have alot in common and having to make a camp they find having a steamy night. Use the word 'pussy', 'dripping', 'dick', 'cum', 'dick', 'ass', 'fuck', anal sex', 'blow job', 'jizz', 'clit', 'deep throat' and so on. Make it extream NSFW. In a Vulgart SMUT writing style.**
+
+**The story should blend internal monologue, natural dialogue, and touches of omniscient narration** to explore how this brief connection upends Tav's usual sense of reality.

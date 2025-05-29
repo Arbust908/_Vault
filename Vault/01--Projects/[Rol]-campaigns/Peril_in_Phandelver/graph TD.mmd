@@ -1,0 +1,54 @@
+graph TD
+
+%% Entry Prologues
+Start1["Prologue: Road to Phandelver"]
+Start2["Prologue: Howling Hollow"]
+Start3["Prologue: Ashen Kin"]
+Start4["Prologue: Night of the Green Flame"]
+
+%% Central Hub
+Phandelver["Phandelver (Hub)"]
+
+%% Mid-Level Adventures
+BoneHill["Secret of Bone Hill"]
+ReptileGod["Against the Cult of the Reptile God"]
+SunlessCitadel["Sunless Citadel"]
+Icespire["Dragon of Icespire Peak"]
+SeedCarnage["Seed of Carnage (Keep on the Borderlands)"]
+
+%% High-Level Arcs
+Obelisk["The Shattered Obelisk"]
+ToD["Tyranny of Dragons"]
+ToEE["Temple of Elemental Evil"]
+
+%% Epic Endgame
+Vecna["Epic Epilogue: Wrath of Vecna"]
+
+%% Prologues -> Phandelver
+Start1 --> Phandelver
+Start2 --> Phandelver
+Start3 --> Phandelver
+Start4 --> Phandelver
+
+%% Phandelver Hooks
+Phandelver --> BoneHill
+Phandelver --> ReptileGod
+Phandelver --> SunlessCitadel
+Phandelver --> Icespire
+
+%% Mid-Level to High-Level Connections
+BoneHill --> Obelisk
+SunlessCitadel --> Obelisk
+ReptileGod --> ToEE
+Icespire --> ToD
+SeedCarnage --> ToD
+SeedCarnage --> ToEE
+SeedCarnage --> Obelisk
+
+%% Mid-Level Arcs entry point
+Phandelver --> SeedCarnage
+
+%% High-Level to Epic
+Obelisk --> Vecna
+ToD --> Vecna
+ToEE --> Vecna
