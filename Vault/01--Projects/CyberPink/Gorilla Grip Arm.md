@@ -1,0 +1,1 @@
+Forearm and hand replacements made of a mix of Kevlar and Fiber Glass Dermal compound that make them almost bulletproof adding also adds strength. The Hand mechanics give the user extra grip power that help to keep grapple on whatever it grabs. Even though it is usually use in pairs, the mod is sold separately, given some Militar users have other Hand or Arm mods

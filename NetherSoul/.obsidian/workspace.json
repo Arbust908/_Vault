@@ -11,10 +11,12 @@
             "id": "ae5e92eb26ead99a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "03--Resources/0efa9bdb9b5a16033b3e24e34f55891c.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "0efa9bdb9b5a16033b3e24e34f55891c"
             }
           }
         ]
@@ -86,17 +88,25 @@
             "state": {
               "type": "recent-files",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          },
+          {
+            "id": "93d94220ddd34790",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
               "icon": "clock",
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 370.5,
-    "collapsed": true
+    "width": 370.5
   },
   "right": {
     "id": "b12ab3dca66e1f4b",
@@ -112,16 +122,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03--Resources/0efa9bdb9b5a16033b3e24e34f55891c.jpg",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 0efa9bdb9b5a16033b3e24e34f55891c"
             }
           },
           {
@@ -186,19 +197,19 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": true,
       "command-palette:Open command palette": true,
       "graph:Open graph view": false,
@@ -206,17 +217,29 @@
       "zk-prefixer:Create new unique note": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "github-sync:Sync with Remote": false
     }
   },
   "active": "ae5e92eb26ead99a",
   "lastOpenFiles": [
+    "03--Resources/0ef600a5121fa6e392841f07e986d4e0.jpg",
+    "03--Resources/0e15ff96cc01b5e0214d63b0cd604c41.jpg",
+    "03--Resources/0de2e264015cf4e97e90c277e3733a2c.jpg",
+    "03--Resources/0d8590372536e7c88fedd00fb1409354.jpg",
+    "03--Resources/0d67167d152e83ecb0f649448a020032.jpg",
+    "03--Resources/0d4ed122827d62b9c9db7bf456cfc5c5.jpg",
+    "03--Resources/0cfcfecefa6fd08fa580734d1e804d01.jpg",
+    "03--Resources/0c8231a8e80818d14f3f57d169b68cf8.jpg",
+    "03--Resources/0c71f0e0b495fc8bd68c11a15da574f0.jpg",
+    "03--Resources/0baf9976eb7ba3bd27a2ee827b840a6d.jpg",
+    "03--Resources/0b62f8598fa1cd3cf9b74c891a84a84f.jpg",
+    "03--Resources/IlithidSpells.ai",
+    "01--Projects/notas/index.md",
+    "01--Projects/notas",
     "Untitled 1.md",
     "Untitled.md",
     "01--Projects/YouTube-Uber/YouTube-Extension-Ideation.md",
@@ -249,10 +272,6 @@
     "01--Projects/CyberPunk_BRP/Tech/jormungandr-tunnel-borer.md",
     "01--Projects/CyberPunk_BRP/Tech/hekatonkheires-siege-walker.md",
     "01--Projects/CyberPunk_BRP/Tech/harpy-vtol-gunship.md",
-    "01--Projects/CyberPunk_BRP/Tech/gorgon-7x-neural-disruptor.md",
-    "01--Projects/CyberPunk_BRP/Tech/cyberware-implants.md",
-    "01--Projects/CyberPunk_BRP/Rules/Characteristics",
-    "01--Projects/CyberPunk_BRP/Maps/Locations",
     "Untitled.canvas"
   ]
 }

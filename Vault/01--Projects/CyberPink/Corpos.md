@@ -1,0 +1,1 @@
+Global Super Corporations that dominate big chunks of life on the 30XXs, normally known as **Corps**. Those that work for these corporations are know as **Corpos** or **Suits** 

@@ -1,0 +1,1 @@
+An eye mod that gives the user a visual input for neural interface. It also add better low light sight and an extended peripheral view. It also has an easy to modify Iris shape and eye color.

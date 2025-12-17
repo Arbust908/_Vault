@@ -1,0 +1,1 @@
+A dermal implant that let’s the user change its color with some neural or console, letting save up to 3 patterns and a skill and fast neural mod change colors on the fly to create a camouflage skin.

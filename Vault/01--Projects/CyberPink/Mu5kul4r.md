@@ -1,0 +1,1 @@
+A modified [[WarTech]] Muscular enhancer, with removed guardrails that when pair with a top of the line Neural Interface lets users increase muscular output by 300%

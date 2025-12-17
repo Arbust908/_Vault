@@ -1,0 +1,100 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: COFFEE_CULTURE_A4.indd
+
+PACKAGE DATE: 24/10/17 2:26 pm
+Creation Date: 24/10/17
+Modification Date: 24/10/17
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page37
+
+FONTS
+8 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 2 Protected
+
+Fonts Packaged
+- Name: Eczar-Bold; Type: OpenType TrueType, Status: OK
+- Name: Eczar-Medium; Type: OpenType TrueType, Status: OK
+- Name: Eczar-Regular; Type: OpenType TrueType, Status: OK
+- Name: Eczar-SemiBold; Type: OpenType TrueType, Status: OK
+Fonts Not Packaged
+- Name: Roboto-Bold; Type: OpenType TrueType, Status: Synced
+Fonts Packaged
+- Name: Roboto-Medium; Type: TrueType, Status: OK
+- Name: Roboto-Regular; Type: TrueType, Status: OK
+Fonts Not Packaged
+- Name: RobotoMono-Regular; Type: OpenType TrueType, Status: Synced
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 35 Links Found; 0 Modified, 0 Missing, 0 Inaccessible
+Images: 0 Embedded, 35 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Device Independent, (PostScript® File)
+Printing To: Prepress File
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 mm, 0 mm, 0 mm, 0 mm
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: All
+OPI/DCS Image Replacement: No
+Page Size: A4
+Paper Dimensions: 0 mm x 0 mm
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. COFFEE_CULTURE_A4.indd; type: Adobe InDesign publication; size: 32608K
+2. COFFEE_CULTURE_A4.idml; type: InDesign Markup Document; size: 201K
+3. COFFEE_CULTURE_A4.pdf; type: Adobe Acrobat Document; size: 33589K
+4. Eczar-Bold.ttf; type: Font file; size: 311K
+5. Eczar-Medium.ttf; type: Font file; size: 309K
+6. Eczar-Regular.ttf; type: Font file; size: 302K
+7. Eczar-SemiBold.ttf; type: Font file; size: 313K
+8. Roboto-Medium.ttf; type: Font file; size: 168K
+9. Roboto-Regular.ttf; type: Font file; size: 167K

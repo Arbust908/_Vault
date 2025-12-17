@@ -6,7 +6,6 @@ affiliation: Independent/Eclipse (unknowing)
 threat_level: medium
 tags: [netrunner, grief, eclipse, potential-oracle]
 ---
-
 # Lysandra "Spectre" Voss
 
 ## Basic Information

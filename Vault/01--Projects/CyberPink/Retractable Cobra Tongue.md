@@ -1,0 +1,1 @@
+A Jaw, throat and tongue replacement that’s concealed with minimal seams. Mainly used for critical combat in face to face combat. The tip of the Tongue can be laced with paralytics or poisons.
