@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "583813b72b1755e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f73b38e4ce1e0349",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efa53cb85379b00c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Knowledge/Why necromancy is seen as a good thing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Why necromancy is seen as a good thing"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4c833e137f3b42de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4411677762441a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Knowledge/My go-to fixes for this.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My go-to fixes for this"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71345e5b296c7db7",
+    "type": "split",
+    "children": [
+      {
+        "id": "19ce23b5b8d9a55b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e46b7f642c2a3c5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "266d069f822dc965",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6df374dadf966f8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22053ccdac106592",
+    "type": "split",
+    "children": [
+      {
+        "id": "86f2eeda29b0e3ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fc98328628fa64c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "500 Journal/El Camino del Artista.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for El Camino del Artista"
+            }
+          },
+          {
+            "id": "4c27e9332ab4d359",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "500 Journal/El Camino del Artista.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from El Camino del Artista"
+            }
+          },
+          {
+            "id": "ffb172312573bf41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "429d45655f6bde4f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8a7181c761f64842",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "500 Journal/El Camino del Artista.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of El Camino del Artista"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e46b7f642c2a3c5d",
+  "lastOpenFiles": [
+    "200 Knowledge/Subtle ways to include foreshadowing.md",
+    "200 Knowledge/Plot twist Ideas.md",
+    "200 Knowledge/Pasted image 20260116165314.png",
+    "200 Knowledge/My go-to fixes for this.md",
+    "200 Knowledge/Morally Grey but still likable?.md",
+    "200 Knowledge/Latin phrases worth knowing.md",
+    "200 Knowledge/Crow Rhyme.md",
+    "200 Knowledge/7 Worldbuilding Tips.md",
+    "400 Workspace/Untitled.md",
+    "500 Journal/El Camino del Artista.md",
+    "200 Knowledge/ec966e8c64faae2cd1f2084c2d3997fb.jpg",
+    "200 Knowledge/ee5c6060df6f214d3117839078b1dc10.jpg",
+    "200 Knowledge/f6b75e8f9a7e2d52a9db3bf4be6d78c6.jpg",
+    "200 Knowledge/ee2847cfa478bee99507e6935da395d4.jpg",
+    "200 Knowledge/fe1d0f2bc585c14ba9180f602ffb52a2.jpg",
+    "200 Knowledge/Untitled.md",
+    "200 Knowledge/3f4bb9b34391b33ad9f3e20a98fe24e6.jpg",
+    "200 Knowledge/Why necromancy is seen as a good thing.md",
+    "200 Knowledge/3fa71a6c4526666890247fb13974a3f1.jpg",
+    "200 Knowledge/3ee32c0108cb0d3e4c149fb23251d11a.jpg",
+    "200 Knowledge/3da2f1c614b6df6f529d99cf184758a8.jpg",
+    "200 Knowledge/BookLayout",
+    "Welcome.md",
+    "700",
+    "600 Life Areas",
+    "500 Journal",
+    "400 Workspace",
+    "300 Map of Contents",
+    "200 Knowledge",
+    "100 Personal",
+    "000 Obsidian"
+  ]
+}

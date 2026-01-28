@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01--Projects/ideas.md",
+                "file": "00--Maps of Content/DevProjects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ideas"
+              "title": "DevProjects"
+            }
+          },
+          {
+            "id": "7aedbf6f4d0950cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01--Projects/_DevProjects/socius.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "socius"
+            }
+          },
+          {
+            "id": "55726156724c65c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01--Projects/_DevProjects/cerebrum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cerebrum"
+            }
+          },
+          {
+            "id": "1a1e5946e84f923f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00--Maps of Content/DevProjects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DevProjects"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 382.5
   },
   "right": {
     "id": "b12ab3dca66e1f4b",
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01--Projects/ideas.md",
+                "file": "00--Maps of Content/DevProjects.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ideas"
+              "title": "Backlinks for DevProjects"
             }
           },
           {
@@ -186,24 +229,36 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ae5e92eb26ead99a",
+  "active": "1a1e5946e84f923f",
   "lastOpenFiles": [
     "00--Maps of Content/CyberPunk BRP.md",
-    "03--Resources/[Art]/Bannermen/Bannermen-Transparent.png",
-    "03--Resources/[Art]/Bannermen/Bannermen.jpg",
-    "03--Resources/CallOfCthulhu/6a7060cfecb705e5b341906920f3ac18.jpg",
-    "03--Resources/0ab94840d55a60c519c313c179491c0d.jpg",
+    "02--Areas/DevStack.md",
+    "01--Projects/__DragonTower/index.md",
+    "01--Projects/__LuzObscura/index.md",
+    "01--Projects/__DragonTower",
+    "01--Projects/__LuzObscura",
+    "01--Projects/_DevProjects/socius.md",
+    "01--Projects/_DevProjects/cerebrum.md",
+    "00--Maps of Content/DevProjects.md",
+    "01--Projects/_DevProjects",
+    "03--Resources/0cfcfecefa6fd08fa580734d1e804d01.jpg",
+    "03--Resources/0cdfd401493b897584ccd6386933a5c7.jpg",
+    "03--Resources/0c8231a8e80818d14f3f57d169b68cf8.jpg",
+    "03--Resources/Classes.jpg",
+    "03--Resources/UndeadKnight.jpg",
+    "03--Resources/0b62f8598fa1cd3cf9b74c891a84a84f.jpg",
     "03--Resources/0b59c6a2311053fb2af7fc6bbaa7a40e.jpg",
+    "03--Resources/0afbd55174b63cd8ccfe053bf2c97e6e.jpg",
+    "03--Resources/00aecba91986aa1b76100719c8a74d26.jpg",
+    "03--Resources/0ab94840d55a60c519c313c179491c0d.jpg",
+    "03--Resources/weak_d_&_d_characters_ar_better.md",
+    "01--Projects/crimson_court/index.md",
+    "01--Projects/notas/index.md",
+    "01--Projects/ideas.md",
     "03--Resources/0b59c6a2311053fb2af7fc6bbaa7a40e.md",
     "03--Resources/00aecba91986aa1b76100719c8a74d26.md",
     "03--Resources/0ab94840d55a60c519c313c179491c0d.md",
-    "03--Resources/0efa9bdb9b5a16033b3e24e34f55891c.jpg",
-    "03--Resources/0ef600a5121fa6e392841f07e986d4e0.jpg",
-    "03--Resources/0e15ff96cc01b5e0214d63b0cd604c41.jpg",
-    "03--Resources/0de2e264015cf4e97e90c277e3733a2c.jpg",
-    "03--Resources/0d8590372536e7c88fedd00fb1409354.jpg",
     "03--Resources/IlithidSpells.ai",
-    "01--Projects/notas/index.md",
     "01--Projects/notas",
     "Untitled 1.md",
     "Untitled.md",
@@ -218,22 +273,10 @@
     "01--Projects/Fantasy_Worldbuilding/04--Characters",
     "01--Projects/Fantasy_Worldbuilding",
     "01--Projects/Fantasy_Visual_Novel/README.md",
-    "01--Projects/Fantasy_Visual_Novel",
     "01--Projects/Cyberpunk_2d_Side_Scroller/README.md",
-    "01--Projects/Cyberpunk_2d_Side_Scroller",
-    "01--Projects/CyberPunk_BRP/Campaigns/Sessions/Session Logs",
     "01--Projects/CyberPunk_BRP/Characters/NPCs/fixers.md",
     "01--Projects/CyberPunk_BRP/Characters/NPCs/Lysandra Spectre Voss.md",
     "01--Projects/CyberPunk_BRP/Tech/oni-exosuit.md",
-    "01--Projects/CyberPunk_BRP/Tech/yggdrasil-orbital-laser.md",
-    "01--Projects/CyberPunk_BRP/Tech/war-machines.md",
-    "01--Projects/CyberPunk_BRP/Tech/tiamat-bio-chem-crawler.md",
-    "01--Projects/CyberPunk_BRP/Tech/streetwear-armor.md",
-    "01--Projects/CyberPunk_BRP/Tech/sleipnir-88-mobile-fortress.md",
-    "01--Projects/CyberPunk_BRP/Tech/quickhacks.md",
-    "01--Projects/CyberPunk_BRP/Tech/phoenix-mk-vi-nanite-swarm.md",
-    "01--Projects/CyberPunk_BRP/Tech/leviathan-dreadnought.md",
-    "01--Projects/CyberPunk_BRP/Tech/kraken-emp-harvester.md",
     "Untitled.canvas"
   ]
 }

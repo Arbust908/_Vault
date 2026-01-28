@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01--Projects/CyberPink/index.md",
+                "file": "01--Projects/CyberPink/[Story]_BeastOnIce_Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "731003bda6ef4645",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01--Projects/CyberPink/NoCreds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NoCreds"
+              "title": "[Story]_BeastOnIce_Overview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,8 +114,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,44 +236,46 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "eb1014aa93ddc5b7",
+  "active": "705f83c57c674945",
   "lastOpenFiles": [
-    "01--Projects/TechDome/index.md",
-    "01--Projects/Proxima_Connection/story/index.md",
-    "01--Projects/Proxima_Connection/characters/Placeholder.md",
-    "01--Projects/Fantasy_Worldbuilding/README.md",
-    "01--Projects/CyberPunkFanFix/GatesOfFire/Story_1.md",
-    "01--Projects/CyberPunkFanFix/GatesOfFire/shadowheart.md",
-    "01--Projects/CyberPink/Kara Cider.md",
-    "01--Projects/CyberPink/ViPR.md",
-    "01--Projects/CyberPink/3ro5.md",
-    "01--Projects/CyberPink/M1nd-Fyr.md",
-    "01--Projects/CyberPink/74lluZ.md",
+    "_AWSTrain/oc_insight.md",
+    "_AWSTrain/cc_insight.md",
+    "_AWSTrain/index.md",
+    "_AWSTrain",
+    "AmVision/Screenshot 2026-01-27 at 11.50.31 AM.png",
+    "AmVision/DGM_app.md",
+    "AmVision/AmVision_Development.md",
+    "AmVision/AmVision_Design.md",
+    "AmVision",
+    "AmVision_Development.md",
+    "AmVision_Design copy.md",
+    "AmVision_Design.md",
+    "AmVision.md",
+    "01--Projects/CyberPink/[Story]_PerfectFit_Overview.md",
     "01--Projects/CyberPink/[Story]_BeastOnIce_Overview.md",
-    "01--Projects/CyberPink/[Story]_BeastOnIce copy.md",
-    "01--Projects/CyberPink/Punga.md",
     "01--Projects/CyberPink/[Story]_BeastOnIce.md",
+    "01--Projects/web_upgrades/index.md",
+    "01--Projects/AyF-Sell-Things-eCommerce-Web/README.md",
+    "01--Projects/[GamesDev]/Gothic_3d_Third_Person_Game/README.md",
+    "01--Projects/[GamesDev]",
+    "01--Projects/Proxima_Connection/index.md",
+    "01--Projects/Proxima_Connection/chat.md",
+    "01--Projects/[GamesDev]/Fantasy_Visual_Novel/README.md",
+    "01--Projects/Fantasy_Worldbuilding/README.md",
+    "01--Projects/Cyberpunk Isometric Turn-Based Strategy RPG/README.md",
+    "01--Projects/chain-starter/README.md",
+    "01--Projects/[Rol]/Minis/index.md",
+    "01--Projects/[Rol]",
+    "01--Projects/Untitled.md",
+    "01--Projects/[Apps]/WrittingRoomAi/index.md",
+    "macHelper.md",
+    "01--Projects/[Apps]",
+    "03--Resources/VisualNovelCharacterMinSheetSpec.png",
+    "_ReactTrain/StudyMaterial",
     "01--Projects/CyberPink/Kara Cider.md.tmp.47799.1765492219302",
-    "01--Projects/CyberPink/Retractable Cobra Tongue.md",
-    "01--Projects/CyberPink/Cloaking Chameleon Dermis.md",
-    "01--Projects/CyberPink/Providence Iris.md",
-    "01--Projects/CyberPink/Gorilla Grip Arm.md",
-    "01--Projects/CyberPink/KevSkin.md",
-    "01--Projects/CyberPink/WarTech.md",
-    "01--Projects/CyberPink/Mu5kul4r.md",
-    "01--Projects/CyberPink/index.md",
-    "01--Projects/CyberPink/Elle VonHaft.md",
-    "01--Projects/CyberPink/NoCreds.md",
-    "01--Projects/CyberPink/Untitled 1.md",
     "01--Projects/YouTube-Uber",
     "01--Projects/chain-starter",
-    "01--Projects/Gothic_3d_Third_Person_Game",
-    "01--Projects/Fantasy_Worldbuilding/04--Characters",
-    "01--Projects/Fantasy_Worldbuilding",
-    "01--Projects/Fantasy_Visual_Novel",
-    "01--Projects/Cyberpunk_2d_Side_Scroller",
-    "01--Projects/CyberPunk_BRP/Campaigns/Sessions/Session Logs",
-    "01--Projects/CyberPunk_BRP/Rules/Characteristics",
+    "01--Projects/[GamesDev]/Gothic_3d_Third_Person_Game",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,7 @@
+- Nuxt
+- Tailwind
+- Vue
+- Pinia
+- SQLite
+- Drizzle
+- Better Auth

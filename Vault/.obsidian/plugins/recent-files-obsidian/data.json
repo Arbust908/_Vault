@@ -1,16 +1,144 @@
 {
   "recentFiles": [
     {
+      "basename": "[Story]_BeastOnIce_Overview",
+      "path": "01--Projects/CyberPink/[Story]_BeastOnIce_Overview.md"
+    },
+    {
+      "basename": "[Story]_PerfectFit_Overview",
+      "path": "01--Projects/CyberPink/[Story]_PerfectFit_Overview.md"
+    },
+    {
+      "basename": "[Story]_BeastOnIce",
+      "path": "01--Projects/CyberPink/[Story]_BeastOnIce.md"
+    },
+    {
+      "basename": "index",
+      "path": "01--Projects/web_upgrades/index.md"
+    },
+    {
       "basename": "README",
-      "path": "01--Projects/Fantasy_Worldbuilding/README.md"
+      "path": "01--Projects/AyF-Sell-Things-eCommerce-Web/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "01--Projects/[GamesDev]/Gothic_3d_Third_Person_Game/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "01--Projects/[GamesDev]/Fantasy_Visual_Novel/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "01--Projects/Cyberpunk Isometric Turn-Based Strategy RPG/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "01--Projects/chain-starter/README.md"
+    },
+    {
+      "basename": "index",
+      "path": "01--Projects/[Rol]/Minis/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "01--Projects/[Apps]/WrittingRoomAi/index.md"
+    },
+    {
+      "basename": "macHelper",
+      "path": "macHelper.md"
+    },
+    {
+      "basename": "extractorAgent",
+      "path": "01--Projects/[Apps]/extractorAgent.md"
+    },
+    {
+      "basename": "telgraph.md",
+      "path": "telgraph.md.md"
+    },
+    {
+      "basename": "Placeholder",
+      "path": "05--Fleeting/Placeholder.md"
+    },
+    {
+      "basename": "20250404",
+      "path": "06--Daily/20250404.md"
+    },
+    {
+      "basename": "VisualNovelCharacterMinSheetSpec",
+      "path": "03--Resources/VisualNovelCharacterMinSheetSpec.png"
+    },
+    {
+      "basename": "brp-ttrpg-base",
+      "path": "brp-ttrpg-base.md"
+    },
+    {
+      "basename": "TaleWeaverApp",
+      "path": "01--Projects/[Apps]/TaleWeaverApp.md"
+    },
+    {
+      "basename": "FileForge",
+      "path": "01--Projects/[Apps]/FileForge.md"
+    },
+    {
+      "basename": "better-auth",
+      "path": "01--Projects/[Apps]/better-auth.md"
+    },
+    {
+      "basename": "AI interview",
+      "path": "_ReactTrain/AI interview.md"
+    },
+    {
+      "basename": "Core",
+      "path": "_ReactTrain/StudyMaterial/Core.md"
+    },
+    {
+      "basename": "DeepSeekPrompt",
+      "path": "_ReactTrain/StudyMaterial/DeepSeekPrompt.md"
+    },
+    {
+      "basename": "ClaudePrompt",
+      "path": "_ReactTrain/StudyMaterial/ClaudePrompt.md"
+    },
+    {
+      "basename": "GPTPrompt",
+      "path": "_ReactTrain/StudyMaterial/GPTPrompt.md"
+    },
+    {
+      "basename": "GeminiPrompt",
+      "path": "_ReactTrain/StudyMaterial/GeminiPrompt.md"
+    },
+    {
+      "basename": "GPTRaw",
+      "path": "_ReactTrain/StudyMaterial/GPTRaw.md"
+    },
+    {
+      "basename": "ClaudeRaw",
+      "path": "_ReactTrain/StudyMaterial/ClaudeRaw.md"
+    },
+    {
+      "basename": "GeminiRaw",
+      "path": "_ReactTrain/StudyMaterial/GeminiRaw.md"
+    },
+    {
+      "basename": "DeepSeekRaw",
+      "path": "_ReactTrain/StudyMaterial/DeepSeekRaw.md"
+    },
+    {
+      "basename": "index",
+      "path": "01--Projects/CyberPink/index.md"
+    },
+    {
+      "basename": "NoCreds",
+      "path": "01--Projects/CyberPink/NoCreds.md"
     },
     {
       "basename": "Story_1",
-      "path": "01--Projects/CyberPunkFanFix/GatesOfFire/Story_1.md"
+      "path": "01--Projects/CyberPink/FanFlix/GatesOfFire/Story_1.md"
     },
     {
       "basename": "shadowheart",
-      "path": "01--Projects/CyberPunkFanFix/GatesOfFire/shadowheart.md"
+      "path": "01--Projects/CyberPink/FanFlix/GatesOfFire/shadowheart.md"
     },
     {
       "basename": "Kara Cider",
@@ -65,76 +193,8 @@
       "path": "01--Projects/CyberPink/Mu5kul4r.md"
     },
     {
-      "basename": "index",
-      "path": "01--Projects/CyberPink/index.md"
-    },
-    {
       "basename": "Elle VonHaft",
       "path": "01--Projects/CyberPink/Elle VonHaft.md"
-    },
-    {
-      "basename": "NoCreds",
-      "path": "01--Projects/CyberPink/NoCreds.md"
-    },
-    {
-      "basename": "Credit",
-      "path": "01--Projects/CyberPink/Credit.md"
-    },
-    {
-      "basename": "B-ld Corp",
-      "path": "01--Projects/CyberPink/B-ld Corp.md"
-    },
-    {
-      "basename": "New Astra",
-      "path": "01--Projects/CyberPink/New Astra.md"
-    },
-    {
-      "basename": "Ulisis",
-      "path": "01--Projects/CyberPink/Ulisis.md"
-    },
-    {
-      "basename": "Corpos",
-      "path": "01--Projects/CyberPink/Corpos.md"
-    },
-    {
-      "basename": "credits",
-      "path": "01--Projects/BRP_Forker/01_introduction/credits.md"
-    },
-    {
-      "basename": "Lysandra Spectre Voss",
-      "path": "01--Projects/CyberPunk_BRP/Characters/NPCs/Lysandra Spectre Voss.md"
-    },
-    {
-      "basename": "fixers",
-      "path": "01--Projects/CyberPunk_BRP/Characters/NPCs/fixers.md"
-    },
-    {
-      "basename": "Project plans",
-      "path": "01--Projects/YouTube-Uber/Project plans.md"
-    },
-    {
-      "basename": "YouTube-Extension-Ideation",
-      "path": "01--Projects/YouTube-Uber/YouTube-Extension-Ideation.md"
-    },
-    {
-      "basename": "character_creation",
-      "path": "01--Projects/BRP_Forker/character_creation.md"
-    },
-    {
-      "basename": "characteristics",
-      "path": "01--Projects/BRP_Forker/characteristics.md"
-    },
-    {
-      "basename": "index",
-      "path": "01--Projects/BRP_Forker/01_introduction/index.md"
-    },
-    {
-      "basename": "_base 1",
-      "path": "01--Projects/BRP_Forker/_base 1.md"
-    },
-    {
-      "basename": "_base",
-      "path": "01--Projects/BRP_Forker/_base.md"
     }
   ],
   "omittedPaths": [],

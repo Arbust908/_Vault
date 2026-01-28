@@ -1,0 +1,2 @@
+LuzObscura o DarkLight es un sistema simple de TTRPG basado en ClareObscure Expedition 33
+La idea es un sistema simple con arquetipos para personajes, atributos, y despues un _pool_ de extra habilidades **Pictos** que alteran el combate. por otro lado combate distinto donde los ataques siempre pegan a menos que uno _Dodge_, _Parry_ o _Jump(?)_ 
