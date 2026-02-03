@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01--Projects/CyberPink/[Story]_BeastOnIce_Overview.md",
+                "file": "01--Projects/[Rol]/Campaigns/best_adventures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "[Story]_BeastOnIce_Overview"
+              "title": "best_adventures"
             }
           }
         ]
@@ -238,6 +238,14 @@
   },
   "active": "705f83c57c674945",
   "lastOpenFiles": [
+    "01--Projects/[Rol]/Campaigns/TheDarkWish/index.md",
+    "01--Projects/AI-File-Renamer-App/README.md",
+    "01--Projects/AyF-Sell-Things-eCommerce-Web/README.md",
+    "01--Projects/web_upgrades/index.md",
+    "telgraph.md.md",
+    "macHelper.md",
+    "brp-ttrpg-base.md",
+    "01--Projects/CyberPink/[Story]_BeastOnIce_Overview.md",
     "_AWSTrain/oc_insight.md",
     "_AWSTrain/cc_insight.md",
     "_AWSTrain/index.md",
@@ -252,10 +260,7 @@
     "AmVision_Design.md",
     "AmVision.md",
     "01--Projects/CyberPink/[Story]_PerfectFit_Overview.md",
-    "01--Projects/CyberPink/[Story]_BeastOnIce_Overview.md",
     "01--Projects/CyberPink/[Story]_BeastOnIce.md",
-    "01--Projects/web_upgrades/index.md",
-    "01--Projects/AyF-Sell-Things-eCommerce-Web/README.md",
     "01--Projects/[GamesDev]/Gothic_3d_Third_Person_Game/README.md",
     "01--Projects/[GamesDev]",
     "01--Projects/Proxima_Connection/index.md",
@@ -263,12 +268,7 @@
     "01--Projects/[GamesDev]/Fantasy_Visual_Novel/README.md",
     "01--Projects/Fantasy_Worldbuilding/README.md",
     "01--Projects/Cyberpunk Isometric Turn-Based Strategy RPG/README.md",
-    "01--Projects/chain-starter/README.md",
-    "01--Projects/[Rol]/Minis/index.md",
     "01--Projects/[Rol]",
-    "01--Projects/Untitled.md",
-    "01--Projects/[Apps]/WrittingRoomAi/index.md",
-    "macHelper.md",
     "01--Projects/[Apps]",
     "03--Resources/VisualNovelCharacterMinSheetSpec.png",
     "_ReactTrain/StudyMaterial",

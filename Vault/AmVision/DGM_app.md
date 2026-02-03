@@ -86,3 +86,6 @@ database (Supabase)
 ─
 
 ░▒▓
+
+speech-to-text
+seems to be GPT-4o-transcribe, followed by Eleven Labs, Whisper-large, and the Gemini models. All the startups and AWS/Microsoft are decent

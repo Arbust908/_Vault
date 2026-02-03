@@ -113,3 +113,12 @@ shift the traffic to new version, and just then it removes the previous version
 [5:57 PM, 1/22/2026] Fran: Ok thanks
 [5:58 PM, 1/22/2026] Fran: Yeah I thought that would be automated and not needing a manual load balancer
 
+From ChatGPT
+
+## Understanding CloudFront (bare minimum survival kit)
+
+- CloudFront caches aggressively. Assume it remembers everything forever.
+- Every deploy = invalidate cache or change file names.
+- SPA routing breaks without custom error responses.
+- Headers matter. Cache-Control can save or ruin your week.
+- Logs exist. Use them when reality stops matching expectations.

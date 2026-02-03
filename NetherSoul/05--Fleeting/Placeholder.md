@@ -1,1 +1,1 @@
-This is a note placeholder.
+This is the place for short lived notes, todos and other things that should be deleted by EOW.

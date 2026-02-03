@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "best_adventures",
+      "path": "01--Projects/[Rol]/Campaigns/best_adventures.md"
+    },
+    {
+      "basename": "index",
+      "path": "01--Projects/[Rol]/Campaigns/TheDarkWish/index.md"
+    },
+    {
+      "basename": "README",
+      "path": "01--Projects/AI-File-Renamer-App/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "01--Projects/AyF-Sell-Things-eCommerce-Web/README.md"
+    },
+    {
+      "basename": "index",
+      "path": "01--Projects/web_upgrades/index.md"
+    },
+    {
+      "basename": "telgraph.md",
+      "path": "telgraph.md.md"
+    },
+    {
+      "basename": "macHelper",
+      "path": "macHelper.md"
+    },
+    {
+      "basename": "brp-ttrpg-base",
+      "path": "brp-ttrpg-base.md"
+    },
+    {
       "basename": "[Story]_BeastOnIce_Overview",
       "path": "01--Projects/CyberPink/[Story]_BeastOnIce_Overview.md"
     },
@@ -11,14 +43,6 @@
     {
       "basename": "[Story]_BeastOnIce",
       "path": "01--Projects/CyberPink/[Story]_BeastOnIce.md"
-    },
-    {
-      "basename": "index",
-      "path": "01--Projects/web_upgrades/index.md"
-    },
-    {
-      "basename": "README",
-      "path": "01--Projects/AyF-Sell-Things-eCommerce-Web/README.md"
     },
     {
       "basename": "README",
@@ -45,16 +69,8 @@
       "path": "01--Projects/[Apps]/WrittingRoomAi/index.md"
     },
     {
-      "basename": "macHelper",
-      "path": "macHelper.md"
-    },
-    {
       "basename": "extractorAgent",
       "path": "01--Projects/[Apps]/extractorAgent.md"
-    },
-    {
-      "basename": "telgraph.md",
-      "path": "telgraph.md.md"
     },
     {
       "basename": "Placeholder",
@@ -67,10 +83,6 @@
     {
       "basename": "VisualNovelCharacterMinSheetSpec",
       "path": "03--Resources/VisualNovelCharacterMinSheetSpec.png"
-    },
-    {
-      "basename": "brp-ttrpg-base",
-      "path": "brp-ttrpg-base.md"
     },
     {
       "basename": "TaleWeaverApp",
@@ -187,14 +199,6 @@
     {
       "basename": "WarTech",
       "path": "01--Projects/CyberPink/WarTech.md"
-    },
-    {
-      "basename": "Mu5kul4r",
-      "path": "01--Projects/CyberPink/Mu5kul4r.md"
-    },
-    {
-      "basename": "Elle VonHaft",
-      "path": "01--Projects/CyberPink/Elle VonHaft.md"
     }
   ],
   "omittedPaths": [],

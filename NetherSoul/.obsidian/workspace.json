@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "DevProjects"
             }
+          },
+          {
+            "id": "1727d0edb89d136d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01--Projects/crimson_court/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00--Maps of Content/DevProjects.md",
+                "file": "01--Projects/crimson_court/index.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +161,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DevProjects"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -229,28 +243,33 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1a1e5946e84f923f",
+  "active": "1727d0edb89d136d",
   "lastOpenFiles": [
+    "01--Projects/_DevProjects/socius.md",
+    "01--Projects/_DevProjects/cerebrum.md",
+    "01--Projects/__NetherSouls/index.md",
+    "01--Projects/__LuzObscura/index.md",
+    "01--Projects/__FolkDark/index.md",
+    "03--Resources/1ab3e1fd5b29bccc3045b3c5b086c18f.jpg",
+    "03--Resources/1a7a96510d7c101abe0f3c7a0faf97da.jpg",
+    "03--Resources/001.jpg",
+    "03--Resources/0f78cb2cc5f2928e06955298d731e2d1.jpg",
+    "03--Resources/0f5f3174538d20e78dcc764a06695bd4.jpg",
+    "03--Resources/0f0f5a7378f663628f2789dc1b8fd621.jpg",
+    "03--Resources/0efa9bdb9b5a16033b3e24e34f55891c.jpg",
+    "03--Resources/0ef600a5121fa6e392841f07e986d4e0.jpg",
+    "03--Resources/0e36d8b82adfb287b9764b046c5bf1a5.jpg",
+    "03--Resources/0e15ff96cc01b5e0214d63b0cd604c41.jpg",
+    "04--Permanent/Placeholder.md",
+    "96--MemoryBank/prompt.md",
+    "Buffer application.md",
+    "00--Maps of Content/DevProjects.md",
     "00--Maps of Content/CyberPunk BRP.md",
     "02--Areas/DevStack.md",
     "01--Projects/__DragonTower/index.md",
-    "01--Projects/__LuzObscura/index.md",
     "01--Projects/__DragonTower",
     "01--Projects/__LuzObscura",
-    "01--Projects/_DevProjects/socius.md",
-    "01--Projects/_DevProjects/cerebrum.md",
-    "00--Maps of Content/DevProjects.md",
     "01--Projects/_DevProjects",
-    "03--Resources/0cfcfecefa6fd08fa580734d1e804d01.jpg",
-    "03--Resources/0cdfd401493b897584ccd6386933a5c7.jpg",
-    "03--Resources/0c8231a8e80818d14f3f57d169b68cf8.jpg",
-    "03--Resources/Classes.jpg",
-    "03--Resources/UndeadKnight.jpg",
-    "03--Resources/0b62f8598fa1cd3cf9b74c891a84a84f.jpg",
-    "03--Resources/0b59c6a2311053fb2af7fc6bbaa7a40e.jpg",
-    "03--Resources/0afbd55174b63cd8ccfe053bf2c97e6e.jpg",
-    "03--Resources/00aecba91986aa1b76100719c8a74d26.jpg",
-    "03--Resources/0ab94840d55a60c519c313c179491c0d.jpg",
     "03--Resources/weak_d_&_d_characters_ar_better.md",
     "01--Projects/crimson_court/index.md",
     "01--Projects/notas/index.md",
@@ -261,7 +280,6 @@
     "03--Resources/IlithidSpells.ai",
     "01--Projects/notas",
     "Untitled 1.md",
-    "Untitled.md",
     "01--Projects/YouTube-Uber/YouTube-Extension-Ideation.md",
     "01--Projects/YouTube-Uber/Project plans.md",
     "01--Projects/YouTube-Uber",
@@ -273,10 +291,6 @@
     "01--Projects/Fantasy_Worldbuilding/04--Characters",
     "01--Projects/Fantasy_Worldbuilding",
     "01--Projects/Fantasy_Visual_Novel/README.md",
-    "01--Projects/Cyberpunk_2d_Side_Scroller/README.md",
-    "01--Projects/CyberPunk_BRP/Characters/NPCs/fixers.md",
-    "01--Projects/CyberPunk_BRP/Characters/NPCs/Lysandra Spectre Voss.md",
-    "01--Projects/CyberPunk_BRP/Tech/oni-exosuit.md",
     "Untitled.canvas"
   ]
 }
