@@ -1,0 +1,8 @@
+- Combate Violento: no tiras para golpear, sino se tira daño directo. Si sale 1 falla. Si sacas el máximo del daño Explota (tiras de nuevo). La armadura ahora confiere reducción de daño.
+- Descanso Seguro: -el descanso corto es más rápido y solo dos veces por día. El descanso largo recupera menos y marca fina del día. Descanso seguro es nuevo y es solo en lugares seguros como pueblos como en posadas. Ahí si se recupera todo-
+- Inventario simple: cantidad de ítems igual al atributo de Con con ítems en formato de cartas.
+- No hay Visión Nocturna
+- Systems Origin
+- Exhausto cuando en 0 + Simplificar Exhausto
+- Skill dogpile
+- Nuevo cálculo de HP

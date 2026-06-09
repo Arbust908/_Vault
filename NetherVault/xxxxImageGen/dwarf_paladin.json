@@ -1,0 +1,34 @@
+{
+  "character_description": {
+    "race": "Dwarf",
+    "archetype": "Cleric or Paladin",
+    "color_palette": [
+      "Crimson Red",
+      "Burnished Gold",
+      "Dark Bronze",
+      "Earth Tones"
+    ],
+    "physical_features": {
+      "build": "Short, stout, and muscular",
+      "facial_hair": "Long, dark grey beard divided into two thick, braided sections bound with gold rings",
+      "headwear": "A deep crimson hooded cowl that completely obscures the face, adorned with a golden vertical line and crescent emblem"
+    },
+    "attire_and_armor": {
+      "outerwear": "Full-length crimson hooded cloak with gold embroidery and tattered edges",
+      "armor_type": "Dark bronze brigandine or lamellar-style armor with visible metal rivets, worn beneath a crimson and dark bronze tabard",
+      "gauntlets": "Heavy burnished gold vambraces featuring embossed dwarven face motifs",
+      "belt_and_accessories": {
+        "belt_buckle": "Large, ornate gold plate depicting a bearded dwarven face",
+        "pouches": "Dark brown leather hip pouch with a small metal tankard or scroll case attached",
+        "patches": "Repeated 'Dwarf face' leather patches integrated into the clothing"
+      },
+      "footwear": "Heavy dark brown leather boots with reinforced gold toe caps"
+    },
+    "art_style": {
+      "medium": "Digital painting",
+      "technique": "Studio-style lighting with soft shadows and sharp metallic highlights",
+      "view": "Three-quarter standing pose"
+    },
+    "mood": "Mysterious, regal, and intimidating"
+  }
+}

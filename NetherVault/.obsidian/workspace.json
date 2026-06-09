@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f73b38e4ce1e0349",
+        "id": "780347c51b011a68",
         "type": "tabs",
         "children": [
           {
-            "id": "efa53cb85379b00c",
+            "id": "514cf8f31dad727a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Knowledge/Why necromancy is seen as a good thing.md",
+                "file": "Video_Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why necromancy is seen as a good thing"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4c833e137f3b42de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4411677762441a78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Knowledge/My go-to fixes for this.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "My go-to fixes for this"
+              "title": "Video_Summary"
             }
           }
         ]
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "500 Journal/El Camino del Artista.md",
+                "file": "Campañas/ElTronoDelEste/campaign_background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for El Camino del Artista"
+              "title": "Backlinks for campaign_background"
             }
           },
           {
@@ -200,41 +180,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "e46b7f642c2a3c5d",
   "lastOpenFiles": [
-    "200 Knowledge/Subtle ways to include foreshadowing.md",
-    "200 Knowledge/Plot twist Ideas.md",
-    "200 Knowledge/Pasted image 20260116165314.png",
-    "200 Knowledge/My go-to fixes for this.md",
-    "200 Knowledge/Morally Grey but still likable?.md",
-    "200 Knowledge/Latin phrases worth knowing.md",
-    "200 Knowledge/Crow Rhyme.md",
-    "200 Knowledge/7 Worldbuilding Tips.md",
-    "400 Workspace/Untitled.md",
-    "500 Journal/El Camino del Artista.md",
-    "200 Knowledge/ec966e8c64faae2cd1f2084c2d3997fb.jpg",
-    "200 Knowledge/ee5c6060df6f214d3117839078b1dc10.jpg",
-    "200 Knowledge/f6b75e8f9a7e2d52a9db3bf4be6d78c6.jpg",
-    "200 Knowledge/ee2847cfa478bee99507e6935da395d4.jpg",
-    "200 Knowledge/fe1d0f2bc585c14ba9180f602ffb52a2.jpg",
-    "200 Knowledge/Untitled.md",
-    "200 Knowledge/3f4bb9b34391b33ad9f3e20a98fe24e6.jpg",
-    "200 Knowledge/Why necromancy is seen as a good thing.md",
-    "200 Knowledge/3fa71a6c4526666890247fb13974a3f1.jpg",
-    "200 Knowledge/3ee32c0108cb0d3e4c149fb23251d11a.jpg",
-    "200 Knowledge/3da2f1c614b6df6f529d99cf184758a8.jpg",
-    "200 Knowledge/BookLayout",
-    "Welcome.md",
-    "700",
-    "600 Life Areas",
-    "500 Journal",
-    "400 Workspace",
-    "300 Map of Contents",
-    "200 Knowledge",
-    "100 Personal",
-    "000 Obsidian"
+    "CyberPink/FanFlix/PROMPTS/VERY IMPORTANT NOTE:.md",
+    "CyberPink/FanFlix/PROMPTS/VERY IMPORTANT NOTE2:.md",
+    "CyberPink/FanFlix/PROMPTS/Reddit Thread Title:.md",
+    "CyberPink/FanFlix/PROMPTS/PROMPTS.md",
+    "CyberPink/FanFlix/GatesOfFire/tav.md",
+    "CyberPink/FanFlix/GatesOfFire/Story_1.md",
+    "CyberPink/FanFlix/GatesOfFire/shadowheart.md",
+    "CyberPink/FanFlix/GatesOfFire/StoryPrompt.md",
+    "CyberPink/FanFlix/no_strings_attached.md",
+    "CyberPink/FanFlix/no_strings_attached copy.md",
+    "CyberPink/FanFlix/lov-potion2.md",
+    "CyberPink/FanFlix/black-and-lace.md",
+    "CyberPink/FanFlix/bewichingFrams.md",
+    "CyberPink/FanFlix/artistic.md",
+    "CyberPink/FanFlix/PROMPTS",
+    "CyberPink/FanFlix/LovePotion_characters.md",
+    "CyberPink/FanFlix/LaceMathc_Prompt.md",
+    "CyberPink/FanFlix/ArtisctiStory.md",
+    "CyberPink/FanFlix/LaceMath_cleanPrompt.md",
+    "CyberPink/FanFlix/GatesOfFire",
+    "CyberPink/index.md",
+    "CyberPink/[Story]_PerfectFit_Overview.md",
+    "CyberPink/[Story]_BeastOnIce_Overview.md",
+    "CyberPink/Ulisis.md",
+    "CyberPink/[Story]_BeastOnIce.md",
+    "CyberPink/WarTech.md",
+    "CyberPink/ViPR.md",
+    "CyberPink/Retractable Cobra Tongue.md",
+    "CyberPink/FanFlix",
+    "CyberPink",
+    "Cyberpunk Isometric Turn-Based Strategy RPG",
+    "[Rol]/Campaigns/Peril_in_Phandelver/graph TD.mmd",
+    "[Rol]/Campaigns/Peril_in_Phandelver/SethGuide",
+    "[Rol]/Campaigns/[BrokenSigil]",
+    "[Rol]/Campaigns/TheDarkWish",
+    "[Rol]/Campaigns/Peril_in_Phandelver",
+    "attachments/Pasted image 20260207213040.png",
+    "03--Resources/[Art]/Isle_of_Lore_2_Hex_Tiles_Regular/Images Legible/Isle of Lore 2/Overlays Location/Unframed Uncut Standard/witch hut.png",
+    "03--Resources/[Art]/Isle_of_Lore_2_Hex_Tiles_Regular/Images Legible/Isle of Lore 2/Overlays Location/Unframed Uncut Standard/windmill.png",
+    "03--Resources/[Art]/Isle_of_Lore_2_Hex_Tiles_Regular/Images Legible/Isle of Lore 2/Overlays Location/Unframed Uncut Standard/village.png",
+    "03--Resources/[Art]/Isle_of_Lore_2_Hex_Tiles_Regular/Images Legible/Isle of Lore 2/Overlays Location/Unframed Uncut Standard/tower.png",
+    "03--Resources/[Art]/Isle_of_Lore_2_Hex_Tiles_Regular/Images Legible/Isle of Lore 2/Overlays Location/Unframed Uncut Standard/tent.png",
+    "03--Resources/[Art]/Isle_of_Lore_2_Hex_Tiles_Regular/Images Legible/Isle of Lore 2/Overlays Location/Unframed Uncut Standard/spring.png",
+    "03--Resources/[Art]/Isle_of_Lore_2_Hex_Tiles_Regular/Images Legible/Isle of Lore 2/Overlays Location/Unframed Uncut Standard/shipwreck.png",
+    "03--Resources/[Art]/Isle_of_Lore_2_Hex_Tiles_Regular/Images Legible/Isle of Lore 2/Overlays Location/Unframed Uncut Standard/ship.png",
+    "03--Resources/[Art]/Isle_of_Lore_2_Hex_Tiles_Regular/Images Legible/Isle of Lore 2/Overlays Location/Unframed Uncut Standard/sanctuary.png"
   ]
 }

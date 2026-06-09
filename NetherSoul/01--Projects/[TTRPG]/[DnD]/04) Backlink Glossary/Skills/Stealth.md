@@ -1,5 +1,0 @@
----
-tags:
-  - skill
----
-Dexterity (Stealth) allows you to escape notice by moving quietly and hiding behind things.

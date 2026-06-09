@@ -1,0 +1,35 @@
+{
+  "subject": {
+    "description": "A male fantasy character with a roguish and confident demeanor.",
+    "physical_features": {
+      "hair": "Swept-back silver or white hair.",
+      "eyes": "Intense amber or reddish eyes.",
+      "facial_details": "Slight facial scarring and a subtle, cocky smirk."
+    },
+    "archetype": "Rogue, Assassin, or Adventurer"
+  },
+  "attire_and_gear": {
+    "head": {
+      "headgear": "Deep red hooded cowl that completely obscures the face, adorned with a golden vertical line and crescent emblem"
+    },
+    "clothing": "A dark maroon or brown tunic layered under a heavy, dark-colored cloak.",
+    "cape": "Tattered red cape or cloak draped over the right shoulder.",
+    "armor": "Leather bracers with cross-stitch detailing and a leather shoulder pauldron.",
+    "utility": "A sturdy leather belt equipped with multiple small pouches and gear.",
+    "weaponry": "A sharp dagger being balanced on a finger and another hilt visible at his hip."
+  },
+  "composition": {
+    "pose": "The character stands with one hand on his hip, balancing a blade vertically on the tip of his index finger.",
+    "background": "Neutral, desaturated gray gradient",
+    "art_style": "Digital painting with studio-style lighting, soft shadows, and sharp metallic highlights."
+  },
+  "atmosphere": {
+    "mood": "Mysterious, regal, and intimidating.",
+    "color_palette": [
+      "Crimson Red",
+      "Burnished Gold",
+      "Dark Bronze",
+      "Earth Tones"
+    ]
+  }
+}

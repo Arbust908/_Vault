@@ -1,0 +1,2 @@
+Tras la guerra de los planos, las ataduras arcanas se rompieron y las razas del mundo se vieron afectadas. Mutadas. Esto generó que las formas y habilidades se vean fusionadas con la fauna. Esto creó un mundo donde todos su habitantes son animales humanoides, su mayoría viviendo en Eden. Eden es una metrópoli en un monte envuelto en bosques cerca de aguas.  
+El mundo fuera de Eden es peligroso por las bestias que vagan en búsqueda de comida.

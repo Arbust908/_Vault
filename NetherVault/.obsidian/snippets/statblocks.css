@@ -1,0 +1,177 @@
+/* Local Tolkienesque fonts for headings */
+@font-face {
+  font-family: "Tolkienesque";
+  src: url("../Tolkienesque.ttf");
+}
+
+@font-face {
+  font-family: "TolkienesqueNew";
+  src: url("../TolkienesqueNew.ttf");
+}
+
+// Let's import this "Space Grotesk" and "Space Mono" from installed fonts, so we can use them in general content and tables respectively.
+@font-face {
+  font-family: "Space Grotesk";
+  src: local("Space Grotesk"), url("../SpaceGrotesk-Regular.ttf");
+}
+@font-face {
+  font-family: "Space Mono";
+  src: local("Space Mono"), url("../SpaceMono-Regular.ttf");
+}
+
+:root {
+    --rounded-corner-radius: 8px;
+}
+
+.body {
+    font-family: "Space Grotesk", sans-serif !important;
+    color: #cccccc;
+}
+
+code, pre {
+    font-family: "Space Mono", monospace !important;
+    color: #cccccc;
+}
+
+/* Heading fonts */
+h1, h2, h3, h4 {
+  font-family: "Tolkienesque", sans-serif !important;
+}
+
+h5, h6 {
+  font-family: "TolkienesqueNew", sans-serif !important;
+}
+
+img {
+    border-radius: var(--rounded-corner-radius);
+}
+
+/* Ensure content stays above the overlay */
+.callout > * {
+    position: relative;
+    z-index: 1;
+}
+
+/* Adjustments for dark theme */
+.theme-dark {
+    .view-content .empty-state-container,
+    .markdown-preview-view.markdown-rendered,
+    .cm-editor {
+        --c-deep:
+            color-mix(in srgb, var(--background-primary), transparent calc(10%));
+        background-blend-mode: normal, color-dodge;
+    }
+}
+/* === FONTS === */
+.callout-content {
+    font-family: "Tolkienesque", sans-serif !important;
+    font-size: 1em !important;
+    padding: 3px 15px !important;
+}
+
+.callout-title {
+    font-family: "Tolkienesque", sans-serif !important;
+    font-size: 1.3em !important;
+}
+
+/* === STAT BLOCKS === */
+.callout[data-callout^="stats"] {
+    --callout-color: 110, 19, 25;
+    --callout-icon: lucide-skull;
+    background-color: rgba(255, 249, 217, 0.5) !important;
+    border: 3px solid rgb(110, 19, 25) !important;
+    border-radius: var(--rounded-corner-radius);
+    color: #420004;
+}
+
+/* Links in stats callout - high contrast dark blue */
+.callout[data-callout^="stats"] a {
+    color: #003366 !important;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+.callout[data-callout^="stats"] a:hover {
+    color: #001a33 !important;
+    text-decoration: none;
+}
+
+/* MONSTER STATS */
+.mstats .markdown-rendered table,
+.mstats .callout-content table {
+    --table-row-alt-background: rgba(110, 19, 25, .5);
+    --table-row-background-hover: #6e1319;
+    border-collapse: separate;
+    overflow: clip;
+    border: 1px solid rgb(110, 19, 25);
+    border-radius: var(--rounded-corner-radius);
+    border-spacing: 0;
+    color:#ffffff;
+}
+.mstats .markdown-rendered table th,
+.mstats .callout-content table th {
+    font-family: var(--font-family-monospace) !important;
+    font-weight: normal;
+    color: #ffffff;
+    text-shadow:none;
+}
+.mstats .markdown-rendered table,
+.mstats .callout-content table th:first-of-type{
+	border-top-left-radius: var(--rounded-corner-radius);
+    /* background-color: transparent !important; */
+}
+.mstats .markdown-rendered table,
+.mstats .callout-content table th:last-of-type{
+	border-top-right-radius: var(--rounded-corner-radius);
+}
+.mstats .markdown-rendered table,
+.mstats .callout-content table tr:last-child td:first-child {
+    border-bottom-left-radius: var(--rounded-corner-radius);
+}
+.mstats .markdown-rendered table,
+.mstats .callout-content table tr:last-child td:last-child {
+    border-bottom-right-radius: var(--rounded-corner-radius);
+}
+/* === MONSTER ACTIONS === */
+.callout[data-callout] {
+    color: #cccccc;
+    border: 3px solid #555555;
+    border-radius: var(--rounded-corner-radius);
+}
+.callout[data-callout^="actions"] {
+    --callout-color: #bbbbbb;
+    --callout-icon: lucide-hand-fist;
+    background-color: rgba(2, 55, 9, 0.5);
+}
+
+/* === MONSTER PASSIVE FEATURES (Deep Blue) === */
+.callout[data-callout^="passive"] {
+    --callout-color: #4da6ff;
+    --callout-icon: lucide-shield;
+    background-color: rgba(0, 40, 80, 0.6);
+    border-color: #4da6ff;
+}
+
+/* === MONSTER LEGENDARY ACTIONS (Royal Purple) === */
+.callout[data-callout^="legendary"] {
+    --callout-color: #d4af37;
+    --callout-icon: lucide-crown;
+    background-color: rgba(75, 0, 130, 0.5);
+    border-color: #d4af37;
+}
+
+/* === MONSTER DESCRIPTION (Earthy Brown) === */
+.callout[data-callout^="description"] {
+    --callout-color: #deb887;
+    --callout-icon: lucide-book-open;
+    background-color: rgba(101, 67, 33, 0.5);
+    border-color: #deb887;
+}
+
+/* === MONSTER TREASURE (Rich Gold) === */
+.callout[data-callout^="treasure"] {
+    --callout-color: #ffd700;
+    --callout-icon: lucide-gem;
+    background-color: rgba(139, 117, 0, 0.5);
+    border-color: #ffd700;
+}

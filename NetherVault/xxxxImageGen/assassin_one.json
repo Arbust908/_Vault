@@ -1,0 +1,25 @@
+{
+  "description": "A digital concept art illustration of a mysterious fantasy warrior or knight.",
+  "character_details": {
+    "pose": "The figure stands in a formal, stoic pose, holding a sword vertically with one hand while the other is tucked behind their back.",
+    "headgear": "A deep red hooded cowl that completely obscures the face, adorned with a golden vertical line and crescent emblem.",
+    "armor": {
+      "shoulder": "An oversized, ornate golden pauldron on the left shoulder featuring a stylized, serene human face (mask-like).",
+      "torso": "Dark brown brigandine or lamellar-style armor with visible metal rivets.",
+      "arms": "Metallic gauntlets with gold trim.",
+      "waist": "Leather belts with several utility pouches."
+    },
+    "clothing": "A tattered red cape or cloak draped over the right shoulder."
+  },
+  "weaponry": {
+    "sword": "A longsword featuring a highly decorative golden hilt with curved, organic guard designs."
+  },
+  "artistic_style": {
+    "medium": "Digital painting",
+    "genre": "High Fantasy / Dark Fantasy",
+    "color_palette": ["Crimson Red", "Burnished Gold", "Dark Bronze", "Earth Tones"],
+    "lighting": "Studio-style lighting with soft shadows and sharp metallic highlights",
+    "background": "Neutral, desaturated gray gradient"
+  },
+  "mood": "Mysterious, regal, and intimidating"
+}

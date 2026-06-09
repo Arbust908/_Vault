@@ -1,0 +1,47 @@
+{
+  "character": {
+    "race": "Elf (likely Drow or Moon Elf)",
+    "gender": "Male",
+    "physical_features": {
+      "hair": "Short, messy, white/silver",
+      "skin_tone": "Pale grey/ash",
+      "ears": "Pointed",
+      "eyes": "Intense, dark",
+      "expression": "Determined, focused"
+    },
+    "class_archetype": "Rogue / Assassin / Scout"
+  },
+  "attire_and_armor": {
+    "head": {
+      "headgear": "Deep red hooded cowl that completely obscures the face, adorned with a golden vertical line and crescent emblem"
+    },
+    "torso": {
+      "primary": "Dark teal/navy quilted gambeson (padded armor)",
+      "details": "Leather straps with brass buckles across the chest",
+      "underlayer": "Chainmail visible at the hem and left sleeve"
+    },
+    "cape": "Tattered red cape or cloak draped over the right shoulder",
+    "protection": {
+      "shoulder": "Single ornate gold/brass pauldron on the left side",
+      "knees": "Matching gold/brass knee cops/poleyns",
+      "hands": "Grey leather gloves with reinforced knuckles"
+    },
+    "lower_body": {
+      "pants": "Dark trousers tucked into boots",
+      "footwear": "Tall dark leather boots with multiple buckle straps"
+    }
+  },
+  "weaponry": {
+    "primary": "Dual-wielded ornate daggers/stilettoes",
+    "details": "Gold-hilted with narrow, sharp steel blades"
+  },
+  "art_style": {
+    "medium": "Digital painting",
+    "genre": "High Fantasy / Tabletop RPG illustration",
+    "color_palette": ["Crimson Red", "Burnished Gold", "Dark Bronze", "Earth Tones"],
+    "background": "Neutral, desaturated gray gradient",
+    "lighting": "Studio-style lighting with soft shadows and sharp metallic highlights"
+  },
+  "pose": "Combat-ready, slightly crouched, dual-wielding stance",
+  "mood": "Mysterious, regal, and intimidating"
+}

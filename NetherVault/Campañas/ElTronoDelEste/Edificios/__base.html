@@ -1,0 +1,483 @@
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    color: var(--color-text-primary);
+  }
+
+  .header {
+    padding: 1.5rem 1rem 0.5rem;
+  }
+
+  .header h2 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 4px;
+  }
+
+  .header p {
+    font-size: 13px;
+    color: var(--color-text-secondary);
+  }
+
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    padding: 0.75rem 1rem;
+  }
+
+  .filter-btn {
+    font-size: 12px;
+    padding: 4px 12px;
+    border-radius: 20px;
+    border: 1px solid var(--color-border-primary);
+    background: var(--color-background-secondary);
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    transition: all .15s;
+  }
+
+  .filter-btn.active {
+    background: var(--color-text-primary);
+    color: var(--color-background-primary);
+    border-color: var(--color-text-primary);
+  }
+
+  .list {
+    padding: 0 1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .building-row {
+    border: 1px solid var(--color-border-tertiary);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .building-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 14px;
+    cursor: pointer;
+    background: var(--color-background-secondary);
+  }
+
+  .building-header:hover {
+    background: var(--color-background-tertiary);
+  }
+
+  .cat-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .bname {
+    font-size: 14px;
+    font-weight: 500;
+    flex: 1;
+  }
+
+  .blevel {
+    font-size: 11px;
+    color: var(--color-text-tertiary);
+    background: var(--color-background-tertiary);
+    padding: 2px 8px;
+    border-radius: 10px;
+  }
+
+  .bcat {
+    font-size: 11px;
+    color: var(--color-text-secondary);
+  }
+
+  .upgrade-pill {
+    font-size: 10px;
+    color: var(--color-text-secondary);
+    background: var(--color-background-tertiary);
+    border: 1px solid var(--color-border-tertiary);
+    padding: 2px 7px;
+    border-radius: 10px;
+  }
+
+  .chevron {
+    font-size: 12px;
+    color: var(--color-text-tertiary);
+    transition: transform .2s;
+  }
+
+  .building-body {
+    display: none;
+    padding: 12px 14px;
+    border-top: 1px solid var(--color-border-tertiary);
+    background: var(--color-background-primary);
+  }
+
+  .building-body.open {
+    display: block;
+  }
+
+  .prompt-text {
+    font-size: 12px;
+    color: var(--color-text-secondary);
+    line-height: 1.6;
+    font-family: var(--font-mono);
+    background: var(--color-background-tertiary);
+    padding: 10px 12px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+  }
+
+  .copy-btn {
+    font-size: 11px;
+    padding: 4px 12px;
+    border-radius: 6px;
+    border: 1px solid var(--color-border-secondary);
+    background: var(--color-background-secondary);
+    color: var(--color-text-secondary);
+    cursor: pointer;
+  }
+
+  .copy-btn:hover {
+    background: var(--color-background-tertiary);
+  }
+
+  .copy-btn.copied {
+    color: var(--color-text-success);
+    border-color: var(--color-border-success);
+  }
+
+  .count {
+    font-size: 12px;
+    color: var(--color-text-tertiary);
+    padding: 0 1rem 0.5rem;
+  }
+</style>
+
+<div class="header">
+  <h2>Throne of the East — building image prompts</h2>
+  <p>Click any building to reveal its Midjourney prompt. Use filters to browse by category.</p>
+</div>
+
+<div class="filters" id="filters"></div>
+<div class="count" id="count"></div>
+<div class="list" id="list"></div>
+
+<script>
+  const CATS = {
+    "Resource & Economy": "#639922",
+    "Military & Defense": "#A32D2D",
+    "Magic & Religion": "#534AB7",
+    "Civic & Population": "#185FA5",
+    "Lodging": "#BA7517",
+    "Command Center": "#3B6D11",
+    "Special / Quest": "#0F6E56",
+  };
+
+  const SUFFIX = "--sref 2600881271 --ar 1:1";
+
+  const buildings = [
+    // RESOURCE & ECONOMY
+    {
+      name: "Lumber Mill", cat: "Resource & Economy", level: 1, upgrade: "→ Sawmill",
+      prompt: `Isometric aerial view of a fantasy lumber mill: massive water-powered saw slicing through timber, log piles stacked high beside the river, wood shavings coating the ground, a worker guiding a felled trunk toward the blade, a cartload of fresh planks waiting to be hauled away — the whole scene reeking of industry and fresh-cut pine. ${SUFFIX}`
+    },
+    {
+      name: "Sawmill", cat: "Resource & Economy", level: 3, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy sawmill upgrade: a larger mechanical saw with iron gears spinning, twice as many timber logs queued on rollers, workers stacking finished planks into a large warehouse nearby, a foreman inspecting a shipment — clearly producing far more wood than a humble mill ever could. ${SUFFIX}`
+    },
+    {
+      name: "Logging Camp", cat: "Resource & Economy", level: 6, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy logging camp: multiple saw stations running simultaneously, ox carts loaded with massive trunks rolling in from a stripped forest, a foreman's longhouse at center, tree stumps stretching in every direction showing the scale of the harvest, smoke rising from a small iron forge used to sharpen axes. ${SUFFIX}`
+    },
+
+    {
+      name: "Quarry", cat: "Resource & Economy", level: 1, upgrade: "→ Stoneworks",
+      prompt: `Isometric aerial view of a fantasy stone quarry: workers hammering chisels into a carved cliff face, a wooden crane lifting a massive stone block on ropes, cut stone blocks arranged in a yard below, a mule cart being loaded with rubble — a site that clearly supplies all the stone needed to build walls and towers. ${SUFFIX}`
+    },
+    {
+      name: "Stoneworks", cat: "Resource & Economy", level: 3, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy stoneworks: master masons shaping stone blocks with precision tools, a yard full of perfectly dressed stone ready for construction, architectural carvings half-finished on a workbench, multiple workers cutting and polishing — a place that turns raw rock into the material of castles. ${SUFFIX}`
+    },
+
+    {
+      name: "Farm", cat: "Resource & Economy", level: 1, upgrade: "→ Granary",
+      prompt: `Isometric aerial view of a small fantasy farm: tilled rows of wheat and vegetables, a modest farmhouse with smoke curling from the chimney, a farmer and two helpers working the fields, a pen with pigs and chickens, a hand-dug well — a humble place that grows enough food to keep the settlement's people fed and growing. ${SUFFIX}`
+    },
+    {
+      name: "Granary", cat: "Resource & Economy", level: 3, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy granary: large round grain silos bursting with surplus food, farmers unloading heavy sacks from wagons, a weighing scale at the entrance, workers tallying stores on a parchment — clearly a hub that feeds a much larger population than a single farm ever could, sustaining armies and attracting new settlers. ${SUFFIX}`
+    },
+
+    {
+      name: "Gold Mine", cat: "Resource & Economy", level: 2, upgrade: "→ Mint",
+      prompt: `Isometric aerial view of a fantasy gold mine: a hillside shaft entrance reinforced with timber, mine cart tracks leading out loaded with glinting ore, lanterns flickering deep inside the tunnel, workers hauling sacks of raw gold to a weighing table — a place that fills the settlement's treasury one cart at a time. ${SUFFIX}`
+    },
+    {
+      name: "Mint", cat: "Resource & Economy", level: 4, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy royal mint: a fortified stone building with iron-barred windows, coin press machines stamping gold discs inside, armed guards at the entrance, carts of gold ingots arriving and carts of minted coins leaving — the engine that converts raw ore into the gold that funds soldiers, buildings, and trade. ${SUFFIX}`
+    },
+
+    {
+      name: "Fishery", cat: "Resource & Economy", level: 2, upgrade: "→ Dockyard",
+      prompt: `Isometric aerial view of a riverside fantasy fishery: long wooden docks stretching over the water, fishermen hauling in full nets, barrels of salted fish stacked on the shore, small rowboats and traps visible in the river — a site that supplements the settlement's food supply and generates a modest income from selling the surplus catch. ${SUFFIX}`
+    },
+    {
+      name: "Dockyard", cat: "Resource & Economy", level: 5, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy dockyard: large piers lined with merchant vessels being loaded and unloaded, a cargo ship under construction on a dry berth, cranes swinging crates of imported goods, merchants negotiating on the dock — a thriving port that pours gold into the settlement from river and sea trade. ${SUFFIX}`
+    },
+
+    {
+      name: "Trading Post", cat: "Resource & Economy", level: 3, upgrade: "→ Merchant Quarter",
+      prompt: `Isometric aerial view of a fantasy trading post: open-air stalls at a crossroads piled with goods from across the region, merchants haggling over furs, spices, and tools, a weighing scale table at center, wagons arriving and departing — a place that converts surplus wood, stone, and food into gold through brisk local trade. ${SUFFIX}`
+    },
+    {
+      name: "Merchant Quarter", cat: "Resource & Economy", level: 6, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy merchant quarter: cobblestone streets lined with busy shop fronts, exotic goods from distant lands spilling onto the pavement, a guildhall at the center with trade ledgers visible through open windows, money changers and deal-makers in every corner — a district that multiplies the settlement's gold income and unlocks rare item trade. ${SUFFIX}`
+    },
+
+    {
+      name: "Windmill", cat: "Resource & Economy", level: 4, upgrade: null,
+      prompt: `Isometric aerial view of a medieval fantasy windmill: large wooden sails spinning in the breeze, grain sacks being hoisted through a hatch, a miller checking the grind, wheat fields and a farm clearly visible next door — a support building that boosts the nearby farm's output, feeding more people than the farm could manage alone. ${SUFFIX}`
+    },
+
+    // MILITARY & DEFENSE
+    {
+      name: "Watchtower", cat: "Military & Defense", level: 1, upgrade: "→ Fortified Wall",
+      prompt: `Isometric aerial view of a medieval fantasy watchtower: a tall wooden tower on a high point, a guard with a torch scanning the horizon for approaching enemies, a signal fire ready to be lit, a rope ladder pulled up against raiders — the settlement's first line of warning against incoming attacks and conquest. ${SUFFIX}`
+    },
+    {
+      name: "Fortified Wall", cat: "Military & Defense", level: 4, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy fortified stone wall: thick battlements with archers positioned in crenellations, a gatehouse with a raised portcullis, guards patrolling the walkway, a ballista mounted on a corner tower — a defensive upgrade that grants the settlement serious protection against sieges and conquest attempts. ${SUFFIX}`
+    },
+
+    {
+      name: "Barracks", cat: "Military & Defense", level: 2, upgrade: "→ War Academy",
+      prompt: `Isometric aerial view of a medieval fantasy barracks: a long wooden bunkhouse, a training yard where soldiers spar with swords and shields, weapon racks loaded with spears and axes, a sparring ring with two fighters locked in combat — the building that trains basic military units and expands the settlement's fighting force. ${SUFFIX}`
+    },
+    {
+      name: "War Academy", cat: "Military & Defense", level: 5, upgrade: "→ War Citadel",
+      prompt: `Isometric aerial view of a fantasy war academy: a stone training compound with knights in full armor drilling in formation, an archery range with targets at distance, a strategy map table under an open pavilion where officers plan campaigns — an upgrade that trains elite soldiers and unlocks advanced military tactics. ${SUFFIX}`
+    },
+    {
+      name: "War Citadel", cat: "Military & Defense", level: 8, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a massive fantasy war citadel: towering fortified walls enclosing a parade ground where ranked legions train, a siege weapon storage yard with catapults lined up, a command tower at center flying the settlement's banner — the pinnacle of military infrastructure, producing the finest warriors and unlocking the largest unit cap. ${SUFFIX}`
+    },
+
+    {
+      name: "Stable", cat: "Military & Defense", level: 3, upgrade: "→ Knight's Hall",
+      prompt: `Isometric aerial view of a medieval fantasy stable: a long timber horse barn with horses in stalls, a fenced paddock where a mounted rider trains at full gallop, a farrier shoeing a horse near the entrance, hay bales stacked high — a building that recruits mounted units and gives the settlement its first cavalry force. ${SUFFIX}`
+    },
+    {
+      name: "Knight's Hall", cat: "Military & Defense", level: 6, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy knight's hall: a stone great hall with heraldic banners on the walls, a jousting yard beside it where armored knights charge at each other on horseback, a stable of heavy warhorses in full barding — an upgrade that trains heavy cavalry and dramatically increases mounted combat strength. ${SUFFIX}`
+    },
+
+    {
+      name: "Siege Workshop", cat: "Military & Defense", level: 6, upgrade: null,
+      prompt: `Isometric aerial view of a fantasy siege workshop: a large open yard with a catapult and trebuchet under active construction, engineers fitting giant wooden beams and iron bolts, rope coils and counterweight buckets stacked nearby, a finished ballista being wheeled toward the gate — the only place that builds the heavy siege weapons needed to crack enemy fortifications. ${SUFFIX}`
+    },
+
+    {
+      name: "Armoury", cat: "Military & Defense", level: 4, upgrade: "→ Royal Armoury",
+      prompt: `Isometric aerial view of a medieval fantasy armoury: a stone building with rows of swords, shields, and armor on racks visible through open doors, a blacksmith annexe with a glowing forge hammering out helmets, soldiers queuing to collect their equipment — the building that outfits the settlement's troops and improves their combat stats. ${SUFFIX}`
+    },
+    {
+      name: "Royal Armoury", cat: "Military & Defense", level: 7, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy royal armoury: a grand fortified building with glowing enchanted weapons displayed in a courtyard, royal guards inspecting legendary-tier gear, a master smith working at a magical forge — an upgrade that unlocks rare and legendary equipment, making the settlement's warriors significantly more powerful. ${SUFFIX}`
+    },
+
+    {
+      name: "Fletcher", cat: "Military & Defense", level: 3, upgrade: null,
+      prompt: `Isometric aerial view of a fantasy fletcher workshop: an open-sided workshop where a bowyer bends yew longbows, barrels overflowing with finished arrows, a small outdoor shooting range to the side where archers test the new bows against targets at range, quivers hanging from the rafters — the building that unlocks ranged units and keeps them supplied with arrows. ${SUFFIX}`
+    },
+
+    // MAGIC & RELIGION
+    {
+      name: "Shrine", cat: "Magic & Religion", level: 1, upgrade: "→ Temple",
+      prompt: `Isometric aerial view of a small woodland fantasy shrine: a stone altar with offerings of flowers and candles, a carved idol surrounded by moss-covered rocks, a robed priest tending the flame, injured soldiers resting nearby being treated — a humble holy site that provides basic divine healing to units and lifts morale. ${SUFFIX}`
+    },
+    {
+      name: "Temple", cat: "Magic & Religion", level: 4, upgrade: "→ Grand Cathedral",
+      prompt: `Isometric aerial view of a fantasy temple: ornate stone columns and wide ceremonial steps, priests in robes performing rituals at multiple altars, a healing ward to one side where wounded soldiers are treated by clerics, incense smoke drifting upward — a place that provides divine healing services and boosts the morale of all units in the settlement. ${SUFFIX}`
+    },
+    {
+      name: "Grand Cathedral", cat: "Magic & Religion", level: 8, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a grand fantasy cathedral: towering gothic spires, a vast courtyard where pilgrims gather and soldiers pray before battle, a divine light radiating from the rose window, an attached healing hospice treating gravely wounded warriors — the pinnacle of divine power, granting the strongest morale bonus and full healing access to all units. ${SUFFIX}`
+    },
+
+    {
+      name: "Wizard Tower", cat: "Magic & Religion", level: 5, upgrade: "→ Arcane Sanctum",
+      prompt: `Isometric aerial view of a fantasy wizard tower: a tall stone spire crackling with arcane runes, a mage in robes reading a glowing tome on the balcony, a potion garden at the base, and to the side a courtyard where two robed apprentices practice combat spells against training dummies — the building that recruits arcane units and opens access to spell scrolls. ${SUFFIX}`
+    },
+    {
+      name: "Arcane Sanctum", cat: "Magic & Religion", level: 8, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy arcane sanctum: a large domed magical building with energy arcing between antenna spires, a courtyard full of senior mages enchanting weapons on stone tables, a ritual circle glowing on the ground where powerful binding spells are prepared — an upgrade that unlocks rituals, unit enchantments, and the most powerful arcane forces. ${SUFFIX}`
+    },
+
+    {
+      name: "Herbalist Hut", cat: "Magic & Religion", level: 2, upgrade: "→ Alchemist Lab",
+      prompt: `Isometric aerial view of a cozy fantasy herbalist hut: a thatched roof covered in moss, a garden bursting with labeled herbs and healing plants, bundles of dried remedies hanging from the eaves, a healer handing a potion to a wounded soldier at the door — a small but vital building that produces basic healing potions for units in the field. ${SUFFIX}`
+    },
+    {
+      name: "Alchemist Lab", cat: "Magic & Religion", level: 5, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy alchemist laboratory: glowing vials and bubbling flasks covering every surface, shelves overflowing with exotic ingredients, an alchemist mixing a shimmering elixir while a soldier waits to collect a crate of combat potions — an upgrade that produces advanced elixirs granting unit buffs, resistances, and special combat effects. ${SUFFIX}`
+    },
+
+    {
+      name: "Oracle's Den", cat: "Magic & Religion", level: 6, upgrade: null,
+      prompt: `Isometric aerial view of a mysterious fantasy oracle's den: a half-buried ancient stone structure carved with eye symbols, ethereal mist curling around the entrance, a hooded seer inside at a crystal orb, and on the walls detailed maps with enemy positions and hidden locations marked in glowing ink — a quest-unlocked building that reveals enemy movements and hidden secrets on the map. ${SUFFIX}`
+    },
+
+    // CIVIC & POPULATION
+    {
+      name: "Tavern", cat: "Civic & Population", level: 1, upgrade: "→ Guild Hall",
+      prompt: `Isometric aerial view of a cozy medieval fantasy tavern: a timber-framed inn with a hanging sign, warm lantern glow from the windows, a notice board outside covered in job postings and bounty sheets, a group of mercenaries inspecting the board — the settlement's first place to hire sellswords and pick up quest rumors. ${SUFFIX}`
+    },
+    {
+      name: "Guild Hall", cat: "Civic & Population", level: 3, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy guild hall: a grand stone building with a guild crest above the entrance, an organized notice board listing elite contracts and rare quests, a queue of skilled mercenaries of various classes waiting to be hired — an upgrade that unlocks higher-quality recruits and more valuable quest hooks than the humble tavern. ${SUFFIX}`
+    },
+
+    {
+      name: "Market", cat: "Civic & Population", level: 3, upgrade: "→ Grand Bazaar",
+      prompt: `Isometric aerial view of a medieval fantasy market square: colorful vendor stalls, a bustling crowd of townsfolk exchanging goods, a coin changing table in the center, carts of produce and crafts rolling in — a building that generates passive gold income from the settlement's population going about their daily commerce. ${SUFFIX}`
+    },
+    {
+      name: "Grand Bazaar", cat: "Civic & Population", level: 6, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a fantasy grand bazaar: a sprawling market district with silk canopies in jewel tones, exotic goods from distant lands, a rotating display of rare items in glass cases at the center stall — an upgrade that dramatically multiplies gold income and adds a rare item rotation giving players access to special purchases each conquest turn. ${SUFFIX}`
+    },
+
+    {
+      name: "Courthouse", cat: "Civic & Population", level: 5, upgrade: null,
+      prompt: `Isometric aerial view of a fantasy courthouse: an imposing stone building with balanced scales carved above the door, a magistrate presiding over a dispute inside, a line of citizens waiting outside, tax ledgers and official seals on the clerk's table — a civic building that improves settlement loyalty and reduces the upkeep cost of all other buildings. ${SUFFIX}`
+    },
+
+    {
+      name: "Library", cat: "Civic & Population", level: 4, upgrade: null,
+      prompt: `Isometric aerial view of a fantasy library: a tall stone building with arched windows glowing with warm candlelight, scholars entering carrying scrolls, shelves visible through the open doors packed with tomes and maps — a building that unlocks two additional building options from the next level tier, giving players early access to advanced construction. ${SUFFIX}`
+    },
+
+    {
+      name: "Hospital", cat: "Civic & Population", level: 6, upgrade: null,
+      prompt: `Isometric aerial view of a medieval fantasy hospital: a whitewashed stone building with a red cross banner, healers tending to wounded soldiers on cots in an open courtyard, a herb garden alongside supplying the medicines — a building that speeds up unit recovery after combat and heals one wounded unit per conquest turn automatically. ${SUFFIX}`
+    },
+
+    // LODGING
+    {
+      name: "Campsite", cat: "Lodging", level: 1, upgrade: "→ Homestead",
+      prompt: `Isometric aerial view of a medieval fantasy campsite: several canvas tents arranged around a central fire pit, bedrolls and saddlebags piled outside, a cooking pot bubbling over the flames feeding resting soldiers, horses tied to a rope line — the most basic form of lodging, letting units rest, recover a small amount of HP per turn, and the settlement start to grow. ${SUFFIX}`
+    },
+    {
+      name: "Homestead", cat: "Lodging", level: 3, upgrade: "→ Townhouse",
+      prompt: `Isometric aerial view of a small fantasy homestead: a cluster of simple one-floor wooden houses with shared well at center, vegetable patches beside each home, smoke from chimneys showing families settled in, a carpenter adding a new house to the row — permanent housing that grows the population faster and lets more resting units recover HP between conquest turns. ${SUFFIX}`
+    },
+    {
+      name: "Townhouse", cat: "Lodging", level: 5, upgrade: "→ Keep",
+      prompt: `Isometric aerial view of a fantasy townhouse district: rows of two and three story timber-framed buildings, window boxes and lanterns, a cobblestone lane lined with workshops and homes, laundry strung between upper floors, children playing below — a dense residential upgrade that significantly boosts population growth and unlocks a civilian workforce bonus adding to all resource output. ${SUFFIX}`
+    },
+    {
+      name: "Keep", cat: "Lodging", level: 8, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a medieval fantasy keep: a large multi-floor stone stronghold with a great hall, noble quarters on the upper floors where important guests are received, an inner courtyard with a well and training area, towers at each corner with guards posted — the pinnacle of lodging that maximises population growth, fully recovers all units each turn, and improves diplomatic interactions with quest NPCs. ${SUFFIX}`
+    },
+
+    // COMMAND CENTER
+    {
+      name: "War Tent", cat: "Command Center", level: 1, upgrade: "→ Command Post",
+      prompt: `Isometric aerial view of a medieval fantasy war tent: a large canvas command tent with a pennant flag, a tactical map spread on a table inside, a commander pointing at positions with a sword, supply crates and weapon racks arranged around it, a messenger arriving on horseback — the mobile headquarters that unlocks the first conquest actions and sets the unit cap. ${SUFFIX}`
+    },
+    {
+      name: "Command Post", cat: "Command Center", level: 3, upgrade: "→ War Council",
+      prompt: `Isometric aerial view of a fantasy military command post: a fortified wooden structure with a large map table under an open roof, officers planning a flanking maneuver with figurines on the board, a messenger pigeon coop nearby, flag poles with military banners — an upgrade that expands the unit cap and unlocks rally, retreat, and basic tactical orders. ${SUFFIX}`
+    },
+    {
+      name: "War Council", cat: "Command Center", level: 6, upgrade: "→ Throne Room",
+      prompt: `Isometric aerial view of a fantasy war council hall: a stone and timber building with a massive round strategy table visible through tall windows, senior commanders debating a campaign map covered in marked enemy positions, a wall of battle plans and regional maps pinned up — an upgrade that unlocks advanced strategic orders like ambush and forced march, and grants a passive bonus to all military unit stats. ${SUFFIX}`
+    },
+    {
+      name: "Throne Room", cat: "Command Center", level: 9, upgrade: "Upgrade",
+      prompt: `Isometric aerial view of a grand fantasy throne room: palatial stone architecture with tall arched windows, royal banners draped from the walls, a grand throne at the far end where the ruler receives emissaries and faction leaders, courtiers and advisors in attendance — the pinnacle command building that unlocks diplomacy actions, grants the largest unit cap, and generates prestige used to purchase legendary items and unlock exclusive quests. ${SUFFIX}`
+    },
+
+    // SPECIAL / QUEST
+    {
+      name: "Dragonforged Forge", cat: "Special / Quest", level: null, upgrade: null,
+      prompt: `Isometric aerial view of a fantasy dragonforged forge: a massive stone forge with a dragon skull mounted above the entrance breathing residual flame, magma channels running along the ground feeding the fire, legendary weapons — glowing swords and crackling enchanted shields — displayed on racks around the courtyard, a master smith hammering at a mythril blade while soldiers queue to have their equipment upgraded to legendary stats. ${SUFFIX}`
+    },
+    {
+      name: "Ancient Monolith", cat: "Special / Quest", level: null, upgrade: null,
+      prompt: `Isometric aerial view of a fantasy ancient monolith: a towering stone obelisk covered in glowing runes of every resource type — wood, stone, gold, people — etched into its surface, cracked earth around the base as if the land itself bows to it, ethereal light beams rising upward, offerings left by settlers — a quest-unlocked relic that passively adds plus one to every resource output in the settlement. ${SUFFIX}`
+    },
+    {
+      name: "Shadow Den", cat: "Special / Quest", level: null, upgrade: null,
+      prompt: `Isometric aerial view of a fantasy shadow den: a building deliberately hidden between taller structures, dark slate roof with no windows, a hooded agent receiving a sealed letter at the back entrance, a second agent slipping over a rooftop in the background on a sabotage mission, a map of enemy settlements pinned inside — a quest-unlocked building enabling espionage: stealing resources, sabotaging enemy buildings, and planting misinformation. ${SUFFIX}`
+    },
+  ];
+
+  let activeFilter = "All";
+
+  function render() {
+    const filtered = activeFilter === "All" ? buildings : buildings.filter(b => b.cat === activeFilter);
+    document.getElementById("count").textContent = `${filtered.length} buildings`;
+    document.getElementById("list").innerHTML = filtered.map((b, i) => {
+      const color = CATS[b.cat] || "#888";
+      const lvl = b.level ? `Lv ${b.level}` : "Quest";
+      return `<div class="building-row" id="row-${i}">
+      <div class="building-header" onclick="toggle(${i})">
+        <span class="cat-dot" style="background:${color}"></span>
+        <span class="bname">${b.name}</span>
+        <span class="bcat">${b.cat}</span>
+        <span class="blevel">${lvl}</span>
+        ${b.upgrade ? `<span class="upgrade-pill">${b.upgrade}</span>` : ""}
+        <span class="chevron" id="chev-${i}">▼</span>
+      </div>
+      <div class="building-body" id="body-${i}">
+        <div class="prompt-text" id="pt-${i}">${b.prompt}</div>
+        <button class="copy-btn" id="cb-${i}" onclick="copyPrompt(${i})">Copy prompt</button>
+      </div>
+    </div>`;
+    }).join("");
+  }
+
+  function toggle(i) {
+    const body = document.getElementById(`body-${i}`);
+    const chev = document.getElementById(`chev-${i}`);
+    const open = body.classList.toggle("open");
+    chev.style.transform = open ? "rotate(180deg)" : "";
+  }
+
+  function copyPrompt(i) {
+    const txt = document.getElementById(`pt-${i}`).textContent;
+    navigator.clipboard.writeText(txt).then(() => {
+      const btn = document.getElementById(`cb-${i}`);
+      btn.textContent = "Copied!";
+      btn.classList.add("copied");
+      setTimeout(() => { btn.textContent = "Copy prompt"; btn.classList.remove("copied"); }, 1800);
+    });
+  }
+
+  // Filters
+  const cats = ["All", ...Object.keys(CATS)];
+  document.getElementById("filters").innerHTML = cats.map(c =>
+    `<button class="filter-btn ${c === "All" ? "active" : ""}" onclick="setFilter('${c}',this)">${c}</button>`
+  ).join("");
+
+  function setFilter(cat, el) {
+    activeFilter = cat;
+    document.querySelectorAll(".filter-btn").forEach(b => b.classList.remove("active"));
+    el.classList.add("active");
+    render();
+  }
+
+  render();
+</script>

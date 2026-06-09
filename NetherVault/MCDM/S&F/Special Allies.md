@@ -1,0 +1,243 @@
+## Special Allies
+
+8 "Who made this thing?? Why did it suddenly show up here? Nono, don't attack it, I think it's on our side. Someone give it a com-
+mand!"
+9 What rules you use for an Antipaladin are up to you, there are many solutions online.
+Congratulations! You rolled well on your follower chart
+and attracted a special ally! Allies are like followers in
+that they approve of what you're doing in the world
+and want to help, but allies are powerful beings, often
+more powerful than your character. They cannot be
+ordered around, and they can be unreliable. Find your
+alignment on the chart below and roll a d12 to see
+which cool beastie shows up to help you out.
+
+
+T R
+L 1
+1-
+-4
+4 R
+L 5
+5–
+–8
+8 R
+L 9
+9–
+–1
+0 R
+L 1
+1 R
+L 1
+LAWFUL G
+GOOD C
+COUATL D
+DEVA
+YOUNG S
+SILVER
+DRAGON
+ADULT B
+BRONZE
+DRAGON
+ADULT G
+GOLD
+DRAGON
+NEUTRAL G
+GOOD C
+CYCLOPS S
+STONE G
+GIANT C
+CLOUD G
+GIANT
+YOUNG A
+AMETHYST
+DRAGON
+ADULT S
+SAPPHIRE
+DRAGON
+CHAOTIC G
+GOOD T
+TREANT
+YOUNG B
+BRASS
+DRAGON
+GENIE S
+STORM G
+GIANT
+ADULT C
+COPPER
+DRAGON
+CHAOTIC N
+NEUTRAL E
+ETTIN G
+GHOST H
+HILL G
+GIANT
+YOUNG E
+EMERALD
+DRAGON
+GENIE
+NEUTRAL B
+BANSHEE
+YOUNG S
+SAPPHIRE
+DRAGON
+YOUNG T
+TOPAZ
+DRAGON
+STONE G
+GIANT
+ADULT R
+RUBY
+DRAGON
+LAWFUL N
+NEUTRAL F
+FLESH G
+GOLEM8
+8 Y
+YOUNG R
+RUBY
+DRAGON
+MEDUSA S
+STONE G
+GOLEM
+SPHINX
+(GYNOSPHINX)
+NEUTRAL E
+EVIL H
+HAG
+AG C
+COVEN
+13TH
+TH L
+LEVEL
+DROW R
+RANGER
+FROST G
+GIANT
+YOUNG S
+SAPPHIRE
+DRAGON
+ADULT E
+EMERALD
+DRAGON
+LAWFUL E
+EVIL O
+ONI
+YOUNG G
+GREEN
+DRAGON
+FIRE G
+GIANT
+ADULT B
+BLUE
+DRAGON
+ROLL ON
+ON THE
+DEVIL A
+
+
+CHART
+CHAOTIC E
+EVIL
+11TH
+TH L
+LEVEL H
+HUMAN
+ANTIPALADIN
+9 L
+LAMIA
+YOUNG W
+WHITE
+DRAGON
+ADULT B
+BLACK
+DRAGON
+ROLL ON
+ON THE
+DEMON A
+
+
+CHART
+DEVIL ALLIES
+D1
+2 A
+1–
+–3
+1D
+D4 IMPS
+4–
+–6
+6 U
+UNIT OF
+OF B
+BEARDED D
+
+
+7–
+–8
+8 B
+BARBED D
+DEVIL
+9–
+–1
+0 L
+LESSER E
+ERINYES
+11 C
+CHAIN D
+DEVIL
+12 B
+BONE D
+DEVIL
+DEMON ALLIES
+D1
+2 A
+1–
+–3
+3 U
+UNIT OF
+OF Q
+QUASITS
+4–
+–6
+6 S
+SUCCUBUS
+7–
+–8
+8 L
+LESSER M
+MARILITH
+9–
+–1
+0 G
+GLABREZU
+11 H
+HERZOU
+12 L
+LESSER B
+BALOR
+FEY ALLIES
+D1
+2 A
+1–
+–3
+3 P
+PIXIE
+4–
+–6
+6 S
+SPRITE
+7–
+–8
+8 S
+SATYR
+9–
+–1
+0 D
+DRYAD
+11 U
+UNICORN
+12 T
+TREANT
+

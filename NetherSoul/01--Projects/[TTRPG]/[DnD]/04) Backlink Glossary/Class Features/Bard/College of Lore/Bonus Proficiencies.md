@@ -1,1 +1,0 @@
-You gain proficiency with three skills of your choice.

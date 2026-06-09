@@ -1,5 +1,0 @@
----
-tags:
-  - skill
----
-Charisma (Deception) allows you to tell a convincing lie, or wear a disguise convincingly.

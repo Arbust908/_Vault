@@ -1,5 +1,0 @@
----
-tags:
-  - skill
----
-Wisdom (Survival) allows you to follow tracks, forage, find a trail, or avoid natural hazards.

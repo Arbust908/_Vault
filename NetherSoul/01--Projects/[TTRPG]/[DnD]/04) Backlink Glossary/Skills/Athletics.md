@@ -1,5 +1,0 @@
----
-tags:
-  - skill
----
-Strength (Athletics) allows you to jump farther than normal, stay afloat in rough water, or break something.

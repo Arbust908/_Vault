@@ -1,5 +1,0 @@
----
-tags:
-  - skill
----
-Charisma (Persuasion) allows you to honestly and graciously convince someone of something.

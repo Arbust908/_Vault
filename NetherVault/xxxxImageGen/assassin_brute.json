@@ -1,0 +1,27 @@
+{
+  "description": "A digital concept art illustration of a hulking dwarf brute warrior, imposing and dangerous.",
+  "character_details": {
+    "race": "Dwarf",
+    "build": "Short, stocky, and heavily muscled with a broad, barrel-shaped torso and thick limbs.",
+    "pose": "The figure stands in a wide, grounded combat stance, both hands gripping a massive warhammer planted head-down in front of them, shoulders squared toward the viewer.",
+    "headgear": "A deep red hooded cowl that completely obscures the face, adorned with a golden vertical line and crescent emblem, stretched taut over a thick, broad skull.",
+    "armor": {
+      "shoulder": "An oversized, ornate golden pauldron on the left shoulder featuring a stylized, snarling dwarven face (mask-like).",
+      "torso": "Heavy dark brown brigandine with oversized metal rivets and reinforced plate segments over a chainmail underlayer.",
+      "arms": "Thick metallic gauntlets with gold trim and spiked knuckle guards.",
+      "waist": "Wide leather belts with several oversized utility pouches and a heavy chain hanging from the hip."
+    },
+    "clothing": "A tattered red cape or cloak draped over the right shoulder, shorter and more ragged to accommodate the stocky frame."
+  },
+  "weaponry": {
+    "warhammer": "A massive two-handed warhammer with a golden-wrapped haft, ornate dwarven runes along the head, and a reinforced striking face."
+  },
+  "artistic_style": {
+    "medium": "Digital painting",
+    "genre": "High Fantasy / Dark Fantasy",
+    "color_palette": ["Crimson Red", "Burnished Gold", "Dark Bronze", "Earth Tones"],
+    "lighting": "Studio-style lighting with soft shadows and sharp metallic highlights",
+    "background": "Neutral, desaturated gray gradient"
+  },
+  "mood": "Menacing, immovable, and brutal"
+}
