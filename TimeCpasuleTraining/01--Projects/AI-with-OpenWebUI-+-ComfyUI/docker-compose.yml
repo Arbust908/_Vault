@@ -1,0 +1,89 @@
+version: '3.8'
+
+services:
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    container_name: open-webui
+    ports:
+      - "8080:8080" # Map host port 8080 to container port 8080
+    volumes:
+      - ./open_webui_data:/app/backend/data # Persist OpenWebUI data
+    environment:
+      # Point to Ollama running on the host machine (adjust if Ollama is containerized)
+      # On Docker Desktop (Mac/Win), host.docker.internal usually works.
+      # On Linux, replace with your host IP or add Ollama service below.
+      - 'OLLAMA_BASE_URL=http://host.docker.internal:11434'
+      # - 'ENABLE_SIGNUP=false' # Uncomment to disable user signups after first admin user creation
+    restart: unless-stopped
+    depends_on:
+      # Add ollama here if you containerize it
+      - comfyui # Optional dependency, but good practice
+
+  comfyui:
+    # Use an image with GPU support if you have an NVIDIA GPU and NVIDIA Container Toolkit
+    # image: nvidia/cuda:12.1.0-runtime-ubuntu22.04 # Base image example
+    # Build from Dockerfile or use a pre-built ComfyUI image
+    # Using a simplified example assuming a pre-built CPU image or custom Dockerfile build
+    # Replace with a proper ComfyUI image like ghcr.io/comfyanonymous/comfyui:latest or similar
+    # For GPU: You might need a custom Dockerfile based on nvidia/cuda
+    image: comfyui-cpu # Placeholder: Replace with actual ComfyUI image (CPU or GPU)
+    build: # Example build context if using a Dockerfile
+      context: . # Assuming a Dockerfile exists in this directory for ComfyUI
+      dockerfile: Dockerfile.comfyui # Example Dockerfile name
+    container_name: comfyui
+    ports:
+      - "8188:8188" # Map host port 8188 to container port 8188
+    volumes:
+      # Mount local directories for models to persist them and avoid re-downloading
+      # Adjust paths as needed
+      - ./comfyui_models/checkpoints:/opt/ComfyUI/models/checkpoints
+      - ./comfyui_models/loras:/opt/ComfyUI/models/loras
+      - ./comfyui_models/vae:/opt/ComfyUI/models/vae
+      - ./comfyui_input:/opt/ComfyUI/input # For input images/files
+      - ./comfyui_output:/opt/ComfyUI/output # For generated images
+    # --- GPU Configuration (Uncomment and adjust if using NVIDIA GPU) ---
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1 # Or 'all'
+    #           capabilities: [gpu]
+    # environment:
+    #   - NVIDIA_VISIBLE_DEVICES=all
+    #   - NVIDIA_DRIVER_CAPABILITIES=all
+    # --- End GPU Configuration ---
+    command: --listen 0.0.0.0 --port 8188 # Ensure ComfyUI listens on all interfaces
+    restart: unless-stopped
+
+  # --- Optional Ollama Service (Uncomment to run Ollama in Docker) ---
+  # ollama:
+  #   image: ollama/ollama:latest
+  #   container_name: ollama
+  #   ports:
+  #     - "11434:11434"
+  #   volumes:
+  #     - ./ollama_data:/root/.ollama # Persist models
+  #   # --- GPU Configuration for Ollama (Uncomment if needed) ---
+  #   # deploy:
+  #   #   resources:
+  #   #     reservations:
+  #   #       devices:
+  #   #         - driver: nvidia
+  #   #           count: 1
+  #   #           capabilities: [gpu]
+  #   # environment:
+  #   #   - NVIDIA_VISIBLE_DEVICES=all
+  #   #   - NVIDIA_DRIVER_CAPABILITIES=all
+  #   # --- End Ollama GPU Configuration ---
+  #   restart: unless-stopped
+
+volumes:
+  open_webui_data:
+  # Define volumes for ComfyUI models if not using bind mounts
+  # comfyui_checkpoints:
+  # comfyui_loras:
+  # comfyui_vae:
+  # comfyui_input:
+  # comfyui_output:
+  # ollama_data: # Uncomment if using Ollama service

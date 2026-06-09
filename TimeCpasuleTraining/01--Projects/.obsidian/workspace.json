@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "b46edb3a4759d8d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1daba2b59707640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "705f83c57c674945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00--Maps of Content/CyberPunk BRP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CyberPunk BRP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f28492901dd1c2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e8ad70881a86ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12480dc304705369",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6ac83ef6cfa87bf4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c9877ada8d7e3db7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "dfd2484018e9ea12",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "b12ab3dca66e1f4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fefce8cbfe6cd9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10d029852ab403a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c48e6277078dcdb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7df21fa43fb43d84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "83cf1b8d355e01c2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "340b86e24d4a0a39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d45975edb40a9e6d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "zk-prefixer:Create new unique note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "12480dc304705369",
+  "lastOpenFiles": [
+    "OllamaWebUI.md",
+    "resources/vpn-vps.md",
+    "resources/self-host-2fa.md",
+    "resources/pocock-ai-security.md",
+    "resources/notion-bosidian.md",
+    "resources/master-omni-base.md",
+    "resources/home-lab-vps.md",
+    "resources/compressor.md",
+    "resources/ai-paperless-ngx.md",
+    "resources",
+    "Projects/finapp/index.md",
+    "Projects/TaleWeaver/technical_doc.md",
+    "Projects/TaleWeaver/index.md",
+    "Projects/TaleWeaver/design_doc.md",
+    "Projects/finapp",
+    "Projects/TaleWeaver",
+    "Projects",
+    "JobHunt/index.md",
+    "JobHunt/cv.md",
+    "JobHunt",
+    "Concepts.md",
+    "telgraph.md.md",
+    "macHelper.md",
+    "LemonTraining.md",
+    "LearnGuide.md",
+    "Guia_Diagnostico_Organizacional_Claude.md",
+    "compass_artifact_wf-66e43e71-7f7c-4675-a5e8-a312d54fa601_text_markdown.md",
+    "brp-ttrpg-base.md",
+    "1778875631415.jpeg",
+    "96--MemoryBank/claude-file-orchastrator.md",
+    "96--MemoryBank/activeContext.md",
+    "99--Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
+    "Guia_Diagnostico_Organizacional_Claude 1.docx",
+    "96--MemoryBank/99 - Meta/attachments/curriculum.jsx",
+    "96--MemoryBank/99 - Meta/attachments",
+    "96--MemoryBank/99 - Meta",
+    "curriculum 1.jsx",
+    "AmVision/Screenshot 2026-01-27 at 11.50.31 AM.png",
+    "03--Resources/VisualNovelCharacterMinSheetSpec.png",
+    "Untitled.canvas"
+  ]
+}

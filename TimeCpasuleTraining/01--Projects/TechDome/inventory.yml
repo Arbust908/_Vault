@@ -1,0 +1,209 @@
+devices:
+  # ——— LIVING-ROOM / TV CABINET ———
+  tv_main:
+    room: living_room
+    label: "Samsung QN55Q65C TV"
+    type: other
+    roles: ["Main display", "ARC hub"]
+    hw: "55'' 4 K QLED • 4× HDMI (1 eARC) • Wi-Fi 5"
+    os_fw: "Tizen 23.x"
+    ip: DHCP
+    links: [nvidia_shield, nintendo_switch]
+
+  nvidia_shield:
+    room: living_room
+    label: "NVIDIA Shield TV Pro"
+    type: other
+    roles: ["4 K streaming", "Moonlight client"]
+    hw: "Tegra X1+, 3 GB RAM, 16 GB flash • GbE • Wi-Fi 5 • HDMI 2.0b"
+    links: [switch_sg105, tv_main]
+
+  nintendo_switch:
+    room: living_room
+    label: "Nintendo Switch"
+    type: other
+    roles: ["Console gaming"]
+    hw: "Switch dock • Joy-Con charger • Wi-Fi 5"
+    links: [tv_main]
+
+  echo_dot3:
+    room: living_room
+    label: "Amazon Echo Dot (3rd Gen)"
+    type: other
+    roles: ["Alexa voice", "BT link → speaker"]
+    hw: "Wi-Fi 5 • BT 4.2 • 3.5 mm out"
+    links: [wifi_casa]
+
+  speaker_stanmore3:
+    room: living_room
+    label: "Marshall Stanmore III"
+    type: other
+    roles: ["Bluetooth speaker"]
+    hw: "BT 5.2 • RCA • 3.5 mm"
+    links: []
+
+  router_isp:
+    room: living_room
+    label: "Huawei OptiXstar EG8145X6-10 (Personal fiber 300 Mb)"
+    type: router
+    roles: ["GPON ONT", "Wi-Fi 6 router", "DHCP / NAT"]
+    hw: >
+      1× GPON uplink • 4× 1 GbE LAN • 1× 2.5 GbE LAN (LAN1)
+      • Dual-band Wi-Fi 6 AX3000 (2×2 2.4 GHz @ 574 Mb/s + 2×2 5 GHz @ 2402 Mb/s)
+      • 2× FXS phone ports • 1× USB 2.0
+    os_fw: "Huawei V5R022C10"
+    links: [switch_sg108, switch_sf1005d, switch_sg105]
+  
+  wifi_casa:
+    room: living_room
+    label: "Personal-6AF-2.4Ghz"
+    type: wifi
+    roles: ["2.4 GHz Wi-Fi"]
+    links: [router_isp]
+
+  switch_sf1005d:
+    room: living_room
+    label: "TP-Link TL-SF1005D"
+    type: switch
+    roles: ["low internet connector"]
+    hw: "5-port 10/100 unmanaged"
+    links: [tv_main, hue_bridge]
+
+  # ——— BEDROOM ———
+  tplink_wa850re:
+    room: bedroom
+    label: "TP-Link TL-WA850RE V7"
+    type: other                    # Wi-Fi extender / repeater
+    roles: ["Wi-Fi extender"]
+    hw: >
+      2.4 GHz N300 (802.11n, 300 Mb/s)
+      • 2× internal antennas • 1× 10/100 Mb/s Ethernet (client bridge)
+      • WPS button • LED signal indicator
+    links: [wifi_casa]   
+
+  # ——— OFFICE / DESK ———
+  gaming_pc:
+    room: office
+    label: "SFF AM5 desktop"
+    type: pc
+    roles: ["Gaming PC"]
+    hw: >
+      Ryzen 9 7900X3D • ASUS ROG Strix B650E-I • Gigabyte RTX 4070 Ti Super Eagle 16 GB
+      • 32 GB DDR5-6000 (Crucial Pro) • 4 TB NVMe (Crucial P3 Plus)
+      • Thermalright AXP90-X47 • Corsair SF750 • Fans: 2× NF-A12x25, NF-A9x14, ID-Cooling AS-120-K
+    os_fw: "Windows 11 Pro 24H2"
+    links: [switch_sg108]
+
+  mini_m4:
+    room: office
+    label: "Mac mini M4 (32 GB)"
+    type: pc
+    roles: ["Workstation"]
+    hw: "Apple M4 10C CPU / 10C GPU • 32 GB unified • 256 GB SSD • GbE • 3× TB4 • HDMI"
+    os_fw: "macOS 15 Sequoia"
+    links: [switch_sg108]
+
+  monitors_dual24:
+    room: office
+    label: "2× Samsung F24T35 24'' 75 Hz"
+    type: other
+    roles: ["desktop displays"]
+    hw: "IPS 1080 p, 75 Hz, HDMI"
+    links: [gaming_pc, mini_m4]
+
+  dock_thinkpad:
+    room: office
+    label: "ThinkPad Hybrid USB-C Dock (40AF0135)"
+    type: other
+    roles: ["Laptop docking / display hub"]
+    hw: "2× DP, 2× HDMI, 4× USB-A, 2× USB-C, 1× GbE, 135 W in"
+    links: [gaming_pc, mini_m4]
+
+  switch_sg108:
+    room: office
+    label: "TP-Link TL-SG108"
+    type: switch
+    roles: ["1 GbE core switch"]
+    hw: "8-port unmanaged GigE"
+    links: [router_isp, ada, mini_m4, gaming_pc]
+
+  ada:
+    room: office
+    label: "ADA – Asustor Flashstor 6"
+    type: nas
+    roles: ["Panchimio", "File server", "Backup"]
+    hw: >
+      Asustor FS6706T • Intel Celeron N5105 • 16 GB DDR4
+      • 5× Samsung 970 EVO Plus 2 TB
+      • 1× Crucial P3 Plus 4 TB NVMe
+      • Dual 2.5 GbE (LACP-ready)
+    os_fw: "ADM 4.x"
+    links: [switch_sg108]
+
+  # ——— OUTSIDE ———
+  switch_sg105:
+    room: outside
+    label: "TP-Link TL-SG105"
+    type: switch
+    roles: ["TV-cabinet spur"]
+    hw: "5-port unmanaged GigE"
+    os_fw: "n/a"
+    ip: 192.168.10.3
+    links: [hik_dvr, atras_ap]
+
+  hik_dvr:
+    room: outside
+    label: "Hikvision DS-7208HGHI-M1 DVR"
+    type: dvr
+    roles: ["8-ch analog recorder", "NVR feed"]
+    hw: "1080 p DVR • SATA bay • VGA/HDMI • BNC inputs"
+    os_fw: "Hikvision v4.x"
+    links: [switch_sg105]
+
+  hik_cam_1: # Add details
+    room: outside
+    label: "Hikvision"
+    type: camera
+    roles: ["Analog camera"]
+    links: [hik_dvr]
+
+  hik_cam_2: # Add details
+    room: outside
+    label: "Hikvision"
+    type: camera
+    roles: ["Analog camera"]
+    links: [hik_dvr]
+
+  hik_cam_3: # Add details
+    room: outside
+    label: "Hikvision"
+    type: camera
+    roles: ["Analog camera"]
+    links: [hik_dvr]
+
+  hik_cam_4: # Add details
+    room: outside
+    label: "Hikvision"
+    type: camera
+    roles: ["Analog camera"]
+    links: [hik_dvr]
+
+  # ——— HOUSE ON THE BACK ———
+  atras_ap:
+    room: house_on_the_back
+    label: "Rompemuros Access Point"
+    type: access_point
+    roles: ["Wi-Fi"]
+    hw: "2.4 GHz wi fi"
+    links: [switch_sg105]
+
+  # ——— LAB (Tech not implemented)———
+  retro_pc:
+    room: spare_room
+    label: "Sandy Bridge tower"
+    type: pc
+    hw: >
+      Intel Core i7-2600 • Gigabyte GA-H67A-UD3H • 16 GB DDR3-1600 (4×4 GB)
+      • EVGA GTX 660 Ti 2 GB • 2× WD Green 120 GB SSD • Seagate Barracuda LP 2 TB HDD
+      • Gigabyte GE-N500A-C2 500 W PSU • ATX mid-tower
+    links: [switch_sg105]

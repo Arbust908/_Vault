@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "62883ced7a7c08ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "10557d5089dbc1c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c254a44a8773e93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_ReactTrain/useOptimistic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "useOptimistic"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9be0c970a17b6dc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7e4acb9b9dc47d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "410a8134b60fb83f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f83f1ce72baf8f50",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "766fc3dcb8977a30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0fe1f91c524f843",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d3b6826e406c58e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc05da01504de444",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_ReactTrain/useOptimistic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for useOptimistic"
+            }
+          },
+          {
+            "id": "2cca00ffa183554a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_ReactTrain/useOptimistic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from useOptimistic"
+            }
+          },
+          {
+            "id": "51575b8688c2d921",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37013ffbeecbc63b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "076eedb6b935fdc1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_ReactTrain/useOptimistic.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of useOptimistic"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9c254a44a8773e93",
+  "lastOpenFiles": [
+    "Routing in Nuxt.pdf",
+    "Vue Directives.pdf",
+    "React Component Patterns.pdf",
+    "JavaScript Errors.pdf",
+    "DOM (Document Object Model).pdf",
+    "Vue Composition API Cheatsheet_ Part 2.pdf",
+    "Vue Composition API Cheatsheet_ Part 1.pdf",
+    "Nuxt Server Directory.pdf",
+    "JavaScript Objects Cheatsheets.pdf",
+    "TypeScript with Vue.js Cheatsheet_ Part 2.pdf",
+    "React Hooks Cheatsheet_ Part 2.pdf",
+    "1777991979806.jpeg",
+    "1778750246081.jpeg",
+    "1779173676220.jpeg",
+    "1779433210248.jpeg",
+    "Gemini_Generated_Image_mobd66mobd66mobd.png",
+    "1777991979806.md",
+    "1779433210248.md",
+    "_ReactTrain/AI interview.md",
+    "_ReactTrain/useOptimistic.md",
+    "1778875631415.jpeg",
+    "brp-ttrpg-base.md",
+    "Concepts.md",
+    "Vue 3 Core Internals A Senior Engineering Learning Guide.md",
+    "LemonTraining.md",
+    "JobHunt/cv.md",
+    "resources/vpn-vps.md",
+    "resources/self-host-2fa.md",
+    "resources/pocock-ai-security.md",
+    "resources/notion-bosidian.md",
+    "resources/master-omni-base.md",
+    "resources/home-lab-vps.md",
+    "resources/compressor.md",
+    "resources/ai-paperless-ngx.md",
+    "telgraph.md.md"
+  ]
+}
