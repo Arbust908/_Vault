@@ -1,1 +1,0 @@
-DragonTower es una campaña para _Sistema de Rol_ basado en `TowerDungeon` teniendo la torre como una Super Dungeon encapsulada en donde los jugadores tienen que salvar a la Princesa. Agregaremos las razas existentes, y quizas cambiar la magia para que sea como en el manga

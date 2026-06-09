@@ -1,1 +1,0 @@
-This is the place for Old projects, ideas that didn't pan out, and other assorted bits and bobs that don't fit anywhere else.
