@@ -1,1 +1,5 @@
 .DS_Store
+TimeCpasuleTraining/mouseTraining/exercises/01-react-calculator/broken/node_modules/*
+TimeCpasuleTraining/mouseTraining/exercises/01-react-calculator/solution/node_modules/*
+TimeCpasuleTraining/mouseTraining/exercises/02-searchable-catalogue/broken/node_modules/*
+TimeCpasuleTraining/mouseTraining/exercises/02-searchable-catalogue/solution/node_modules/*

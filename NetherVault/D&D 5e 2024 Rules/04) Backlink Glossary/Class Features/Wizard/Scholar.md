@@ -1,0 +1,2 @@
+#### Scholar
+While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: [[Arcana]], [[History]], [[Investigation]], [[Medicine]], [[Nature]], or [[Religion]]. You have [[04) Backlink Glossary/Rules/Expertise|Expertise]] in the chosen skill.
