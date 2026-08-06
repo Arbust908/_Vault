@@ -1,10 +1,11 @@
 # Solution Workspace
 
-Create the corrected implementation here while preserving `broken/` for comparison.
+This final-practice variant is solved and tested directly in
+`broken/src/App.tsx`, as described in the exercise README and the workspace root
+README. The `solution/` directory is optional and remains available only for
+notes or reference material.
 
-Suggested files:
+Optional files:
 
-- `src/App.tsx`
-- `src/useTitleSearch.ts` for debouncing, cancellation, and request state
-- `src/App.test.tsx` for stale-response and empty/error cases
 - `notes.md` for the race-condition explanation
+- reference snippets that support a discussion of alternative approaches

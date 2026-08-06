@@ -1,6 +1,6 @@
 # Senior Software Engineer Practice
 
-These exercises are based on [`initial.md`](./initial.md). The code cases intentionally contain bugs or weak design choices. Run or read the `broken` version first, explain what is wrong, and make changes only in that exercise's `solution` directory.
+These exercises are based on [`initial.md`](./initial.md). The code cases intentionally contain bugs or weak design choices. Run or read the `broken` version first, explain what is wrong, and make changes only in that exercise's `solution` directory. The exceptions are [`algorithms`](./algorithms), whose starter files are implemented and tested directly, and [`exercises/02-searchable-catalogue`](./exercises/02-searchable-catalogue), which is edited and tested in its `broken` app for the final practice task.
 
 ## Suggested workflow
 
@@ -19,8 +19,7 @@ These exercises are based on [`initial.md`](./initial.md). The code cases intent
 | [`exercises/02-searchable-catalogue`](./exercises/02-searchable-catalogue) | Runnable broken React app | Async state, debouncing, cancellation, stale responses |
 | [`exercises/03-queue-processor`](./exercises/03-queue-processor) | Broken TypeScript service | Sequential commands, result ordering, validation, failures |
 | [`exercises/04-watchlist`](./exercises/04-watchlist) | Broken full-stack sketch | Domain modeling, API boundaries, validation, persistence |
-| [`algos`](./algos) | Two-week Disney interview curriculum | Core patterns, daily practice, mock interviews, study log |
-| [`algorithms`](./algorithms) | Ten implementation prompts | Collections, transformations, queues, caching, concurrency |
+| [`algorithms`](./algorithms) | Two-week curriculum and 22 tested starters | Core patterns, implementation practice, mock interviews, study log |
 | [`concepts`](./concepts) | Question-only drills | React, TypeScript modeling, API design, senior discussion |
 
 ## Timing
@@ -39,8 +38,8 @@ Created the practice workspace under mouseTraining/.
 - Searchable catalogue
 - Sequential queue processor
 - Full-stack watchlist
-- 10 TypeScript algorithm starters.
+- 22 TypeScript algorithm starters with matching tests, a two-week curriculum, final practice set, and study log.
 - 7 concept drill files containing 8–10 questions each.
 - Added navigation from initial.md to the new workspace.
 - Added notes templates for documenting fixes and tradeoffs.
-Verified 56 files, question counts, and ASCII consistency. Dependencies were not installed, so the apps were not built or run.
+The searchable-catalogue exercise includes a reproducible component-test setup; other mocks retain their original standalone setup.

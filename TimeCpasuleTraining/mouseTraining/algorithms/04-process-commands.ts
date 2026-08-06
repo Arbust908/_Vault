@@ -1,3 +1,5 @@
+// Task: Process commands against an in-memory collection of records.
+
 type Command =
   | { type: "ADD"; id: string; value: number }
   | { type: "UPDATE"; id: string; value: number }

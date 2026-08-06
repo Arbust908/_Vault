@@ -41,6 +41,7 @@ function MovieDetails({ title }: { title: Title | null }) {
 export default function App() {
   const [query, setQuery] = useState("");
   const [titles, setTitles] = useState<Title[]>([]);
+  const [resultCount, setResultCount] = useState(0);
   const [selected, setSelected] = useState<Title | null>(null);
   const [sortOrder, setSortOrder] = useState<SortOrder>("name");
   const [status, setStatus] = useState("idle");
@@ -52,6 +53,7 @@ export default function App() {
       searchTitles(query)
         .then((nextTitles) => {
           setTitles(nextTitles);
+          setResultCount(titles.length);
           setStatus("success");
         })
         .catch((reason: Error) => {
@@ -86,6 +88,7 @@ export default function App() {
         </select>
       </header>
       <section className="results" aria-live="polite">
+        <p>{resultCount} results</p>
         {status === "loading" && <p>Searching...</p>}
         {status === "error" && <p className="error">{error}</p>}
         {status === "success" && visibleTitles.length === 0 && (

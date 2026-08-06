@@ -1,3 +1,5 @@
+// Task: Normalize nested titles and genres into records keyed by ID.
+
 type ApiTitle = {
   id: string;
   title: string;

@@ -1,3 +1,5 @@
+// Task: Retry an asynchronous worker according to the provided options.
+
 export type RetryOptions = {
   attempts: number;
   delayMs: number;

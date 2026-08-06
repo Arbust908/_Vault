@@ -1,3 +1,5 @@
+// Task: Implement a fixed-capacity least recently used cache.
+
 export class LruCache<K, V> {
   constructor(private readonly capacity: number) {}
 

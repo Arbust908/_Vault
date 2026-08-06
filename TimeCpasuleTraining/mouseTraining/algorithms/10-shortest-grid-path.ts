@@ -1,3 +1,5 @@
+// Task: Find the shortest four-directional path between two grid points.
+
 type Point = readonly [row: number, column: number];
 
 export function shortestGridPath(

@@ -12,6 +12,7 @@ The existing implementation appears to work for a single search, but it behaves 
 - Cancel or ignore obsolete requests.
 - Never display results for an older query after a newer query completes.
 - Show loading, success, empty, and error states.
+- Render the visible result count and keep it consistent with the result list.
 - Sort results without mutating the source response.
 - Keep the selected detail panel consistent with the current result set.
 - Use labels, keyboard-friendly controls, and stable list keys.
@@ -31,4 +32,10 @@ npm install
 npm run dev
 ```
 
-Make your changes in `solution/`.
+Run the behavioral tests from this exercise directory with the exact command:
+
+```sh
+cd broken && npm test
+```
+
+The tests intentionally fail against the starting implementation. Make your implementation changes in `broken/src/App.tsx` until they pass.

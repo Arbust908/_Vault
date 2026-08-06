@@ -1,0 +1,7 @@
+{
+  "name": "mouse-training",
+  "private": true,
+  "scripts": {
+    "test": "bun test"
+  }
+}
