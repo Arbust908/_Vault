@@ -60,14 +60,18 @@ const find_friends_common_shows = (data) => {
             user_show_map.set(userId, [show])
         }
     }
-    // console.log(user_show_map.keys())
     const friendList = {};
+    console.log('user_show_map: ', user_show_map);
     const mapKeys = Array.from(user_show_map.keys());
     console.log(mapKeys);
     for (let j = 0; j < mapKeys.length; j++) {
         for (let k = j + 1; k < mapKeys.length; k++) {
             const pairKeys = `${mapKeys[j]},${mapKeys[k]}`
-            friendList[pairKeys] = [];
+            const user1Shows = user_show_map.get(mapKeys[j]);
+            const user2Shows = user_show_map.get(mapKeys[k]);
+            const match = user1Shows.filter((show) => user2Shows.includes(show))
+            
+            friendList[pairKeys] = match;
         }
     }
     

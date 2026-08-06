@@ -50,7 +50,44 @@ const user_show_pairs_2 = [
 
 // Function Signature
 const find_friends_common_shows = (data) => {
+  const showsByUser = new Map();
+  const showsInInputOrder = new Set();
 
+  for (const [userId, showName] of data) {
+    if (!showsByUser.has(userId)) {
+      showsByUser.set(userId, new Set());
+    }
+
+    showsByUser.get(userId).add(showName);
+    showsInInputOrder.add(showName);
+  }
+
+  const userIds = [...showsByUser.keys()].sort(
+    (firstId, secondId) => Number(firstId) - Number(secondId),
+  );
+  const commonShowsByPair = {};
+
+  for (let firstIndex = 0; firstIndex < userIds.length; firstIndex += 1) {
+    for (
+      let secondIndex = firstIndex + 1;
+      secondIndex < userIds.length;
+      secondIndex += 1
+    ) {
+      const firstUserId = userIds[firstIndex];
+      const secondUserId = userIds[secondIndex];
+      const firstUserShows = showsByUser.get(firstUserId);
+      const secondUserShows = showsByUser.get(secondUserId);
+
+      commonShowsByPair[`${firstUserId},${secondUserId}`] = [
+        ...showsInInputOrder,
+      ].filter(
+        (showName) =>
+          firstUserShows.has(showName) && secondUserShows.has(showName),
+      );
+    }
+  }
+
+  return commonShowsByPair;
 };
 
 find_friends_common_shows(user_show_pairs_1);
